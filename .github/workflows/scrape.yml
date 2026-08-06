@@ -1,0 +1,44 @@
+name: Daily eSewa review scrape
+
+on:
+  schedule:
+    # 18:30 UTC = 00:15 Asia/Kathmandu (next day). Adjust at crontab.guru if needed.
+    - cron: "30 18 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit the new CSVs back
+
+concurrency:
+  group: esewa-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: python scraper/esewa_ios_reviews.py
+
+      - name: Commit and push new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new reviews today — nothing to commit."
+          else
+            git commit -m "chore: daily eSewa review scrape $(date -u +'%Y-%m-%d')"
+            git push
+          fi
