@@ -326,8 +326,8 @@ async function handleFiles(fileList){
    Fills the dashboard straight from the CSVs your GitHub Action commits
    every day — no manual upload needed. Point this at your repo. */
 const GITHUB_CONFIG = {
-  owner: "adisharma58",     // <-- change this
-  repo: "esewa-review-analytics",     // <-- change this (repo name)
+  owner: "YOUR_GITHUB_USERNAME",     // <-- change this
+  repo: "esewa-review-pipeline",     // <-- change this (repo name)
   branch: "main",
 };
 function githubRawUrl(path){
@@ -361,7 +361,9 @@ async function syncFromGitHub({ full=false } = {}){
   for(const relPath of monthly){
     const text = await fetchText(githubRawUrl(`data/${relPath}`));
     if(!text) continue;
-    const label = `GitHub: ${relPath}`;
+    // Tagged "ios" so detectPlatform() matches on filename instead of falling
+    // back to ambiguous header-based guessing (this pipeline is iOS-only).
+    const label = `GitHub-ios: ${relPath}`;
     const parsed = rowsFromParsed(parseCsvText(text), label);
     if(parsed && parsed.length){
       newRows.push(...parsed);
