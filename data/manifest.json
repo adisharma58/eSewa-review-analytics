@@ -1,0 +1,11 @@
+{
+  "last_run_utc": "2026-08-06T08:05:06+00:00",
+  "last_run_new_reviews": 16,
+  "total_reviews_seen": 16,
+  "daily_files": [
+    "daily/2026-08-06.csv"
+  ],
+  "monthly_files": [
+    "monthly/2026-08.csv"
+  ]
+}
