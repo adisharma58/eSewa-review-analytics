@@ -43,14 +43,35 @@ site/index.html                the dashboard (deploy this to Vercel)
 ```
 
 ### Why "daily" and "monthly" files, not weekly?
+"Weekly" and "monthly" views in the dashboard itself are just date-range
+filters (it already has Today / 7D / 30D / All / Custom presets) over
+whatever monthly CSVs you've loaded — you don't need separate weekly files
+for that. Daily and monthly files exist to keep individual commits small
+and let the dashboard load only the recent months it needs.
+
+### How reviews get filed
 Apple's review feed has no concept of a date range — each run just returns
-the most recent reviews per storefront. The scraper compares against
-`seen_ids.json` to figure out what's *new* since the last run, writes that
-batch to `data/daily/<today>.csv`, and also appends it to the current
-month's file. "Weekly" and "monthly" views in the dashboard itself are just
-date-range filters (it already has Today / 7D / 30D / All / Custom presets)
-over whatever monthly CSVs you've loaded — you don't need separate weekly
-files for that.
+the most recent reviews per storefront. Every review already carries its
+own posted date though, so instead of dumping everything a run finds into
+"today's" file, the scraper:
+
+1. Figures out "today" in **Nepal time** first (the daily cron is
+   deliberately scheduled for 00:15 NPT, so by run time all of "yesterday"
+   NPT is finished and safe to treat as complete).
+2. Converts each review's own posted timestamp to an NPT calendar date and
+   files it under `data/daily/<that date>.csv` and `data/monthly/<that
+   month>.csv` — not the date the script happened to run.
+3. Skips any review posted **today** entirely (not written anywhere, not
+   marked as seen) — today's count is still incomplete and will keep
+   climbing until the day is over, so it's picked up on a later run once
+   it's no longer "today".
+4. After writing, checks whether every day from the 1st of the current
+   month through yesterday has a `data/daily/<date>.csv` file yet, and
+   prints a warning listing any that don't. This mostly self-heals (a
+   missed day's reviews are often still in Apple's recent-reviews window
+   and get caught on a later run), but on a very high-volume day a review
+   could in theory age out of that window before any run ever sees it —
+   the warning is a visibility check, not a guarantee of zero gaps.
 
 ## Setup
 
