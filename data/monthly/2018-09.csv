@@ -1,0 +1,4 @@
+﻿country,review_id,author,rating,title,review_text,date,app_version
+us,3245803912,Ghalu,1,Nice app but,Cant even register,2018-09-29T18:48:08-07:00,5.0.5
+us,3205586294,codenameA6,1,Need Siri Shortcuts feature for eSewa,"Please integrate the new Siri Shortcuts feature for iOS 12.  Asking Siri something like ""Top up my phone"", which will top up the phone balance if there is credit available in the wallet. This is an awesome feature that will increase the utility of the app.",2018-09-19T01:19:16-07:00,5.0.4
+us,3153134050,2k.psychopath,5,Perfectly working,"Now app is perfectly working, with Touch ID confirmation it's even more faster. Thanks esewa for making my life easier.",2018-09-04T10:29:14-07:00,5.0.3

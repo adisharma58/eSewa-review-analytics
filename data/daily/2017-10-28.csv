@@ -1,0 +1,4 @@
+﻿country,review_id,author,rating,title,review_text,date,app_version
+us,1880951375,Adbinod,1,Buggy update,There were back to back 2 updates but the  ‘app data needs to be cleared’ error is not yet resolved. The SMS version is probably better in context of nepal where there is no internet coverage everywhere. And the asking for mobile number for logging in at the beginning isn’t that necessary and useful as everyone has their PIN. What the developer needs to do is make the app ask for users which method do they want to proceed with.,2017-10-28T06:22:18-07:00,4.0.1
+us,1880482213,Baron3356,1,Error,Needs app data to be cleared for login. I uninstalled the app and downloaded again but still have same problem. What to do? Please fix it,2017-10-28T01:38:20-07:00,4.0.1
+us,1880325527,8i3ek,3,Not working,Not working,2017-10-27T23:59:03-07:00,4.0.1
