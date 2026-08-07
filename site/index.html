@@ -373,8 +373,8 @@ async function syncFromGitHub({ full=false } = {}){
   if(!newRows.length) return false;
 
   // Replace rather than append, so re-syncing never double-counts.
-  state.rows = state.rows.filter(r=>!String(r.sourceFile).startsWith("GitHub: ")).concat(newRows);
-  state.sourceFiles = state.sourceFiles.filter(f=>!String(f).startsWith("GitHub: ")).concat(loadedFiles);
+  state.rows = state.rows.filter(r=>!String(r.sourceFile).startsWith("GitHub-ios: ")).concat(newRows);
+  state.sourceFiles = state.sourceFiles.filter(f=>!String(f).startsWith("GitHub-ios: ")).concat(loadedFiles);
   state.error = "";
   return true;
 }
