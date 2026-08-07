@@ -15,7 +15,7 @@ runner is thrown away after every job. The "state" that lets us know
 which reviews are new is `data/seen_ids.json`, which is committed back
 to the repo at the end of each run (see .github/workflows/scrape.yml).
 
-Routing logic (this is the important part)
+Routing logic
 --------------------------------------------
 Every review already carries its own posted date (Apple's `updated`
 field), so instead of dumping everything this run found into
@@ -39,11 +39,18 @@ belongs to:
      that don't are reported as "missing days" -- there's no way to
      force-fetch a specific historical date from Apple's feed (it only
      ever returns the most recent ~500 reviews per storefront), so this
-     is a visibility check, not something the script can always fix:
-     most of the time it self-heals (a review from a missed day is
-     still sitting in the feed's recent window and gets caught on a
-     later run), but on a very high-review-volume day it's possible for
-     a review to age out of that window before any run ever sees it.
+     is a visibility check, not something the script can always fix.
+
+Reliability (this is the part that fixes GitHub-vs-local discrepancies)
+--------------------------------------------
+Apple's iTunes RSS feed is known to throttle/reject plain "python-requests"
+traffic from datacenter IPs (like GitHub Actions runners) more
+aggressively than it does traffic that looks like a normal browser.
+Every request sends a realistic User-Agent header, and transient
+failures (403 / 429 / 503 / network errors) are retried a few times
+with backoff instead of silently giving up on that page/country. Every
+failure is also printed, so a bad run is visible in the Actions log
+instead of just quietly under-counting.
 
 No API key needed -- uses Apple's free public RSS feed:
 https://itunes.apple.com/{country}/rss/customerreviews/id={app_id}/sortby=mostrecent/page={page}/json
@@ -84,11 +91,21 @@ COUNTRIES = [
     "mz","mm","na","np","nl","nz","ni","ne","ng","no","om","pk","pw","pa","pg","py",
     "pe","ph","pl","pt","qa","ro","ru","rw","sa","sn","sc","sl","sg","sk","si","sb",
     "za","es","lk","kn","lc","vc","sr","sz","se","ch","tw","tj","tz","th","tn","tr",
-    "tm","tc","ug","ua","ae","gb","us","uy","uz","ve","vn","ye","zm","zw","bs","bf"
+    "tm","tc","ug","ua","ae","gb","us","uy","uz","ve","vn","ye","zm","zw","bs",
 ]
 
 MAX_PAGES = 10        # Apple's RSS feed caps out around page 10 per storefront
-REQUEST_DELAY = 0.5   # seconds between requests, to stay polite to Apple's servers
+REQUEST_DELAY = 0.8   # seconds between requests, to stay polite to Apple's servers
+MAX_RETRIES = 3        # retries per request before giving up on that page
+RETRY_BACKOFF = 3       # seconds, doubles each retry
+
+# A realistic browser User-Agent noticeably improves reliability from CI
+# datacenter IPs (see module docstring above).
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": "application/json, text/plain, */*",
+}
 
 FIELDNAMES = [
     "country", "review_id", "author", "rating", "title",
@@ -104,20 +121,38 @@ SEEN_IDS_PATH = os.path.join(DATA_DIR, "seen_ids.json")
 MANIFEST_PATH = os.path.join(DATA_DIR, "manifest.json")
 
 
+def fetch_page(country: str, page: int):
+    """Fetch one review page, retrying transient failures (rate limits, blips)
+    a few times before giving up. Returns parsed JSON, or None on hard failure."""
+    url = (
+        f"https://itunes.apple.com/{country}/rss/customerreviews/"
+        f"id={APP_ID}/sortby=mostrecent/page={page}/json"
+    )
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=20)
+            if resp.status_code == 200:
+                return resp.json()
+            if resp.status_code in (403, 429, 503):
+                print(f"    [{country} p{page}] HTTP {resp.status_code}, "
+                      f"retry {attempt}/{MAX_RETRIES} in {RETRY_BACKOFF*attempt}s")
+                time.sleep(RETRY_BACKOFF * attempt)
+                continue
+            return None  # e.g. 404 -- genuinely no more pages, not an error
+        except (requests.RequestException, json.JSONDecodeError) as e:
+            print(f"    [{country} p{page}] {type(e).__name__}, "
+                  f"retry {attempt}/{MAX_RETRIES} in {RETRY_BACKOFF*attempt}s")
+            time.sleep(RETRY_BACKOFF * attempt)
+    print(f"    [{country} p{page}] gave up after {MAX_RETRIES} retries")
+    return None
+
+
 def fetch_reviews_for_country(country: str):
     """Fetch all review pages for one country storefront."""
     reviews = []
     for page in range(1, MAX_PAGES + 1):
-        url = (
-            f"https://itunes.apple.com/{country}/rss/customerreviews/"
-            f"id={APP_ID}/sortby=mostrecent/page={page}/json"
-        )
-        try:
-            resp = requests.get(url, timeout=15)
-            if resp.status_code != 200:
-                break
-            data = resp.json()
-        except (requests.RequestException, json.JSONDecodeError):
+        data = fetch_page(country, page)
+        if data is None:
             break
 
         entries = data.get("feed", {}).get("entry")
@@ -203,7 +238,6 @@ def append_csv(path: str, rows: list):
         if not file_exists:
             writer.writeheader()
         writer.writerows(rows)
-
 
 
 def update_manifest(committed_count: int, total_seen: int, skipped_today: int, missing_days: list):
