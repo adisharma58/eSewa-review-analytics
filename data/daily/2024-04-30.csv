@@ -1,0 +1,2 @@
+﻿country,review_id,author,rating,title,review_text,date,app_version
+np,11216948659,Darin94,1,New device not detected,The app asks for PIN code when detected a new device yet doesn’t provide the PIN code when sending the SMS. I wanted to log in through my iPad and I send the SMS from my contact number but it failed to provide me with the code every time.Very frustrating experience. Please improve your new device detecting methods.,2024-04-30T07:54:07-07:00,5.5.4
