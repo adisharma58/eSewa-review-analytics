@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-08T19:09:37+00:00",
-  "last_run_new_reviews": 1,
+  "last_run_utc": "2026-08-09T19:13:12+00:00",
+  "last_run_new_reviews": 0,
   "last_run_skipped_today": 0,
   "total_reviews_seen": 866,
   "daily_files": [
@@ -713,6 +713,7 @@
   ],
   "missing_days_current_month": [
     "2026-08-02",
-    "2026-08-08"
+    "2026-08-08",
+    "2026-08-09"
   ]
 }
