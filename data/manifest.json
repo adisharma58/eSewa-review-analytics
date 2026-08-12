@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-08-11T19:36:15+00:00",
+  "last_run_utc": "2026-08-12T19:39:33+00:00",
   "last_run_new_reviews": 0,
   "last_run_skipped_today": 0,
   "total_reviews_seen": 868,
@@ -716,6 +716,7 @@
   "missing_days_current_month": [
     "2026-08-02",
     "2026-08-10",
-    "2026-08-11"
+    "2026-08-11",
+    "2026-08-12"
   ]
 }
