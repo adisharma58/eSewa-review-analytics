@@ -1,4 +1,4 @@
-name: Daily eSewa review scrape
+﻿name: Daily eSewa review scrape
 
 on:
   schedule:
@@ -28,8 +28,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Run scraper
+      - name: Run iOS scraper
         run: python scraper/esewa_ios_reviews.py
+
+      - name: Run Android scraper
+        run: python scraper/esewa_android_reviews.py
 
       - name: Commit and push new data
         run: |
@@ -37,7 +40,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           if git diff --cached --quiet; then
-            echo "No new reviews today — nothing to commit."
+            echo "No new reviews today - nothing to commit."
           else
             git commit -m "chore: daily eSewa review scrape $(date -u +'%Y-%m-%d')"
             git push
