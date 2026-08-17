@@ -2,12 +2,11 @@
 
 on:
   schedule:
-    # 18:30 UTC = 00:15 Asia/Kathmandu (next day). Adjust at crontab.guru if needed.
     - cron: "30 18 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write   # needed so the workflow can commit the new CSVs back
+  contents: write
 
 concurrency:
   group: esewa-scrape
@@ -34,9 +33,6 @@ jobs:
       - name: Run iOS scraper
         run: python scraper/esewa_ios_reviews.py
 
-      - name: Run Android scraper
-        run: python scraper/esewa_android_reviews.py
-
       - name: Commit and push new data
         run: |
           git config user.name "github-actions[bot]"
@@ -48,9 +44,7 @@ jobs:
             echo "No new reviews today - nothing to commit."
           else
             git commit -m "chore: daily eSewa review scrape $(date -u +'%Y-%m-%d')"
-
             git fetch origin main
             git rebase origin/main
-
             git push origin main
           fi
