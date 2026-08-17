@@ -1,0 +1,6 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,ebbf407e-2165-408a-9ac5-848353e66386,A Google user,5,Good app,2017-11-28T12:51:40,
+en-np,1a0f3136-8597-45db-b273-23470805f76f,A Google user,4,"All is fine, except a bug in new version. Keeps asking to upgrade to a lower version 3.0.6 while latest version is 3.0.9.",2017-11-28T05:23:13,3.0.9
+en-np,f91c6a1d-f6a3-4c46-9abd-670c88cb884b,A Google user,5,Very nice app,2017-11-28T04:43:28,3.0.9
+en-np,87e67db0-083f-42bf-a28e-eaf7490e4542,A Google user,4,Nice app,2017-11-28T03:51:46,3.0.9
+en-np,7fa08efd-a809-4c9b-bdab-ea25e15e36a4,A Google user,2,This app forces to use us its default settings. If we do not allow the read contact and manage calls this app does not work. Why would esewa want to manage our calls and why should we let do it.,2017-11-28T02:38:40,2.4.2

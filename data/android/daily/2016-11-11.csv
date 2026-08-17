@@ -1,0 +1,4 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,42cf62c7-8031-4538-bdf6-f2ed56b0ed7d,A Google user,5,Awesome service,2016-11-11T15:08:29,1.6.4
+en-np,c9844a99-b8e1-4d27-94a2-5550276c6bd7,A Google user,4,"Hello eSewa! Would you please add an option to choose between sim 1 & sim 2 for sending sms? I had to open an account via a Ncell number and my account is a verified one. But doing transactions via Ncell number takes Rs 0.50 per sms, so I added a NTC number too but, everytime I try to do transactions using sim 2, it always send sms through sim 1 (Ncell) which is deducting my sim's balance. In short, I am not able to perform transactions using my NTC number.",2016-11-11T12:50:49,1.8.6
+en-np,ff3bc96e-4c0b-4c24-8217-95d27e44a3e2,A Google user,2,Is there any bugs!!!,2016-11-11T11:57:32,1.8.6

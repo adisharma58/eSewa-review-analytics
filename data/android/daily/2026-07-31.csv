@@ -1,0 +1,35 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,8e4d4ef4-5e03-4d36-893e-2d373e25283a,Kraneel Manandhar,1,"eSewa’s account recovery pipeline is dysfunctional. After losing my phone, attempting a credential reset exposed severe UI/UX logic gaps. While the backend dispatches an OTP, the app fails to render an input field to consume the token. It fires off an authentication challenge into an interface vacuum with no way to complete the handshake. Unhandled edge cases and broken state management make recovery impossible.",2026-07-31T16:34:28,4.9.0.0
+en-np,32998a5b-5356-46de-b9f1-9a0fbdf51b40,Sujal Dhami,5,💔,2026-07-31T14:07:56,
+en-np,03b4cbd7-0872-4271-b4b4-61d0882f6f99,Bikki Kasaudhan,5,perfect aap,2026-07-31T12:08:21,4.9.0.0
+en-np,3aed567b-4559-4e4c-82b8-0d27ad4d5988,Dhruba Don,5,esewa is so easy transfer the money,2026-07-31T11:38:24,4.9.0.0
+en-np,2dbc8b84-3b09-43d5-b492-58e8bc95b93a,ayusha rai,3,There are some glitches in critical situations..,2026-07-31T11:32:07,4.9.0.0
+en-np,89a65af2-5b2b-46aa-a41f-f5c4bdc00343,Jay Prakash Jalan,4,Good 👍,2026-07-31T11:29:28,4.9.0.0
+en-np,a7956e8f-23f8-4d24-b8bd-716f819d9831,Dipesh Thakur,3,good,2026-07-31T11:23:27,
+en-np,ceab41ae-eb90-4ffc-b6ea-f479cf13f19a,Dipendra Bista,5,nice but why didn't I get my second loan,2026-07-31T11:13:00,4.9.0.0
+en-np,3ccf8774-d6d3-441f-bd8c-aeae355ab734,Prithivi God,5,it's awesome,2026-07-31T10:23:31,4.9.0.0
+en-np,d2aef0e7-b0da-4fae-b5c2-e7bc949c4447,Xettri Sagar,4,excellent,2026-07-31T10:14:06,
+en-np,7101c3aa-a74f-4139-88e3-ae320ba37907,Sandesh Pariyar,5,very good but limit problem,2026-07-31T09:55:34,4.9.0.0
+en-np,76482d83-5423-42f0-a769-cb10435a3829,Kumar Edward,5,just app is clean and easy for use I can teach my parents and it's just simple,2026-07-31T09:49:12,4.9.0.0
+en-np,027b7b61-47fb-4008-852a-ccd9ff485424,Aakash Sharma,5,very good,2026-07-31T09:38:39,4.4.2.2
+en-np,047e7ccb-961f-44d5-abc2-74255c34274b,Supreme khanal,3,"Not a very good aap , spends alot",2026-07-31T09:24:25,4.9.0.0
+en-np,5cc38d6b-4d0b-420e-adc6-b5987d7f9c9e,Sabin Bohara,1,Kun Din esawa ley Malai Bhada Dhuna lagaunay Awasta aauxa net Ramro xa mbl lag xaina tei pni qr scan na huni Ani payment Garda pin handa pni payment na bhaidenay starting ma ramrai chaltheyo aja voli Ali update ma feri paila ko jastai low internet connection vaye pni ramro chalni banaunu paryo like Khalti.,2026-07-31T09:04:03,4.7.0.1
+en-np,9e7b3829-1a72-49ac-948f-6e3796f3a920,Bishal Maharjan,5,excellent,2026-07-31T09:03:41,4.9.0.0
+en-np,336859dd-85b1-43e5-99ae-b594d6a44303,Gaurav Xettri,1,"worst experience. whenever I need to pay someone, the server gets down",2026-07-31T08:47:57,4.9.0.0
+en-np,80de6d78-9f70-483d-89ad-ce291562942c,Michael Sharma,4,nice and some time its server will down suddenly,2026-07-31T08:13:02,4.9.0.0
+en-np,bcf7ef3a-5cf2-48b5-a105-855dd941042e,Nishma Garbuja,5,it's good,2026-07-31T08:12:42,4.9.0.0
+en-np,e4093de7-952b-433d-aefb-4d8de087014f,Abhimanyu Dubey,5,Nice,2026-07-31T08:10:48,4.9.0.0
+en-np,9e57402f-e6cc-482a-aa5a-d7d719f29d85,Niranjan Bhagat,5,Nice 👍,2026-07-31T07:57:35,4.9.0.0
+en-np,6d40f43c-e59f-4c00-b97f-3457002701a2,Bhuwan Bashyal,5,very good,2026-07-31T07:31:25,4.9.0.0
+en-np,19486d21-a356-4700-a32a-b0b8acdedc52,Rameshkumar Yadav,4,not so good but not so bad also,2026-07-31T06:41:34,4.9.0.0
+en-np,7cd322f2-682c-45ae-9a01-83ccce0329e1,Thor parker,5,😮‍💨 good,2026-07-31T06:39:34,
+en-np,a7d725b5-5154-4a63-b035-aac95803f069,Sangam Shrestha,4,nice,2026-07-31T06:12:56,4.9.0.0
+en-np,c44b0fbe-99d1-4d7b-b7af-c03d81a7bab5,ARMAN gaming,1,worst...app so many giltch,2026-07-31T05:44:47,4.9.0.0
+en-np,0da742c5-6bf9-4010-af2c-48e8fbf31abe,Sri Shrestha,4,good luck,2026-07-31T05:32:43,4.9.0.0
+en-np,bca7cbc4-df50-4abe-833d-11482310c0f5,Prajwol bhandara,4,Best,2026-07-31T05:19:46,4.9.0.0
+en-np,ce84851e-b73a-4bf9-869b-1950cfb90fc8,Alis,1,the app is horrendous. it rarely works when you need it and constantly logs you out,2026-07-31T05:13:11,
+en-np,f8ebfa35-1969-4cc4-a720-77d660ad9a55,Rim Lama,5,sajilo,2026-07-31T04:26:20,4.9.0.0
+en-np,a68edc8c-a0aa-4aca-a0a0-184b2fe6bba4,Muhammad Imran,1,why this app is not for Pakistan,2026-07-31T03:34:16,4.9.0.0
+en-np,3ad9967e-9496-4ae3-a529-22844d7496bc,Angat Chaudhary,5,wowo,2026-07-31T03:01:45,4.9.0.0
+en-np,f6953398-7c12-4ab5-a74a-70d313f26e42,Kedar Guni,5,it was bank service helping app,2026-07-31T02:09:04,4.9.0.0
+ne-np,30fdf2d6-4997-4e74-823a-7f44c430be6a,Ngima Dendi Sherpa,1,अनावश्यक पैसा काट्ने रहेछ।,2026-07-31T03:13:27,4.9.0.0

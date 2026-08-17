@@ -1,0 +1,5 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,1dd061f2-11dc-40e2-b469-f90afa52dcb2,Noor Bista,5,Nice app,2025-08-14T17:25:27,4.5.0.0
+en-np,05618481-8037-46f2-9476-06c13ab01f36,Sudeep Shah,1,"Even for banking apps, location data is optional but to collect user data this app requires location data that too compulsory to grant even for mobile recharge.",2025-08-14T11:25:03,4.5.0.1
+en-np,eb5be0ee-617d-4058-97c3-d625f072075d,partima Thapa,5,good,2025-08-14T01:21:53,4.5.0.1
+en-np,64aa5dd1-196a-4e13-937d-9938cf9168d6,Aakash Ram,5,good,2025-08-14T00:45:35,4.5.0.1

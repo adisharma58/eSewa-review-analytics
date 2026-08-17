@@ -1,0 +1,1656 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,8e4d4ef4-5e03-4d36-893e-2d373e25283a,Kraneel Manandhar,1,"eSewa’s account recovery pipeline is dysfunctional. After losing my phone, attempting a credential reset exposed severe UI/UX logic gaps. While the backend dispatches an OTP, the app fails to render an input field to consume the token. It fires off an authentication challenge into an interface vacuum with no way to complete the handshake. Unhandled edge cases and broken state management make recovery impossible.",2026-07-31T16:34:28,4.9.0.0
+en-np,32998a5b-5356-46de-b9f1-9a0fbdf51b40,Sujal Dhami,5,💔,2026-07-31T14:07:56,
+en-np,03b4cbd7-0872-4271-b4b4-61d0882f6f99,Bikki Kasaudhan,5,perfect aap,2026-07-31T12:08:21,4.9.0.0
+en-np,3aed567b-4559-4e4c-82b8-0d27ad4d5988,Dhruba Don,5,esewa is so easy transfer the money,2026-07-31T11:38:24,4.9.0.0
+en-np,2dbc8b84-3b09-43d5-b492-58e8bc95b93a,ayusha rai,3,There are some glitches in critical situations..,2026-07-31T11:32:07,4.9.0.0
+en-np,89a65af2-5b2b-46aa-a41f-f5c4bdc00343,Jay Prakash Jalan,4,Good 👍,2026-07-31T11:29:28,4.9.0.0
+en-np,a7956e8f-23f8-4d24-b8bd-716f819d9831,Dipesh Thakur,3,good,2026-07-31T11:23:27,
+en-np,ceab41ae-eb90-4ffc-b6ea-f479cf13f19a,Dipendra Bista,5,nice but why didn't I get my second loan,2026-07-31T11:13:00,4.9.0.0
+en-np,3ccf8774-d6d3-441f-bd8c-aeae355ab734,Prithivi God,5,it's awesome,2026-07-31T10:23:31,4.9.0.0
+en-np,d2aef0e7-b0da-4fae-b5c2-e7bc949c4447,Xettri Sagar,4,excellent,2026-07-31T10:14:06,
+en-np,7101c3aa-a74f-4139-88e3-ae320ba37907,Sandesh Pariyar,5,very good but limit problem,2026-07-31T09:55:34,4.9.0.0
+en-np,76482d83-5423-42f0-a769-cb10435a3829,Kumar Edward,5,just app is clean and easy for use I can teach my parents and it's just simple,2026-07-31T09:49:12,4.9.0.0
+en-np,027b7b61-47fb-4008-852a-ccd9ff485424,Aakash Sharma,5,very good,2026-07-31T09:38:39,4.4.2.2
+en-np,047e7ccb-961f-44d5-abc2-74255c34274b,Supreme khanal,3,"Not a very good aap , spends alot",2026-07-31T09:24:25,4.9.0.0
+en-np,5cc38d6b-4d0b-420e-adc6-b5987d7f9c9e,Sabin Bohara,1,Kun Din esawa ley Malai Bhada Dhuna lagaunay Awasta aauxa net Ramro xa mbl lag xaina tei pni qr scan na huni Ani payment Garda pin handa pni payment na bhaidenay starting ma ramrai chaltheyo aja voli Ali update ma feri paila ko jastai low internet connection vaye pni ramro chalni banaunu paryo like Khalti.,2026-07-31T09:04:03,4.7.0.1
+en-np,9e7b3829-1a72-49ac-948f-6e3796f3a920,Bishal Maharjan,5,excellent,2026-07-31T09:03:41,4.9.0.0
+en-np,336859dd-85b1-43e5-99ae-b594d6a44303,Gaurav Xettri,1,"worst experience. whenever I need to pay someone, the server gets down",2026-07-31T08:47:57,4.9.0.0
+en-np,80de6d78-9f70-483d-89ad-ce291562942c,Michael Sharma,4,nice and some time its server will down suddenly,2026-07-31T08:13:02,4.9.0.0
+en-np,bcf7ef3a-5cf2-48b5-a105-855dd941042e,Nishma Garbuja,5,it's good,2026-07-31T08:12:42,4.9.0.0
+en-np,e4093de7-952b-433d-aefb-4d8de087014f,Abhimanyu Dubey,5,Nice,2026-07-31T08:10:48,4.9.0.0
+en-np,9e57402f-e6cc-482a-aa5a-d7d719f29d85,Niranjan Bhagat,5,Nice 👍,2026-07-31T07:57:35,4.9.0.0
+en-np,6d40f43c-e59f-4c00-b97f-3457002701a2,Bhuwan Bashyal,5,very good,2026-07-31T07:31:25,4.9.0.0
+en-np,19486d21-a356-4700-a32a-b0b8acdedc52,Rameshkumar Yadav,4,not so good but not so bad also,2026-07-31T06:41:34,4.9.0.0
+en-np,7cd322f2-682c-45ae-9a01-83ccce0329e1,Thor parker,5,😮‍💨 good,2026-07-31T06:39:34,
+en-np,a7d725b5-5154-4a63-b035-aac95803f069,Sangam Shrestha,4,nice,2026-07-31T06:12:56,4.9.0.0
+en-np,c44b0fbe-99d1-4d7b-b7af-c03d81a7bab5,ARMAN gaming,1,worst...app so many giltch,2026-07-31T05:44:47,4.9.0.0
+en-np,0da742c5-6bf9-4010-af2c-48e8fbf31abe,Sri Shrestha,4,good luck,2026-07-31T05:32:43,4.9.0.0
+en-np,bca7cbc4-df50-4abe-833d-11482310c0f5,Prajwol bhandara,4,Best,2026-07-31T05:19:46,4.9.0.0
+en-np,ce84851e-b73a-4bf9-869b-1950cfb90fc8,Alis,1,the app is horrendous. it rarely works when you need it and constantly logs you out,2026-07-31T05:13:11,
+en-np,f8ebfa35-1969-4cc4-a720-77d660ad9a55,Rim Lama,5,sajilo,2026-07-31T04:26:20,4.9.0.0
+en-np,a68edc8c-a0aa-4aca-a0a0-184b2fe6bba4,Muhammad Imran,1,why this app is not for Pakistan,2026-07-31T03:34:16,4.9.0.0
+en-np,3ad9967e-9496-4ae3-a529-22844d7496bc,Angat Chaudhary,5,wowo,2026-07-31T03:01:45,4.9.0.0
+en-np,f6953398-7c12-4ab5-a74a-70d313f26e42,Kedar Guni,5,it was bank service helping app,2026-07-31T02:09:04,4.9.0.0
+en-np,27305ac6-7d24-42c3-b558-5e021ea1be46,Amit Paswan,5,lovely,2026-07-30T16:56:20,4.9.0.0
+en-np,9c0fe587-4df8-4287-b711-9b5b21301826,Aasif Ansari,5,Please update my kyc fast please this is one pending now so I request you and your team to solve my problem fast and open my esewa thank you I am waiting for your call thank you ❤️❤️,2026-07-30T15:15:31,4.9.0.0
+en-np,b0c37d29-b0f5-48fc-b516-3c2dfd0fb238,Hom Bk,4,slow wifi ma paid garyo vane poisa janxa tara. total amount ma jai katdina amount ani paxi wifi chlyo vane jai katdinxa yo problem solutions gardina paryo.,2026-07-30T11:44:45,
+en-np,14768a09-73a9-494c-95ad-03c4456b6f55,Ash,1,"PAisa phatayo uta jadina yeta katcha ,kam chaina e sewa ko",2026-07-30T11:12:00,4.9.0.0
+en-np,5eebadb1-d318-4480-b110-f389de4b5bda,Santu Kumal,5,राम्रो छैन तेरो app,2026-07-30T11:08:32,4.9.0.0
+en-np,9da2cbb8-bec3-4a9c-8e05-97cbc9409067,Bikash,4,ok,2026-07-30T10:58:53,4.9.0.0
+en-np,0de219af-384b-497e-be21-902959a44af3,Shashibhushan Yadav,5,"very good app for students mostly but sometimes thair server problem solve, fixed this problem. Thank you.",2026-07-30T10:38:25,4.9.0.0
+en-np,bb42133c-433a-472e-a17c-d84042ba0cd7,Nischal Dulal,5,nice,2026-07-30T10:32:41,4.4.0.0
+en-np,033119de-3723-4ab0-8c7b-39803c2a87b2,Qatar,5,easy to pay,2026-07-30T10:21:36,
+en-np,86268fed-8f89-4d60-b211-e12df579905e,Aaditya Ranabhat,1,please improve your sever problems,2026-07-30T10:09:35,
+en-np,a79d7043-743a-4487-ba2f-245e540ca264,Briju Innocent,5,excellent,2026-07-30T10:09:26,4.9.0.0
+en-np,4fa66a22-fa78-464f-8d36-c0e5773b9ddb,Kishor Shrestha,5,Good,2026-07-30T09:41:12,4.9.0.0
+en-np,63868509-e894-45ee-bb72-00aa99ad13d4,Susil Magar,5,nice,2026-07-30T08:57:40,4.9.0.0
+en-np,b1bc67fc-2a3d-4dc3-8d7e-85f19fb41b83,Sajan Dulal,1,not good,2026-07-30T08:48:54,4.9.0.0
+en-np,389eed53-696f-4a66-bec5-bfd900d68e5d,Deeps Sen,5,best app,2026-07-30T08:35:33,4.9.0.0
+en-np,abc02ec2-43e7-4075-81be-726e0935bc3d,Sunil Singh,1,Bekar xa kaam xain yo esewa app,2026-07-30T08:17:42,3.8.17
+en-np,542d2d48-7866-43b7-9a1e-f1b0d4881b5d,aashish singh,5,Good Service 💯,2026-07-30T08:06:41,4.9.0.0
+en-np,f8b77145-c702-4ce8-9c3d-e5a62e5f369f,Utsav Chy,5,esewa my first account has been lost so give me my new account,2026-07-30T08:01:44,4.9.0.0
+en-np,a208680e-f7ba-4db6-b2f2-4e82e5a6e27d,Diwash R.magar,4,good,2026-07-30T08:01:08,
+en-np,0de6ad58-2735-4da5-9ffc-fa4492238935,PES GAMING,5,good app,2026-07-30T07:42:36,4.9.0.0
+en-np,27655a78-c7bf-4e18-ba40-186aad7590d9,Rajesh Pratap Jung Thapa,5,nice,2026-07-30T07:41:44,4.9.0.0
+en-np,0a4f70f8-150e-422b-bb0b-123973774a3b,Bishleshan Aryal,5,it's very helpful,2026-07-30T06:41:15,4.9.0.0
+en-np,2d1c5545-ede4-4fd8-b242-ebd2f965ce51,DHR EDIT,4,Prefect,2026-07-30T06:15:50,4.9.0.0
+en-np,efddd0b1-e492-4871-b6cc-60dbfd69fe78,Nitesh Karki,1,can't work when I need to use,2026-07-30T05:38:00,4.9.0.0
+en-np,31683649-b283-44b4-ad38-6d2a0a83233a,Aalok sah,1,not good,2026-07-30T05:30:15,4.9.0.0
+en-np,306861af-f238-474b-9d28-39608cfad4fa,Prakash Shahi,5,best wallet in nepal,2026-07-30T04:28:02,
+en-np,8d2a722d-7830-4e32-9f49-4383b3e9855d,Milan tamang,4,good,2026-07-30T04:27:19,4.9.0.0
+en-np,7f67104c-9465-4c04-b5ac-1fbd9fafd9b2,Santosh Chy,5,good,2026-07-30T03:38:18,4.9.0.0
+en-np,05de2bc5-e4e8-4a0a-9125-0ff81723fa4a,Sumit Thakur,5,Very satisfied.,2026-07-30T03:01:40,4.9.0.0
+en-np,cd1c0f8f-f132-471a-a96e-b9dd7f6c7738,Arjun Chaudhary,4,it's reliable and easy,2026-07-30T02:34:29,3.8.18
+en-np,115bfa8b-3531-4d73-8614-68d600024228,Krishmas Chaudhary,5,good app,2026-07-30T02:25:56,4.9.0.0
+en-np,3cdcb42d-8617-414a-92e4-f69ee225bb98,Mina Deuba,5,it's very very good app to use,2026-07-30T02:19:14,4.9.0.0
+en-np,73d8dea5-8c10-4e6a-92e0-c8aa5493b299,Dipesh Poudel,1,scamm appp this,2026-07-29T20:05:02,4.9.0.0
+en-np,b9a1feb5-f5a6-4d2c-9731-8657b1f8020d,Bibek Mobile,5,great experience,2026-07-29T19:17:22,4.9.0.0
+en-np,8c12feda-d2cd-47ab-b26a-88325f6735a2,Dhiraj Pujari,2,"Often gets bugged. What's the point of having digital wallet when I can't even spend the money when needed. Today i was filling fuel, esewa didn't work. It wasn't internet problem. Not once but it has happened frequently. ""Sorry! Can't connect now. Please, try again later!"". So I'm to stand here for who knows how many hours before I can be able to use my own money? If only other e-wallets were more convenient, I would fully stop using this app.",2026-07-29T18:40:23,4.7.0.3
+en-np,25adf0fd-cd52-43d8-a6ff-16879336561f,Gurans Jungle Resort,4,i feel better than another mb system,2026-07-29T11:49:11,
+en-np,55045a49-35c2-47da-ae2e-b5a4c3666927,Abinash Chaudhary,5,i solve my all problem with this app esewa,2026-07-29T11:45:07,4.9.0.0
+en-np,d4801d58-77d8-4087-9465-f445f3461920,Mr Sadam,1,worst wallet because of server problem,2026-07-29T11:33:54,4.9.0.0
+en-np,d573a2b4-d360-40c7-8e5a-1b82738f121a,muna bajgain,1,kun din vada najhauxa esewa ley malai,2026-07-29T11:07:46,
+en-np,60c8217b-bd6f-48dd-9215-ec24fa95cf66,Upendra Tamang,5,this app was amazing,2026-07-29T11:04:20,4.9.0.0
+en-np,2058532b-81fc-4358-a195-446b85045f4b,Me Raj,5,good,2026-07-29T10:58:01,4.9.0.0
+en-np,b21b2a15-9b03-4806-b10b-17eeeb61418d,Bijay Kunwar,1,bad app,2026-07-29T10:55:22,4.9.0.0
+en-np,fe6b89b0-1ec8-465a-81de-ab30dc9d7e9a,Rabin Chand,5,very easy and helpful,2026-07-29T10:30:54,4.9.0.0
+en-np,87950689-71e4-46cb-bf27-cd72ec6eb928,Aftab Khan,5,very very simple and helpfully,2026-07-29T10:05:59,4.9.0.0
+en-np,37dd0c20-d293-4a12-9052-c6e2ff9d16af,Bishes Lama,4,easy to use,2026-07-29T10:02:46,4.9.0.0
+en-np,2de9d4e1-5422-49c8-b71d-507b06dbe441,Hajju Ali,5,better then banking app,2026-07-29T09:48:54,4.9.0.0
+en-np,21d093ba-37b6-44af-8965-0886bebd112d,Subash Thapa,1,I tried more then 50 times to verify My esewa but not Accept when I took a selfie. This system should be remove by esewa,2026-07-29T09:37:04,
+en-np,3d2a4de4-9b45-4517-86a3-e3249438907f,Mira Rana magar,5,good,2026-07-29T09:22:16,4.9.0.0
+en-np,7b50bb16-95fc-47c8-ba5b-00e5fb0232ae,ASSM,1,"0 rating bhaye 0 dinthe naki 1 , yatro company bhayera biometric disabled gareko . yeti garo banako xa ki! k dimag bhako. k update layeko . yesto pani kasalai mistake garxa ..ani kati bela ntc wifi le esewa open gardaina , data use garnu parne hunxa. biometric enable garne system nai gayab xa..hajar janaharule cctv rakheko yaha chai biometric system disable xa ani mpin type garirakhnu parya xa .yetro company bhayera k system testing garerw update situation layunxan !",2026-07-29T09:16:47,4.9.0.0
+en-np,86647853-2a4d-4a3f-8936-d290608be45b,Sumit bantawa Rai,5,best service and best save 💰,2026-07-29T09:11:47,4.9.0.0
+en-np,d326addd-943c-4bf8-be61-595dcb0599f0,Anisha Yadav,5,it's amazing,2026-07-29T08:40:57,4.9.0.0
+en-np,9da6e477-bd03-4c4b-b298-0129a9647361,Bhupal Khadka,3,GOOD,2026-07-29T07:59:26,4.9.0.0
+en-np,5dda6ec4-35f5-4769-a512-844df0cce20f,Maya Budhathoki,5,useful,2026-07-29T07:56:40,4.9.0.0
+en-np,3b35748e-6620-4bd5-b26b-33f11650ac1e,Himal Magar,5,love this aap,2026-07-29T07:46:17,4.9.0.0
+en-np,97092b7b-ca9b-49e1-98bf-7bce9f85381d,Bijay Bijay tamang,5,I like this app,2026-07-29T07:41:08,4.9.0.0
+en-np,47445d34-59c7-47f8-94f1-84b57b72780d,Kri Sh,5,best,2026-07-29T07:29:34,4.8.1.1
+en-np,a90595c2-2b49-4ec5-a8d7-531105789018,Anim Lama,5,Owesome,2026-07-29T07:28:47,
+en-np,407ca821-954c-42e2-941c-cb742e8eb01e,Sulav Bhusal,5,Very good,2026-07-29T07:28:41,4.9.0.0
+en-np,16826916-1695-448f-81a5-d8053156fc97,Niran sthapit,5,nive,2026-07-29T07:21:34,4.9.0.0
+en-np,938ff8d3-5fa8-40de-ba99-4ea817ad2efa,Barshu Rana,5,good 😊👍🏻,2026-07-29T07:06:37,4.9.0.0
+en-np,8c4aabe2-e534-4c9f-a763-0146f182a5e4,Saugat Khatri,5,Very fast and easy payment 😁 that's Reason I m using a esewa,2026-07-29T07:04:29,
+en-np,aaf5daf9-9892-40f6-8c1c-7eb893d93e75,PADAM LAL KAFLE,5,beast,2026-07-29T06:42:29,4.9.0.0
+en-np,d485c0ba-0384-479c-a6b7-32ac5ded60fc,Aviyan Bhattarai,3,esewa must give cashback,2026-07-29T06:27:42,4.9.0.0
+en-np,94e1e68b-a966-417f-83c1-4ae03c2c9c9e,Zain Malik,5,Good working Best App in others,2026-07-29T06:26:05,4.9.0.0
+en-np,e3420469-04bd-4ba6-b5d1-03acca22a8db,Susil Paswan,1,10 rs charge is been taken in every 100 rs transaction. solve it or I will delete it,2026-07-29T06:06:39,4.9.0.0
+en-np,8c47d09a-fb3d-4e86-a9d0-cb9c90a5d4b5,Ns Rider,5,nice 👍,2026-07-29T06:06:10,4.9.0.0
+en-np,5e29fa82-4c15-4b0e-8e4c-7752e827b167,Bikash Dhimal,5,really awesome,2026-07-29T05:31:27,4.9.0.0
+en-np,c8ee831d-ad08-4c5c-a1bf-580217901866,Bikaxh Xunuwar,5,to much good for me,2026-07-29T05:20:16,4.9.0.0
+en-np,a4fc05ff-22e2-4b58-8f93-76019973ca16,Pawan Gurung,5,I like your app,2026-07-29T05:14:33,4.9.0.0
+en-np,ba101648-182e-4b6b-8807-6e672e487108,Samrat Shahi,5,esawa is the best Nepali app in moni pay very easy,2026-07-29T05:04:27,4.9.0.0
+en-np,5bf62805-3c29-4d3f-85de-26d40ea61cdd,Ram Kumar Mahto,5,good,2026-07-29T05:01:40,4.9.0.0
+en-np,810486e5-26c8-40fe-b016-b8f50e60557a,Hari gaire,1,Ajkal Low huna Lagayo E Sewa,2026-07-29T05:00:49,4.9.0.0
+en-np,da5a7f7f-0c57-4451-b09d-acd018a1c9b3,Rajnish Kumar Sah,4,nice,2026-07-29T04:45:00,
+en-np,795b2510-eb41-4805-a340-7440383a2499,Shyam Magar,5,ekdam ramro,2026-07-29T04:02:23,4.9.0.0
+en-np,d8b6e46b-305a-4086-9d2e-932c9a8edb71,Aashish Adhikari,5,very easy app,2026-07-29T02:24:36,4.9.0.0
+en-np,629940dd-28be-4c41-929c-e0603e93e509,Deepan Par djan,5,it is so good to mobile banking 😃,2026-07-29T01:09:39,4.9.0.0
+en-np,87aed17c-aef8-4d0c-b80b-dc30a6d5616f,bibek Kc,1,Nice,2026-07-28T22:23:00,4.9.0.0
+en-np,64bb3a7f-7f07-4b4d-9c27-bafe267ce6b4,Smith Bam,4,sometime it feels like frustrating..,2026-07-28T12:08:12,4.9.0.0
+en-np,bd350648-b403-45bd-82ec-039684b93d22,NiShAn GaMiNg,5,Excellent,2026-07-28T11:56:17,4.9.0.0
+en-np,eb99ebe7-42da-4700-9055-9f837f112f9c,Prakash,5,I am grateful 🥲,2026-07-28T11:47:45,4.9.0.0
+en-np,bdbf44c3-bc72-4567-91aa-a62a0c9d1889,GO DO,5,better then other banking app,2026-07-28T11:47:02,4.9.0.0
+en-np,17fd8575-462e-406a-a241-955b18b40c00,Prashant Neupane,3,bela bela Banda Kuni samasya chai hatam,2026-07-28T11:42:01,4.9.0.0
+en-np,30702bf2-c884-450f-b34d-dab8ebe05ce6,Bikki Jung,3,good,2026-07-28T11:15:14,4.9.0.0
+en-np,265c6a5a-edec-4eee-b80c-d09566a1feb6,Mahendra Dahal,5,good🤘,2026-07-28T11:07:47,4.9.0.0
+en-np,9818b1d1-ea08-4a01-9656-20c518e29a61,nepaliman nepali,1,"worst ever. i tried for more than 5 times to verfy KYC but failed. their app scans my document and says its duplicate. if doc given by DAO is fake, who is going to give me original doc?",2026-07-28T10:31:07,4.9.0.0
+en-np,e870282d-301d-4a15-b6c9-fa6a729f2688,"King Thakur,ji",5,❤️❤️❤️❤️,2026-07-28T10:16:04,
+en-np,1fd2ca7e-40a8-4287-b5d6-ed111c6da1d6,Binod Shrestha,5,awesome app,2026-07-28T10:08:46,4.9.0.0
+en-np,6f982b97-5c13-4bb3-b967-51040e567ad3,Saroj Thagunna,5,good,2026-07-28T10:05:50,4.9.0.0
+en-np,5f8e029a-ef53-4080-a9f0-add99343acfd,Anusa Magar,5,good,2026-07-28T09:00:25,4.8.3.1
+en-np,0ac83a1e-71c7-4335-ae7b-321b25af086a,Bahadur Durga,5,good aap,2026-07-28T08:42:40,4.9.0.0
+en-np,722fafa3-6a6c-40a9-993f-d6d381cfaf8c,Kri Khadka,5,easy to get well,2026-07-28T08:38:57,
+en-np,eea3d653-dade-4983-8441-7871255fe4a1,AaKashh Chaurasiya,3,good experience,2026-07-28T08:16:43,4.9.0.0
+en-np,488bbb5f-860d-4931-b9f5-9a60942bf1e6,Super Gamer,3,nice but always internet issues,2026-07-28T08:04:27,4.9.0.0
+en-np,a8141d8b-70f8-49bc-9023-3e20595a4dda,Realme Realme,4,it is to useful but sometimes it cut many charges,2026-07-28T07:50:08,4.9.0.0
+en-np,9b29c7df-6f4d-4b22-8ebf-f880821bf844,Ramit Magar,5,Best mobile wallet,2026-07-28T07:12:43,4.9.0.0
+en-np,5441192a-2b95-42bf-af4c-46f979535b2c,Free fire Lover999,5,yuppp,2026-07-28T07:11:06,4.3.3.2
+en-np,fcd27cc2-aab4-47d5-9906-406b7941c199,Namraj Thagunna,5,Best and fast,2026-07-28T07:05:14,4.9.0.0
+en-np,78d51b73-a042-4ec1-ac89-2125da090524,aushya Yogi,5,good,2026-07-28T06:33:48,
+en-np,b916afca-1c2e-4245-b5e4-898b39f1407e,Arjun Shah,2,severes down every time . take a lot time for payments,2026-07-28T06:24:37,4.9.0.0
+en-np,0976e2a1-ef6e-491b-965b-9dc07a80e445,Harina Sharma,4,Sometimes it's too slow,2026-07-28T05:45:26,4.9.0.0
+en-np,5750088c-a3c1-4af1-a5a0-b4e03d457b43,Bibek Giri,5,wow,2026-07-28T05:42:09,4.9.0.0
+en-np,73711180-b0db-4032-a1b5-2640c623d243,rohan Chaudhary,5,good for saving ya money,2026-07-28T05:38:25,4.9.0.0
+en-np,2d6bc869-00c1-4d9d-bffa-449cafc9183a,Tom jerry,5,good not bad,2026-07-28T05:19:58,4.9.0.0
+en-np,634db9c7-b994-44ca-8f3f-06211853f53c,Kundan Karki,5,I just loved it,2026-07-28T05:19:45,4.9.0.0
+en-np,afd8ec5f-49e5-4d13-aa49-6b607fe73a6e,Dzine Shop,5,nice app,2026-07-28T05:10:54,4.9.0.0
+en-np,f1162a44-4f5d-4696-83e1-9bfeb372896a,Rupesh Pandey,5,good,2026-07-28T04:48:03,4.9.0.0
+en-np,b132ed0c-defd-4817-a559-dd9d8ba26090,Prabin Partel,5,all good,2026-07-28T04:29:03,4.9.0.0
+en-np,ef8615c5-610c-4c23-8ac1-7af9e000e582,Bhakta bhandari,5,excellent,2026-07-28T03:52:45,4.9.0.0
+en-np,a46650bb-f471-40be-b47a-0a06952e5312,Amit Chaudhary,5,Very good 👍,2026-07-28T03:27:12,4.9.0.0
+en-np,1adb7d79-ac4f-46b5-8be5-1002d6625af1,Anil Kunwar,5,best,2026-07-28T03:09:07,
+en-np,9b907365-6781-45c8-94a2-0e82581a0498,Vharat Subedi,2,so many times login issues and lag,2026-07-28T03:02:32,4.9.0.0
+en-np,2932a741-a7b5-4ae6-a0bc-9a7417952ac5,Krishna Puri,3,easy to use,2026-07-28T02:25:45,4.9.0.0
+en-np,3d28427c-5b2a-4da0-825d-dd47b36cb8fd,Sanjay Bahadur Chand (Sanpa),1,worst experience,2026-07-28T02:24:56,4.9.0.0
+en-np,c151011d-063b-445e-a47f-c72b4b8d4298,Nepali videos,5,"super fast, Safe, seque.❤️",2026-07-28T02:23:14,4.9.0.0
+en-np,2e13a7da-054a-443b-b91d-ae515d74243c,Play points,1,"Almost embarrassed myself, why was fingerprint biometrics removed?",2026-07-27T18:22:17,4.9.0.0
+en-np,ce0ed28d-e776-4cae-92d1-3f6acff1f9ee,Devendra Dhami,5,yes it's really good all the services are available in single app digitally..,2026-07-27T12:15:24,4.9.0.0
+en-np,ec760063-c502-49db-a3f2-2f61d2803dd6,Bhim Pandey,5,Best for money transfer,2026-07-27T12:08:29,4.9.0.0
+en-np,45721fa9-9189-4ff6-b19d-ec08bde137f8,Naresh Singtan,5,👍 good,2026-07-27T11:40:44,4.9.0.0
+en-np,c183c496-403a-4fce-b5de-feb9a07b3b32,Lok Bista,1,Error and transaction problem occurs dramatically,2026-07-27T11:31:33,
+en-np,72ca338b-9c6c-49bd-afc3-42919cda7c1d,Basant Bhagat,5,best app,2026-07-27T11:23:28,4.9.0.0
+en-np,fcfc025a-31a2-444b-9926-f8b8bb11c4e6,Rayeen Anish,5,good,2026-07-27T11:08:49,4.8.3.1
+en-np,bb7a858e-e445-4aa3-8fac-d7ed415be8a3,Nitesh Kalwar,5,good,2026-07-27T11:00:05,4.9.0.0
+en-np,59e38bee-4472-4be0-b2c5-9f2719eb7846,Nishan Rc,4,i used it from 2023 till now I received and sent thousand of money by the help of esewa through internet it make transaction activities easy in longdistance too but whenever i tried scan to qr to sent money esewa automatically back to home center itself,2026-07-27T10:38:34,4.9.0.0
+en-np,07d7a632-5077-436f-9edb-1d89eadfce4e,Arjun Sah,5,very nice,2026-07-27T10:34:08,4.8.2.1
+en-np,5b6d34b2-3114-43eb-86f5-db9cf3a6aedc,Kalwar Suman,5,super wallet,2026-07-27T10:03:42,4.9.0.0
+en-np,abdaa16a-67f2-4a45-ae65-11357db590b5,STORM NIGHT,5,it's good and very useful,2026-07-27T09:42:35,4.9.0.0
+en-np,9f4fd2aa-03cd-4db8-b1be-775ae8fa0c9d,Nishant Shrestha,1,worst experience,2026-07-27T09:41:12,4.9.0.0
+en-np,f5c3735a-3903-4c7a-b75c-12a573fea1a3,Manmohan Giri,5,good,2026-07-27T09:32:06,4.9.0.0
+en-np,0ea3822c-0d8a-4d9d-9ffe-d02caba76287,Basanti Joshi,5,nice app,2026-07-27T09:28:39,
+en-np,40c39e04-d54e-4ff1-9190-56b9496d0a8d,Himal Chmlng Rai,5,Better For Payment,2026-07-27T08:52:24,4.9.0.0
+en-np,bf78c3a3-c982-4a76-a57a-ce3bd1c83ec0,Roshan Bardewa,3,it's so good app,2026-07-27T08:04:45,4.7.3.0
+en-np,93d228c2-e865-4689-9320-e9f6597afcc1,Cool Swagger (strenzzy),4,Best for online payment.....,2026-07-27T07:46:05,4.9.0.0
+en-np,64fc1f98-9095-4677-9c7b-2f21265a5466,Yadav Abhishek Kumar,5,provides good banking services,2026-07-27T07:25:36,
+en-np,da77600c-6b52-40a0-b724-e974a93fda60,Abishak Bk,5,this app is best,2026-07-27T07:18:50,4.9.0.0
+en-np,4fc509c4-ea1d-43c7-b82f-8dfddb498d93,Kushal Adhikari,5,Best app for fast money transfer,2026-07-27T06:32:23,4.9.0.0
+en-np,6fdcd600-1649-480c-b15a-ec4d90cf5922,Tilak,5,Good,2026-07-27T06:27:33,4.9.0.0
+en-np,19c1f121-91a6-4940-ad1a-96bf739ea58a,B.K.S production,3,Good..,2026-07-27T06:18:12,4.8.3.1
+en-np,d54645eb-59bf-4d0f-9da4-a0e0a6ef927b,Prabesh Bohara,5,one of the finest mobile wallet app,2026-07-27T05:57:12,4.9.0.0
+en-np,6cd73fd6-8298-49db-8def-2211c9321a24,Amit Mandal,4,good,2026-07-27T05:47:26,
+en-np,7207c1eb-0917-42f1-973f-64590ba099be,Aslam Siddique,5,"Everything is fine, it is the same, sometimes it cheats, sometimes the money gets stuck.",2026-07-27T05:30:20,
+en-np,bd27bc64-925e-4058-8a3a-4a7a9c4cb118,Suraj jaiswal,5,I think this app is more good as my experience but now I forgotten something wrong with this app but now it cleaned from my mind,2026-07-27T05:01:12,4.9.0.0
+en-np,37fe2f78-a562-4051-92a1-714d1c33a5bb,sus mi,1,"""My KYC document keeps getting rejected even though all my details match my citizenship. Please review my KYC manually",2026-07-27T04:59:34,
+en-np,e9e18e8a-37bd-4e84-885b-a1097efcdd68,Dipak shrestha,5,good,2026-07-27T04:58:33,4.9.0.0
+en-np,c8a79cc4-114e-45d3-96ae-5b561d7284d1,shiv Chaudhary sp,5,very good,2026-07-27T04:47:53,4.9.0.0
+en-np,7ad209a2-a18a-49cf-8842-99ff5c40c11e,Bikram Mandal,5,Very nice 👍🙂,2026-07-27T04:46:04,4.9.0.0
+en-np,c7ab0868-b022-4d51-abd5-5759454595b9,Bipin Bohara,4,good but some time I face issues it's ok,2026-07-27T04:30:33,
+en-np,04bda0d7-6d6a-438f-bfcf-877231bfe92b,Sisir Stha1234,4,not bad,2026-07-27T04:14:08,4.9.0.0
+en-np,5582e624-9ce7-4226-9380-b852058007c0,Kalsang Ghising,2,sometimes this app really cooked me worse,2026-07-27T04:08:35,4.9.0.0
+en-np,a71f3d0f-008a-41d3-a58e-5b852fc4f953,Bir Kadayat,5,best,2026-07-27T04:07:37,
+en-np,b8e3cca6-a268-4ed0-9546-0170518555a3,Suraz Thkur,5,best payment aap,2026-07-27T04:07:36,4.9.0.0
+en-np,bccd4f35-b6f7-482f-a4c2-e6046f38ee72,Ayub .pakhrin,5,awesome,2026-07-27T03:03:25,4.9.0.0
+en-np,d84ff88f-ea53-4c9f-a432-b19dd0632cfe,Abhi Tamang,4,good,2026-07-27T02:43:28,
+en-np,3e2f878a-9c42-4e95-a17e-4b8632fadca7,haczo Np5,1,Seller Always Face Problem With Raise Issues which hold there money without any proper investigation,2026-07-26T12:16:14,
+en-np,eee87516-fc98-4e0c-a883-e9192b36c928,Peace magar,5,better way for online wallet,2026-07-26T11:44:46,4.9.0.0
+en-np,81f5e98d-13e7-4fdf-96f0-13ab4a0d9335,Knox Lee,4,Its easy to pay,2026-07-26T11:33:04,4.9.0.0
+en-np,b5a181fd-fa76-4410-bf65-c53ce27f3662,Ashish Ramtel,5,good,2026-07-26T11:24:39,4.9.0.0
+en-np,c9ee3106-f77c-40cc-bc14-beb3de38a448,Aaditya Raj Yadav,1,always server down,2026-07-26T11:09:18,4.9.0.0
+en-np,347b4ec4-beed-45da-886d-e4127205f66c,Pramukh Kumar Rai,5,This wallet has made me easy for any kind of transaction.,2026-07-26T10:06:34,4.9.0.0
+en-np,20a335fe-04da-4d27-8a56-e3ca97783b1a,srijan Chaudhary,5,Good service,2026-07-26T10:02:10,4.9.0.0
+en-np,d0bebd3d-262a-4825-93bd-e07ff505c319,Akki Xettri,3,sometimes problem,2026-07-26T09:45:51,3.14.5.2
+en-np,6ea3cc27-9805-46f2-8ecb-c1f8ad2bc3e1,Anup Dhakal,3,the money is not to other and I call esewa then esewa says your money is going so they didn't refund,2026-07-26T09:16:22,4.9.0.0
+en-np,f31df044-b2cb-4c3d-a7dc-e854942dfbdf,Hardik Joshi,1,why there is mandatory to put photo of glimpse for an kyc form if I already send you my citizenship no and it shows a glimpse photo see in transactions,2026-07-26T08:52:12,4.9.0.0
+en-np,c4013b4b-5915-4cd9-9888-63eb2298b41b,Ledy Don,3,"It works well 60% of the time, but sometimes it lets me down in the middle of a task 😪",2026-07-26T08:46:32,4.9.0.0
+en-np,6b2d3885-fd6c-4d32-872f-fd8b47e4f970,Amit Patel,3,good,2026-07-26T08:42:12,4.8.3.1
+en-np,a7d3a79f-d67b-4c6b-8b83-244eede70702,Sohail Ansari,1,difficult to login 😡😡😡,2026-07-26T08:40:06,
+en-np,991b6f37-81fc-4c69-8a4d-4b36143f8dd0,Sujan Khadka,4,Quite good but it's complicated to report issues in it,2026-07-26T08:06:40,4.9.0.0
+en-np,c9d4f0f2-b850-4ff8-9113-e81f3a50bd3f,Mangal beshra,5,good,2026-07-26T07:23:55,4.9.0.0
+en-np,ba5f7052-9f65-4566-b289-83988d2ecf14,Tilak Bhandari,5,it is good apk for transaction.,2026-07-26T05:41:22,4.9.0.0
+en-np,09304fe6-52c2-4c85-af26-d6ebeceddd3b,Sonup Rai,5,nice,2026-07-26T05:34:54,4.9.0.0
+en-np,10be6b08-f040-4de5-a6b0-35f9956d5271,Bickey Shah,5,good apps,2026-07-26T05:34:07,4.8.3.1
+en-np,53e2b6e8-03b5-44a7-9ad0-2c7fea8ac1b3,Umesh Karki,5,very good,2026-07-26T05:32:43,4.9.0.0
+en-np,c062a370-2709-4c45-88ad-c0598a58bd25,Prajwol Khatri,5,"very useful app, it help me send money easily",2026-07-26T05:23:25,4.9.0.0
+en-np,4f5eee05-b61a-40d2-8ff1-0dff057f6ed3,samir chy,3,satisfied 😸,2026-07-26T05:20:57,4.9.0.0
+en-np,30f1912e-34d3-4398-8fb4-84ed9c219f4b,Aadesh Aadesh,5,khatra,2026-07-26T05:05:36,4.9.0.0
+en-np,d9646269-0c38-4b92-ad88-271d173120e3,Suresh Deupa,5,very good app for payment.,2026-07-26T04:48:47,4.4.0.1
+en-np,ada79f82-a27a-4a27-856f-dc04229030d3,Sammar Giri,1,very nice,2026-07-26T04:43:30,4.9.0.0
+en-np,3858ada0-1485-4083-a3ac-5caaf959e5de,Jeena Thakuri,5,excellent mobile wallet.,2026-07-26T04:41:16,4.9.0.0
+en-np,3652d608-37fc-4bc0-b5e2-753b28537228,Aashish Shah,4,good,2026-07-26T04:39:35,4.9.0.0
+en-np,49e9bfc2-dc4b-4974-b798-4108f693f31e,Nikesh Bhattarai,2,crashes sometimes,2026-07-26T03:59:11,4.9.0.0
+en-np,3b6f93c2-08d2-4977-8ffd-ba7ea0fe1cbb,Prakash Chapin,5,very good my experience,2026-07-26T03:56:13,4.9.0.0
+en-np,48243a4d-a84d-4179-97aa-cd5ecb985ee9,THE JUCI,1,very slow,2026-07-26T03:55:37,4.3.3.5
+en-np,0b329172-c6be-4f74-9467-4affe9e4fd01,Bishal Shrestha,5,soo good,2026-07-26T03:25:07,4.9.0.0
+en-np,5e84acce-f603-45ca-8f2e-d09bd9c919ac,Sujan Magar,5,amazing,2026-07-26T03:10:51,4.9.0.0
+en-np,72d0de98-7d56-4455-92fb-f2651d8c56df,Ramesh Niraula,4,Very good,2026-07-26T02:52:21,4.9.0.0
+en-np,eb73479b-c93f-47c9-afaa-a7b20cec1bad,sandesh thapa,5,goood,2026-07-26T02:47:54,4.9.0.0
+en-np,bad32e80-b674-4873-81cd-fdd4768437e3,Om Prakash Sah,5,good,2026-07-26T02:43:55,4.9.0.0
+en-np,f89c016f-7932-49d7-b4bd-43bb0d9cbc54,Sahen Rana,5,it's easy to use,2026-07-26T02:37:51,
+en-np,f26dd061-b187-44dd-a970-37e31d609388,Bharat Yadav,5,very nice 👍,2026-07-26T02:37:15,4.9.0.0
+en-np,65b61471-8194-464a-aa84-1a2f51795166,A Google user,5,good,2026-07-26T02:30:30,4.9.0.0
+en-np,53292e06-b870-4736-aec2-e2dd7824765a,Prabin Tamang,3,to much great for using,2026-07-26T02:27:42,4.8.3.1
+en-np,6f05a0f5-5acd-4790-b02b-6ad03f2cc447,Pasang Lama,5,Best payment system,2026-07-25T14:22:47,
+en-np,df70d593-2d59-42df-b12d-c76cbe07f077,Rijwan Nadaf,5,good h,2026-07-25T13:49:24,
+en-np,b902119c-02a1-40a5-86a7-717cc906a292,Sarose Magar,5,good,2026-07-25T12:12:25,
+en-np,4050455e-fed4-43ed-b8cb-134837980b00,Ashish Gurung,5,easy fast and instead money,2026-07-25T12:12:04,
+en-np,8d4e1ad2-0cf0-472e-8599-24968d094696,Saroj Mijar,5,Best one,2026-07-25T11:32:36,4.9.0.0
+en-np,02a05834-a368-43ed-b714-1556793a6cb5,Suraj Karki,5,love❤,2026-07-25T11:05:46,4.9.0.0
+en-np,e9502410-df66-4dbf-92b1-91de3d869069,Ram Hello,5,very easy to transaction,2026-07-25T10:01:27,4.9.0.0
+en-np,b87a3144-a388-4c8f-81e0-e23c7a68d875,Santosh Saud,4,good money transfer app,2026-07-25T09:57:42,4.8.3.1
+en-np,0f92126c-46b9-491f-a5c6-e29b238479fd,Yuunnjann0617,2,sometimes it's doesn't work properly 😕,2026-07-25T09:40:22,4.9.0.0
+en-np,6538e23c-c213-41e5-a426-0e934de71dad,Sujan Raut,5,"best app, number one in Nepal",2026-07-25T09:32:30,4.9.0.0
+en-np,310b583e-b4d1-4c33-896e-b801785f41bf,Tmg Sonam,5,good aps,2026-07-25T09:30:39,4.8.3.1
+en-np,e63b5a59-32fb-4660-9a11-8a37e7d059a1,Arjun Saud,5,nice app,2026-07-25T07:49:36,
+en-np,1ab5922a-d384-49b8-8dea-5470aaa24fcb,Nirmal Bohara,5,good,2026-07-25T07:41:22,4.5.0.1
+en-np,2e94a846-a381-419c-8065-70fdf46f6d69,Sadyyy,1,"Anyone can falsely report a QR payment as ""sent by mistake,"" and eSewa immediately freezes the merchant's funds—even for small Rs. 100 purchases! Customer support is useless, unreachable, and tells us to go to the police station for tiny amounts. Unreliable and frustrating for business owners. Not recommended!",2026-07-25T06:44:07,4.8.3.1
+en-np,110a1f88-c42b-499f-b08d-f2a79911e9dc,Basanta Basanta,1,Kam ko bela ke chaldaina,2026-07-25T06:42:17,4.9.0.0
+en-np,ba978955-dc74-4fc1-8e45-55561d6d8af2,Lalita Sah,1,"it's is not working fast it's taken 3,4 days to verify my esewa id but don't verify still veryfing",2026-07-25T06:18:10,
+en-np,87dc1e01-958c-4ca4-be25-49c4e184b603,Unish Rasaili,5,good app,2026-07-25T05:50:49,
+en-np,cc04ee3b-aaf5-4a2f-ad68-563df929f67d,Ansh,1,Had issue migrating numbers on app had to fill forms repeatedly for one task and when talking to customer service executives they shout and are rude at times. honestly one nightmare of app and service.,2026-07-25T05:06:07,
+en-np,a9db723e-634a-409f-94aa-c2ddc857bbc7,Ukesh sunari,5,I like esewa I have a good experience ❤️‍🩹❤️‍🩹,2026-07-25T05:02:21,4.9.0.0
+en-np,0b42293e-ba92-4959-83c3-9bca50deb810,Amrit Dhakal,1,3rd class service,2026-07-25T04:56:29,4.9.0.0
+en-np,3eceb1f5-dde4-4aae-b25c-dbf3b867b080,bhavisya Giri,4,too much server crashes. payment delayed when it very urgent,2026-07-25T04:31:49,
+en-np,a0691434-6462-4152-9abf-d35eb6316426,maksood alam,5,very fast service,2026-07-25T04:01:53,4.9.0.0
+en-np,0ccb6326-5e7b-4e5a-b6af-815eeacd6b66,Sudipghimire99,1,not good this all,2026-07-25T03:55:26,
+en-np,1ff19fea-e72d-4ab4-8a7d-5d989d0a0df1,Dajubhaiengineering Workshop,5,good but no return cass back,2026-07-25T03:21:04,
+en-np,2d336776-6b59-4f5b-91fb-14f680965899,Sese Yakso,5,this aap is very use full 🌕,2026-07-25T03:11:01,4.9.0.0
+en-np,524c6c31-2e9f-448b-b485-39b65fc51a32,MooDy Man,5,fast transfer payment fast loading payment,2026-07-25T02:37:17,4.9.0.0
+en-np,94697b1e-9df9-47d2-8a2d-9d86ceb3a42f,Shreesha Paudel,1,"never works when you need it to , transactions keep on failing but money gets deducted and customer service tells you it'll take less than 24hrs but it takes days to solve the problem",2026-07-24T17:01:46,4.9.0.0
+en-np,2719691b-b87f-4367-be1e-562c72cf0575,Pratik Banstola,1,"It takes an eternity just to get your KYC verified or even rejected. Atleast give me an answer, no matter positive or negative. Would rate 0 stars if I could. Use Khalti folks, its much better and convenient.",2026-07-24T15:26:55,4.9.0.0
+en-np,12cfa7bc-67f3-4b68-9852-b7fcf209171c,Rohit Pariyar,1,sir k ho yesto khali 10 charge katne 🤬🤬,2026-07-24T12:17:46,
+en-np,b3673c61-b9a7-492d-8026-8ca651f1d755,jwaladip rokaya,1,time time ma nachalne,2026-07-24T12:12:29,4.9.0.0
+en-np,35506949-742d-4a9a-b790-0f451619c420,Naresh Nepal,4,good,2026-07-24T12:07:32,4.9.0.0
+en-np,7b70d375-6d42-413c-bcaf-ce96741a81f2,Jesika Tamang,5,nice 👍,2026-07-24T11:58:56,
+en-np,da8edcf0-fe9f-4287-8a46-cefbf8f2d4d8,krishna sharma,5,every things is going good except server down occor continously day by day,2026-07-24T11:55:54,
+en-np,1c64ceff-0d09-4bda-984e-92e19d8ffef6,Ankit Kathayat,5,best app to pay bills,2026-07-24T11:22:22,4.9.0.0
+en-np,bd7c6e0c-3f5d-451d-8539-b40756bab9c3,Sam Vrinda,5,thik ba kabo kabo na chalela,2026-07-24T11:04:29,
+en-np,684109b4-c9fe-45fe-837e-4deb02c36234,Charak Memorial Hospital,5,Daami daami,2026-07-24T10:57:39,4.9.0.0
+en-np,84a6083a-bd41-4a55-b746-2a7d13572ed6,Emman Tamang,4,good 👍,2026-07-24T10:49:23,4.9.0.0
+en-np,a5bc2a19-2465-4ef7-87cb-ae27aefdbcfd,PUBG DADA YT,3,good,2026-07-24T10:34:28,4.9.0.0
+en-np,d94fc677-4b11-45ab-8a44-03d2774d18b3,Aanita Rai,3,i can't login and even pay while i use in rainy days,2026-07-24T10:31:31,4.9.0.0
+en-np,1ed31be7-c2a6-41f0-b7e1-8aaf9549b50a,Suman Pariyar,5,great,2026-07-24T10:17:55,4.9.0.0
+en-np,4d9aadd4-a2ad-4832-b8cd-9af8437fa304,Dipesh Bhattarai,5,good,2026-07-24T09:44:09,4.9.0.0
+en-np,c9327a23-c964-4594-ba18-cca6c922d9ad,Jazzmeen Ghale,4,very satisfied🙂,2026-07-24T09:17:21,4.8.2.1
+en-np,03d04f09-4aba-4c1a-a01f-fc43aa23d8fa,Siddhart Bogati,5,Best service for mobile banking and recharge,2026-07-24T09:05:44,4.9.0.0
+en-np,9ae6124c-cd80-4c5b-b473-94dd01a9c197,Roshan Thapa,5,good,2026-07-24T09:00:44,4.9.0.0
+en-np,f9d4bdd7-da98-4dce-ba90-efad0a4f9b63,Skt Nepal,5,best of this apps,2026-07-24T09:00:17,4.9.0.0
+en-np,95bfeb78-301a-4e49-9e1e-316d1df35ea8,Ram suphal Das,4,Excellent,2026-07-24T08:59:34,4.9.0.0
+en-np,5c62724e-46c5-40ad-bcc8-16f68ba33913,Basanta Tamang,5,good,2026-07-24T07:55:13,4.9.0.0
+en-np,272f03cc-c566-45cf-bee2-dc514113f606,Baka Gurung,5,nice,2026-07-24T07:28:43,4.9.0.0
+en-np,6e05ddad-bf79-41f2-9916-8a1fbc9fb52f,dinesh maharjan,4,fine,2026-07-24T06:46:36,4.9.0.0
+en-np,9c739fc3-4b73-44d8-a71e-f601bfd51d09,Arun Sahani,5,"Fast, reliable, and my go-to app for daily payments in Nepal! Makes utility bills, mobile top-ups, and bank transfers completely hassle-free.",2026-07-24T06:32:53,4.9.0.0
+en-np,87096c1d-8f6f-49a8-963b-7fadc6c46265,Sagat Gurung,5,Good 👍,2026-07-24T05:15:20,4.9.0.0
+en-np,f1b66608-e548-41c1-8048-c02551dfd447,Sonal Kumar,5,Very convenient & useful,2026-07-24T05:13:09,
+en-np,861638e1-895d-45de-9527-82e4ff256d2b,Prajwol Rana,1,worst,2026-07-24T05:12:17,4.9.0.0
+en-np,3bfff62d-bd61-4fde-a133-d67a782bc23d,Tamanna Khatun,5,good,2026-07-24T05:07:52,4.9.0.0
+en-np,1ffd0bc2-0a79-4f82-a0f6-c8b741e3019d,Dinesh Bista,5,very good,2026-07-24T04:47:12,4.9.0.0
+en-np,3aa72872-558b-411a-9783-6604fb1181e0,DEVON Larrat,1,i mean why do u need remarks in transcation weird,2026-07-24T04:34:17,4.8.2.1
+en-np,bd62ac72-bdec-4ec0-be06-a0959587eba4,Ramsakal Sah,5,Best app,2026-07-24T04:27:52,4.9.0.0
+en-np,d45554ea-fab7-42c5-84bd-d9c3993c3616,Biki Cy,4,good but loan interest is to high,2026-07-24T04:06:29,
+en-np,de5b9abf-6816-4e29-8710-650a49a01e26,Khemraj shahi thakuri,5,good,2026-07-24T03:59:18,4.9.0.0
+en-np,506d7b14-0d0c-42f8-b1a5-77b562ab0e5d,Rabin Acharya,5,Great app and they have good service they solve any issues download app is worth it,2026-07-24T03:51:02,4.9.0.0
+en-np,0bed3120-c3b2-4caa-8d76-3eb2c48b357a,Roney Dangaura,5,finger print doesn't work why??,2026-07-24T03:16:25,
+en-np,f3130862-124c-478a-879d-f015954d03b2,Bijaykumar Chaudhary,3,👍 but some time not working,2026-07-24T03:00:59,4.9.0.0
+en-np,f8cf1351-059f-4550-baea-95c5e629144a,Madhav Roy,5,Excellent E-Wallet used before,2026-07-24T02:52:13,4.9.0.0
+en-np,d094896e-0caa-49c1-9b36-fa34bc84c6ac,Ranjeet Mandal,5,good,2026-07-24T02:36:23,4.9.0.0
+en-np,68397052-354c-4b6f-bd18-2b86b0562679,Bachcha Gamer yt,5,excellent 👍,2026-07-23T12:22:21,4.8.3.0
+en-np,8ea17ee6-a7ac-47f9-968a-a15bfaf9897d,Nitesh Awasthi,1,I am using my Redmi pad 2 when I am opening it it's saying grant location permission when I grant it is saying an error aauna man plzz solve it I want to see your comment back after u do the solution of the question plsssssssssss🙏🙏🙏🙏🙏😭,2026-07-23T12:07:58,4.9.0.0
+en-np,b74ea8f9-17ce-41df-9f33-8868fee13858,Ramganesh Sah,5,best for customers to buy any commodity easy by use online esewa .but esewa make new rule is charge for send money in esewa. it is not suitable for customers,2026-07-23T11:25:44,4.9.0.0
+en-np,0cc4b75a-8912-4795-ba12-bd480ab5995c,DHR7 ROCKSTAR,4,it's a really good app but sometimes it'll bug,2026-07-23T11:16:56,4.9.0.0
+en-np,3bf66866-454b-45f5-b9bb-eef20ae20d5a,yaubraj Thapa,5,it's banking is best banking 👍🕊️,2026-07-23T11:11:34,4.9.0.0
+en-np,142154c2-e2bf-4342-89f0-2c40431223d9,Muskan Chaulagain,5,good,2026-07-23T11:07:00,4.9.0.0
+en-np,12b2bf1f-cdc0-44e2-a06e-ee17ed89069b,Aakash Mahato,5,good and easy to use el,2026-07-23T10:56:00,
+en-np,0612b301-539a-4a53-9f60-15cde15ac7be,everest pool,5,its good for me,2026-07-23T10:55:54,
+en-np,8b32dec4-6af5-4420-86a6-37017aa117c1,Abi Syangbo,4,"Its features is modern than other digital wallet, whuch is my best experience",2026-07-23T10:33:34,4.9.0.0
+en-np,0fc19674-6990-43fa-ae26-0f5704876cd1,Bibek pandey,5,good,2026-07-23T10:31:30,4.9.0.0
+en-np,fe412588-758b-4191-af21-97df5b5e25f0,Sauriyaa Bantawaa Raii,3,nice,2026-07-23T10:24:17,
+en-np,e6528021-9f4d-485d-a357-89a297fd5106,Are Sha,1,Doesn't work just when I have to pay. Not once but many times already. Fix it as soon as possible.,2026-07-23T09:59:28,
+en-np,57dd2661-13b8-4d0a-9702-19a08ba2eab4,Sabina Thapa,5,good,2026-07-23T09:05:10,4.9.0.0
+en-np,c3a45b51-bf24-4958-8635-535549338afe,DJ RAHUL REMIX,5,my fav...wallet esewa,2026-07-23T07:52:21,
+en-np,d079f82b-435f-4368-9afe-bc0b3118b774,Karuna Tamang,5,lovely,2026-07-23T07:07:49,4.9.0.0
+en-np,0742eab0-6f28-4282-9022-f6fe4fc738d0,Sujal Sunar,3,sabai dinthe hola tara bela bela transaction ma glitch aaidincha tyo chai sudhar garnu paryo,2026-07-23T06:08:08,4.9.0.0
+en-np,602f5a9e-8822-469e-8fe3-014d25b1f010,Aakash,2,"it's very irritating, some time it makes double tranjections",2026-07-23T06:05:20,
+en-np,a21708cb-5858-4550-8b43-79983d395ed6,Sandeeep Shrestha,4,good,2026-07-23T05:44:36,4.8.3.1
+en-np,e9a55d1a-a429-4cc8-b06a-abfee1f9005b,Raja Sah,4,👍👍,2026-07-23T05:24:32,
+en-np,d53693eb-ece1-466f-a2b8-723d9dd193ab,Aasish Giri,5,bestt experience,2026-07-23T04:54:20,4.9.0.0
+en-np,e1f43ac2-7905-4200-bdfb-d2a4e726438e,Mahabir Residev,4,very good 👍,2026-07-23T04:39:01,
+en-np,14918903-bb0f-4098-ac03-dd77b5a1671d,Lokendra Acharya,5,very usefull app for my daily lifee,2026-07-23T04:12:41,4.9.0.0
+en-np,c93d9e3d-8102-4b20-89e4-3a7194222f8e,Nur Hawari,5,veri nice,2026-07-23T04:06:10,4.8.1.1
+en-np,dbd6ffe7-0c8d-4906-9b20-d2e699070bb2,Rajesh jaishi Rummy boy,5,good,2026-07-23T04:03:56,4.9.0.0
+en-np,a22ff32e-003e-4c63-9d0d-0b97bb3b8a27,Dilbar Shahi,5,malai derai ramro lagyo yo esewa wallet kin bhane esewa dherai sajilo and ramro app ho,2026-07-23T04:00:05,4.9.0.0
+en-np,95bc1e89-7cc7-4a4f-8608-fbd9b46a591f,Aryan Nepal,4,nice app,2026-07-23T03:27:25,4.9.0.0
+en-np,b483eb19-bd00-4468-91b9-5705bb968df8,B vella Creation,3,good,2026-07-23T03:22:04,
+en-np,ed5ce529-9728-485c-a95a-86a0b297f0db,Prashant Thapa,5,I like,2026-07-23T03:01:39,4.9.0.0
+en-np,e3d9498a-6b41-4877-a0ca-85dadc4e22b4,Amar Tandan,3,everything was good but that extra 10 charge was very horrible,2026-07-23T02:59:05,
+en-np,604ea88d-0f5f-4852-af4c-424e6a40fba2,Biraj Saud,4,Payment is fast easy and good 👍. Easy to use,2026-07-23T02:44:45,
+en-np,3fae406e-40a9-46af-b4b1-5b87df856dc1,Roshan Bhatt,1,Third Class,2026-07-23T02:24:34,4.9.0.0
+en-np,bcb46aec-ebe5-4d45-a787-14527e5a2872,Sanam Sanam,5,very nice,2026-07-23T02:24:21,
+en-np,92d8f5ab-d89a-456b-9ede-a9c305ebcd91,PRASHANT GIRI,5,Best of nepal.,2026-07-23T02:16:51,
+en-np,1d18667a-f7f5-4f07-bb39-81174ffc87f2,Sahil Binadi,5,best emobile banking 🔥,2026-07-22T12:07:30,4.9.0.0
+en-np,3d1f7606-dbc2-416f-b984-4df0362ffd10,Eklabya Sah,5,Mero eswa I'd logging nai ho rha hai,2026-07-22T12:06:45,
+en-np,474d239d-9d01-488e-90fb-f8e9ac7a05bd,Ribesh Dhungana,5,great,2026-07-22T11:54:02,4.8.3.1
+en-np,7e9b0b55-9ce9-4362-91aa-af7f35b61ac1,Yoju Chhetri,5,outstanding,2026-07-22T11:28:04,4.9.0.0
+en-np,5311fc12-12ce-4446-a2e1-2b713aab6c66,Zugnoo,5,overall good,2026-07-22T11:10:40,4.9.0.0
+en-np,79afc8a1-0554-454c-8ed3-2a83d757bb14,SpongeBob spongebob,1,doesn't work at the crucial moment,2026-07-22T10:55:12,4.8.3.1
+en-np,2f8b17ba-7979-4d75-a745-0f1a3eb325a6,Karishma Mahara,5,fantastic,2026-07-22T10:39:44,4.8.3.1
+en-np,cd400e07-614a-4f0e-828d-8c533b7fafea,Bikal Rai,4,nice,2026-07-22T10:22:48,4.9.0.0
+en-np,e8dead59-5afa-4339-9a1d-d3cd3ac72132,Ramit Tharu,5,🤩,2026-07-22T09:55:00,4.8.3.1
+en-np,0224e768-18f0-4a6c-b71e-bf780eca3252,Raaz Mishra,5,good job,2026-07-22T08:57:59,4.9.0.0
+en-np,24d01cc1-571e-40ed-9353-cf41c2790665,Arjun Oli,1,"यो एपले प्रयोगकर्ताहरूलाई भ्रममा पार्ने विज्ञापन (Deceptive Advertising) गरिरहेको छ। ठूला-ठूला सामानहरूको फोटो देखाएर पोइन्टहरू खर्च गराइन्छ, तर 'In-Store Physical Lucky Draw' जस्ता मुख्य सर्तहरू लुकाएर राखिन्छ। मुख्य ब्यानरमा कुनै स्पष्ट डिस्क्लेमर दिइएको हुँदैन। यसले नेपालभरका हजारौँ प्रयोगकर्ताहरूलाई झुक्काइरहेको छ। कृपया यस एपको समीक्षा गरी कडा कारबाही गर्नुहोस्।",2026-07-22T07:46:46,4.9.0.0
+en-np,152f154b-3195-444c-b07e-b4ff1f57326a,Kamala Khatiwada,5,Very useful for short transection,2026-07-22T07:28:31,
+en-np,ec9806ed-9d0e-4f25-8e62-3efe606a004a,Devendra thapa,5,good app,2026-07-22T07:16:32,4.9.0.0
+en-np,ee69cc37-da07-410c-8b57-4f0b349f9a42,kranti kumar,5,nice app for transection,2026-07-22T07:03:22,4.9.0.0
+en-np,ae7a3982-c789-43ba-973c-e0a0ddfc2411,Rajan Bhagat,5,nice,2026-07-22T05:48:30,4.9.0.0
+en-np,209c749a-efbd-4055-9575-94a005e4543f,Arjun Thakure,5,good,2026-07-22T05:43:04,
+en-np,a1c43215-e744-4299-b5c6-4c3c55f21941,Pradip Sharma,3,"This is a great app. Yet, felt annoying when it opens automatically without any reason. Developer please solve this issue urgently",2026-07-22T04:33:02,4.9.0.0
+en-np,5201c0d4-8c5a-4171-a89e-c306478f458f,Shyam Chaurasiya,5,scalable and smooth platform of money transfer,2026-07-22T04:08:50,4.8.3.1
+en-np,c5eef147-24e9-442e-942e-f50daa351570,Sesehang Limbu,5,😍😍😍,2026-07-22T04:01:39,
+en-np,e0c8f2c3-d3e1-4541-bf7b-dd1a188a49aa,Yuvraj Thakuri,5,excellent,2026-07-22T03:54:27,4.8.3.1
+en-np,b812e72e-6ff2-4ad9-8c66-ea63507999a9,Tun-tun Pawan san,1,Sarai na ramro,2026-07-22T03:47:13,
+en-np,8d05ffc2-6939-45df-bd17-59c1a67f71b3,Ajay Yadav,5,Best,2026-07-22T03:10:43,4.8.3.1
+en-np,6dd939c7-c927-4c0e-b681-78b2d2ab0b86,Dipak Chaudhary,3,Nice easy to send moneys,2026-07-22T03:08:58,4.9.0.0
+en-np,8abf249f-82ef-4894-8feb-18345b033da1,Suprim Malla,1,limits,2026-07-22T03:08:42,4.9.0.0
+en-np,8d88089c-f563-4c01-b15b-f595b515e832,BLACKY YT,5,good experience,2026-07-22T03:07:59,4.8.3.1
+en-np,5304759b-6015-4911-ab23-df11769f6265,Shree Krishna Bhujel,5,good any time best,2026-07-22T02:56:46,4.9.0.0
+en-np,e0958cde-0f6b-4fec-86de-0f40bbf4b067,Chaudhary___ gamer,5,good,2026-07-22T02:20:27,4.9.0.0
+en-np,3d51e504-2d97-46d4-952f-e258dd257b24,Tarjan Chaudhary,5,nice ishwa,2026-07-21T16:08:26,4.9.0.0
+en-np,4a5a5e80-33c4-48ea-b0e2-2c0109cb8041,Yuvraj Yuvraj,2,👍,2026-07-21T16:06:43,4.8.3.1
+en-np,da0d2cd5-5f90-4eaa-8af1-7eda5f8e2063,Prince Ojha,1,this is good app.but during the time of refund and any problem you share they give you suggestions to short out by mutual agreement rather than solving problem,2026-07-21T15:29:41,
+en-np,12e3ba18-5e3f-4a76-8ace-236cca2eee0d,ABHISHEK JAISWAL JAISWAL,5,best aap for transaction,2026-07-21T12:01:36,
+en-np,7eff3df7-95d4-480c-a734-87628a9bb924,Rajip Sah,4,good sometime bad,2026-07-21T11:52:22,4.8.3.1
+en-np,bde33688-299a-4f9d-87a7-9daac63ff74a,Amrit Chhetri,5,awesome,2026-07-21T11:46:24,4.9.0.0
+en-np,010004a4-2311-49aa-9cc8-d4bdbb67d2f9,Mahendra Shahi,5,Its good experience,2026-07-21T11:43:36,
+en-np,06f2c333-220e-411e-b359-9575cbb18daf,Mr_ Aariz,5,good all easy for transaction,2026-07-21T11:43:15,4.9.0.0
+en-np,43242523-9da5-4479-88c1-25d8c2ba02d6,Vidhya Shah,5,im very happy with esewa im very satisfied from you thank you,2026-07-21T11:27:55,4.9.0.0
+en-np,489327fe-99d7-4387-b629-c63113f83062,Bibash Ramtel,1,worst Mobile wallet app not working also one of the worst app 😕😕,2026-07-21T10:53:39,4.9.0.0
+en-np,c7c47a2b-415d-469f-9017-0d887c084bfc,Siddharth Thapa magar,4,better,2026-07-21T10:41:05,
+en-np,64bc8177-c434-4621-a82e-43dd68dfbfcb,Mandesh Bayalkoti,1,no any notification should check always for the transaction success or not,2026-07-21T10:35:20,4.8.3.1
+en-np,96a8332e-3759-4236-b9ba-c5fcc6c20ced,LOKEN LAMA OFFICIAL,5,easy for use .,2026-07-21T10:33:05,4.8.3.1
+en-np,b970e13d-577b-47cf-b7c0-98440f297f6a,more then love,5,awesome,2026-07-21T10:28:36,4.8.3.1
+en-np,79fb3bf2-ba20-468b-ae6c-7e2f1746db6e,Niraj Silwal,5,excellent,2026-07-21T10:24:25,4.9.0.0
+en-np,46135d2e-2790-436c-b9a3-beb784a1e53c,Sandeepa Khadka,5,good to used,2026-07-21T10:22:19,4.8.3.1
+en-np,358a8f73-c376-4003-9114-3a8b86dae163,Prashan Pokhrel,1,very bad,2026-07-21T09:46:14,4.8.3.1
+en-np,4c10d3b8-3928-42cf-921f-dcf3cbd02a67,Nabin Mahara,5,e sewa is best,2026-07-21T09:19:20,4.9.0.0
+en-np,63874aab-ac0b-4753-9e33-e30935801ccb,Manish Jha,5,Excellent,2026-07-21T09:10:49,4.9.0.0
+en-np,13511e40-dceb-422f-b7a8-0f95b9becd84,Irshad Alam Shaikh,5,good app 😄👍,2026-07-21T08:33:47,4.8.3.1
+en-np,178a2a53-7dae-47aa-8333-5c31c8e009cd,Islam Ansari,5,Best,2026-07-21T08:14:36,4.9.0.0
+en-np,aa593e38-ba4c-4364-8458-45f8b3870b34,Sagar Sth,1,eeeeeee ladoooo jasto machikne gula Muji esewa tri ama ko piti Muji kei namileko lado balance halchu urgent bhanera machikne hatta parts direct balance bata data kholera balance haleko lado not available service re Jai machikne chahind bela lado yestai bhancha Muji data bata direct balance halnabkhojyo bhane direct balance bata data on garera halchu bhanchu machikne lado same huncha eeee mero gula jasto app lado Kasai le nachala yo Muji kam chaina,2026-07-21T07:16:40,4.8.3.1
+en-np,a7da9ffa-0e8a-4462-94cc-24fdc3d7b43f,Raj Kumar Baniya,4,slightly average,2026-07-21T06:50:07,4.9.0.0
+en-np,30c27652-b2e0-4034-9e2f-7f8b51c95719,Molish Gyawali,3,average should Improve server down problem and glitches,2026-07-21T06:37:38,4.9.0.0
+en-np,52156b45-22ac-426a-8d85-ffb85204d427,Aditya Kunwar,4,One of the best Online Mobile Wallet,2026-07-21T06:29:59,4.9.0.0
+en-np,1d715e0e-2070-41b8-834a-a2aa240a8f62,Aashik Ali,4,kahile kaahi slow ra service fail ho tyo sudhar garnuparyo.,2026-07-21T06:27:24,4.9.0.0
+en-np,fe0d4cdc-0002-4286-ad2d-3b04e7f2d1de,Vipin Acharya,3,KYC should be verified within 2 hour's as promised but failed to verify. more than half of day & still in pending.,2026-07-21T06:01:10,4.9.0.0
+en-np,a2cdd99b-1e69-49ec-8f02-1d56f30a521d,Manoj Thapa,5,good for transaction,2026-07-21T05:49:53,4.8.3.1
+en-np,0585d306-b37b-4e3d-ab32-94060805afaf,laxuman phago,5,Love esewa,2026-07-21T05:38:46,4.8.3.1
+en-np,c7b1a27f-8db3-43c9-a6a5-13976ede8c11,Devendra Joshi,1,lamo jasto harek week transaction pending hunxa Ani 24 hr pachi matra paisa aauxa thukka guu jasto esewa,2026-07-21T05:05:57,4.8.3.1
+en-np,8d6671ed-7e51-4c2c-934b-161d354b2985,Surya Regmi,5,it was very good,2026-07-21T04:42:34,4.8.3.1
+en-np,65047a82-18e8-4fcc-8700-5e7252372928,Nirajan Sunuwar (Mr.badboy),5,Good,2026-07-21T04:35:57,4.9.0.0
+en-np,963b9115-5c3f-458f-aee3-9d98566b2453,Sk Jaiswal,4,very use full,2026-07-21T04:09:55,4.8.3.1
+en-np,afc11c8d-3d82-42fc-8e61-9472fdc16d56,Sujal Ghonday Gurung,5,Good online bank app,2026-07-21T04:08:06,4.9.0.0
+en-np,8e74ef7b-70c5-468f-a4c6-77639c325448,Beekash Shah,5,nice,2026-07-21T03:41:28,4.9.0.0
+en-np,67019a7f-d8c2-42ad-a56d-66226bdf60b8,Pratik Budhathoki,4,spent a lot of money,2026-07-21T02:29:42,4.9.0.0
+en-np,a0070b2c-bae7-4ecc-af93-e5ad1c926b0e,Lukman Ansari,5,thank you so much,2026-07-20T12:58:53,4.8.3.1
+en-np,7c74e1bb-fd81-4cda-b276-ac9d0d98a434,Kalam Nadaf,5,good 👍 help full website,2026-07-20T12:36:48,4.8.3.1
+en-np,f5c8384d-484b-43d5-b1af-47c18ba15bcc,Nishant,5,Good. Keep it like this.,2026-07-20T11:24:15,4.8.3.1
+en-np,8bcfe207-e647-4522-9219-aa0a1e814670,Sanjog,1,"Using eSewa for 4–5 years, but this has been my worst experience. On 17 July 2026, Rs. 1,000 was deducted from my linked bank account but never reflected in my wallet. My bank confirmed the transaction was successful. I immediately emailed support, raised a ticket, and called 5 times. Even after 3+ working days (80+ hours), the issue remains unresolved with only repeated false assurances. I'll quit eSewa once my refund is processed and won't recommend it.",2026-07-20T10:56:01,
+en-np,ceb39ebc-2aa5-4a1c-9f77-1c10850dda43,David Xettri,5,amazing,2026-07-20T10:45:00,4.8.3.1
+en-np,9ec0c115-c513-4e48-addb-84a8515c5e7e,Angel Rai,3,it's very good and safe but sometimes it's not working,2026-07-20T09:39:21,
+en-np,debd712a-6686-4bf9-91cc-54a0cd2ecd68,Amit Raj,5,I use this app very long time ...very good and important app for me...,2026-07-20T09:23:36,4.8.3.1
+en-np,34c78774-c6f6-40e5-b4f3-39c48b06de51,Ashok singh,5,the app every people can use easily and trusted so..,2026-07-20T08:54:09,4.8.3.1
+en-np,bcee11f6-ff71-4926-9abf-225c50f65eb8,Jayprakash Yadav,5,🙌,2026-07-20T08:54:09,4.8.3.1
+en-np,972441d8-efd4-4140-99b6-bcba6d06e277,Sakshyam Tiwari,5,gajab app,2026-07-20T08:40:41,
+en-np,d7e37200-ba7c-420e-a4af-983265c72e60,Sujan Magarati,3,good,2026-07-20T08:38:57,
+en-np,18d61838-28b1-44bb-acef-8f88de503c4f,Rekha Rai,5,thnaks,2026-07-20T08:14:59,4.8.3.1
+en-np,314832a5-759f-41f0-9cfc-f5c0b1dc6812,Raju Kumar yadav,1,worst experience ever,2026-07-20T08:11:39,4.8.3.1
+en-np,56c9792b-24bd-4c3f-9dd1-77d9a2c489d7,Shrit Tamang,5,good,2026-07-20T08:11:32,4.9.0.0
+en-np,4829c1e9-ba97-4fa8-b037-0b4f7f89781c,Eanish Magar,5,Its Great for real,2026-07-20T07:50:25,
+en-np,a85feeb6-c23f-46f1-a7be-7a7bca644824,anu oli,4,it is.too helpful to pay easily,2026-07-20T07:41:46,4.9.0.0
+en-np,e233cca8-2556-4a3b-963f-9dcaf0edf91c,Dhirendra Shraff,5,all good,2026-07-20T07:27:18,4.8.3.1
+en-np,481c0333-aded-4c1c-8e93-5e077b09b8eb,Shanjiv Sah,5,excellent,2026-07-20T07:21:26,4.8.3.1
+en-np,72f0b307-7c1e-4b0b-ae3d-c341e1f0bb84,000 Abhee,1,my money I sent through arrow service hasn't arrived to the receive but already is deducted.i even enabled the safe transfer function.worst service.,2026-07-20T07:18:23,4.8.3.1
+en-np,201f137d-7d98-4891-99fc-cf53e8c8a824,Khadka prakash,5,very good,2026-07-20T07:15:00,4.8.3.1
+en-np,b2eeb802-bab6-496d-91fb-af27e99b17e8,WA NT ED,5,good,2026-07-20T07:10:52,
+en-np,5612bdba-934d-4475-ab79-9742daea0960,Dhurba Pun Magar,5,"It has been a very easy way to pay the bill, and also it is good way to save money from over expenses.",2026-07-20T07:06:25,
+en-np,c0aa2702-9882-485e-a7fe-f4e809432e3e,Bishal Ghimire,5,i just love this app I was abroad and I still enjoyed it 😅🤗,2026-07-20T06:43:28,4.9.0.0
+en-np,27221bc2-b895-4f72-95b5-c708383183dd,Aitaman Tamang,5,very helpful,2026-07-20T06:38:51,4.8.3.1
+en-np,09a0b68d-298f-420a-9869-2c09b2173e69,anish thapa,4,still now good,2026-07-20T06:27:59,4.8.3.1
+en-np,fba12d2d-3ad4-49e3-95bb-a78b09ba3a0a,Nox Advanced,1,lamo Kati choti dekhaucha hau app khole Piche rate gar rate gar la Muji 1 star.,2026-07-20T06:25:18,
+en-np,448932ef-f540-49f2-9580-063b684517cd,Oshang Rai,2,more than 7/8 k transaction Garey yo month maa thru esewa....but my fone points is still same,2026-07-20T06:10:27,4.8.3.1
+en-np,4138875c-c483-4cd5-af1a-78a3dd7f4868,Bikesh rai,1,goog,2026-07-20T06:08:14,
+en-np,4e136850-9d9e-4655-9cd9-a7104d4a6bd8,Suman Sarraf,5,good,2026-07-20T06:08:03,4.8.3.1
+en-np,cc2371d0-7327-4ee2-bafe-71b1725cccbc,Na Veej,4,very useful and I'm mostly satisfied..,2026-07-20T06:07:23,
+en-np,c56fe582-cd5c-4f1d-93d8-e3ecc0f030e1,Sita Oli,5,wow,2026-07-20T05:54:15,4.8.3.1
+en-np,d550ac0f-3ad7-4727-aaff-a164ba7a9dc4,Sharwan Yadav,5,Good work,2026-07-20T05:53:56,4.8.3.1
+en-np,fb9f48ef-9e92-4067-b8ca-849115e00a30,Ritesh Sah,5,very good,2026-07-20T05:41:22,4.8.3.1
+en-np,bc9c5826-def8-4978-a886-c60c3fd8c8c6,Baddy,2,Too much charges 😞,2026-07-20T05:40:14,4.8.3.1
+en-np,f2bd9c4b-9969-49f1-88ae-951162c52368,Rajkumar Sunar,4,good,2026-07-20T05:28:42,4.8.3.1
+en-np,74b810bc-aa5b-4d6e-bb60-3315ea5b1594,Dilip Lama,5,Good but Esewa limit service is not good,2026-07-20T05:22:58,4.8.3.1
+en-np,fb1e8143-d092-44ab-be48-303ec54c920e,Ram Prajapati,5,good,2026-07-20T04:58:53,4.8.3.1
+en-np,346a3923-207e-4426-ac54-bcbc3d25d721,Biru Bhulan,5,ek dam first class on the way to Nepal,2026-07-20T04:55:48,
+en-np,10278d02-b5b9-4da8-804f-4a04715b7d99,Khadak Diyal,5,Excellent,2026-07-20T04:54:07,4.8.3.1
+en-np,f4a63dd8-526a-45d1-b35f-4ec32061d80f,Gauri Shankar Sah,1,good,2026-07-20T04:53:23,4.8.3.1
+en-np,83307ed3-7020-4781-b4b8-6593790a854c,Samjhana Lama,5,feel esay and safe😊,2026-07-20T04:53:08,4.8.3.1
+en-np,296f91b0-5daa-4c4b-90b0-49d26a27750e,Alexi Shrestha,5,good,2026-07-20T04:51:06,4.8.3.1
+en-np,2bf32af3-2cc4-44cf-8579-428c1dc581cb,Bikash Jarga,4,superb,2026-07-20T04:40:59,4.8.3.1
+en-np,f2380c69-2624-4151-9a49-67979ef9fb99,Hemanta Sunar,5,good,2026-07-20T04:40:14,4.8.3.1
+en-np,e5c99793-e758-4371-ae73-0a3942adbceb,Aman Mandal,4,some time not working properly,2026-07-20T04:31:52,4.8.3.1
+en-np,e7b696df-953a-41fb-add8-a6aa935000aa,Bikash sah,5,esewa is the best moments and performance live it's wallets,2026-07-20T04:16:37,4.8.3.1
+en-np,955d1558-bb38-4629-8d32-35041cab9d28,Roshan Y. Tamang (september Boy),5,i like,2026-07-20T04:14:04,4.8.3.1
+en-np,e9a90324-87ab-4799-a860-70a079eb95d6,Rajan Maharjan,5,good,2026-07-20T04:06:04,4.8.3.1
+en-np,48f332fb-a6e4-49aa-b4a3-6a9f8f365bd1,hamroghar online tv,1,bad,2026-07-20T04:03:33,4.9.0.0
+en-np,cb60d343-bea0-482a-bd15-3dc89686eb62,khadka saru,5,Excellent,2026-07-20T04:01:42,4.9.0.0
+en-np,551ce7f1-43c4-4a2d-81f1-271f87634652,Manish Kafle,5,nice,2026-07-20T04:00:10,4.8.3.1
+en-np,9759c473-9354-4167-8556-17ef8518dce9,Amit prasad Gupta,5,Best money transaction app but every transaction change is not good,2026-07-20T03:52:33,4.8.3.1
+en-np,4414b9fa-e86e-4837-babd-805e6e41c7c7,Bishu Magar,3,the problem is server crashed,2026-07-20T03:49:58,
+en-np,891ce4b2-598f-43b1-90ed-3cde885c15c3,Jeevan Tharu,5,very good service,2026-07-20T03:30:19,4.8.3.1
+en-np,b0de6775-c0f8-4f46-b1d9-9761248fc17c,Asbin Acharya,5,i like it,2026-07-20T03:27:34,4.8.3.1
+en-np,eae5c7c9-a4f7-4acc-aec0-e25f8aad4bba,Padam Thakuri,5,It makes my daily life easier and i don't even use bank for transaction.,2026-07-20T03:23:36,4.8.3.1
+en-np,23e79aae-0a10-4aa0-90ea-7e5dc706050c,Ashok Bhattarai,5,good,2026-07-20T03:21:14,
+en-np,2f56b870-9496-4bfd-a756-36016cbe7b94,Gautam Bhatta,5,very good,2026-07-20T03:03:55,4.8.3.1
+en-np,3356ee09-fdcd-4002-8955-974371a89960,Aryan Uranw,4,some time lag,2026-07-20T02:53:56,4.8.3.1
+en-np,b8ffcb90-596b-4381-837a-1cdb55fa9798,Sujit Kumar,5,very good,2026-07-20T02:46:48,4.8.3.1
+en-np,c2dcbf8c-2beb-42cf-af63-f0d9098c2a3c,Owlthakur,5,good,2026-07-20T02:46:22,4.9.0.0
+en-np,f53d8212-924a-4205-a2eb-0c5a6ee2c2ec,Bishal Timalsina,5,good app,2026-07-20T02:25:46,
+en-np,e8be219f-7360-42f1-bb08-34854f170fea,tanjiro Kamado,1,Yoo khatee Haruu Lee Kaile K VA Xainw Kaile K VA Xainw Ree Kaile documents sachhauda sachinnw Kaile kyc verify Hunnw Kailee login Garnw khojda login Hunnw Eutaii mobile maa Vako Sabb laii Arko mobile ma login Garnw laghis Hunnw Ree Ferii code maghxhw code Handa Nii Hunnw Ree khate Nepali Haruu Vayerw Hoo bedhaa Jastoo app Bana Koo,2026-07-19T18:17:07,4.8.3.1
+en-np,43617b79-790d-4e24-8244-dd4c02c6e2b7,PRAJOL GAUTAM,1,u guys should provide a service or make something so that we can be able to refund the money we accidentally top up instead of sending it because its a common issue and u shouldn't ignore all these things,2026-07-19T13:19:36,4.8.3.1
+en-np,303bac55-94bf-40ea-b02e-e7a4dc261234,Faisal Ansari,1,esewa please my account recover My brother has given me this money for an iPhone. I study and my savings were also there. The money was from the house which was given last time. My brother had given me Rs. 2 lakhs for the iPhone. I did not know that there is a limit on service. Please tell the service I want to get it as soon as possible. The service ID should be opened because I have taken this money for personal usees necessary for me to get the phone. please response my problem i am deprased,2026-07-19T13:15:02,
+en-np,7e9d2686-4d05-40ba-97c7-596245a449c4,Kùñdåñ Tíwârï,5,best app for under age,2026-07-19T12:13:30,4.9.0.0
+en-np,40ab8729-3dd1-415d-ba6a-371c5ea45254,Ra Hul,5,"I spoke with The Student's Momo, and they said your idea is really great. Opening this has been a wonderful initiative, especially for small local businesses.""",2026-07-19T12:07:32,4.8.3.1
+en-np,88c90197-cce4-413a-bb04-a3252fb9a1ba,Rohit Singh,5,very good service,2026-07-19T12:07:25,4.8.3.1
+en-np,3e6154b9-8f99-483a-a563-f9138ec35f43,Yogeswar Neupane,5,good 👍,2026-07-19T11:56:51,
+en-np,ef97a2a6-6dac-4439-abc3-c8c1cbfd0144,Udhav Kharel,5,works great for me,2026-07-19T11:52:44,
+en-np,aa34233a-34ca-485b-b27c-731810bb5098,Nigendra Kunwar,5,good,2026-07-19T11:48:57,4.8.3.1
+en-np,c3a1af83-996f-4caf-bfe5-414c51955114,Shishir Gautam,1,Need some maintenance,2026-07-19T11:48:04,4.8.3.1
+en-np,edc4de73-fed8-408f-8da4-090e6737c6d4,Roshan shakya,5,👍👍👍👍,2026-07-19T11:45:51,4.8.3.1
+en-np,fbe27980-6943-43ac-81d1-cd66cec21d96,Aaditya Sah,5,Nice wallet in the universe,2026-07-19T11:34:16,4.8.3.1
+en-np,fd84f337-cdfd-4719-8051-c281381f10b5,Ke Shav,5,good,2026-07-19T11:32:48,4.3.3.5
+en-np,43d5ee29-a96c-48cf-bf1f-ca94d154c9c4,Kamal Bhul,1,good,2026-07-19T11:26:30,4.8.3.1
+en-np,6428927c-0746-4a4c-a5b0-3a01687e005b,Krrish Kumar,5,Best app all over the Nepal.,2026-07-19T11:22:35,4.8.3.1
+en-np,786211ab-9ea2-4a64-9d7c-1c527755ad9f,Basu Bhandari,3,pls make service better,2026-07-19T11:19:33,
+en-np,385397fe-557e-449d-afa3-009d359c730e,Nishant Don,5,ramro xahh esewa I like it,2026-07-19T11:17:07,4.8.3.1
+en-np,d49a7f89-5e60-4ea6-ae39-0d3ab35a802e,Rohit Bist,3,It was nice,2026-07-19T11:16:33,4.8.3.1
+en-np,6cfd227e-2ec6-4355-a967-7aea71f23e96,Lavlit Thapa,5,Too good,2026-07-19T11:04:40,4.8.3.1
+en-np,168f7e3d-47ca-400c-af68-e031a7d388ba,Mohit Mahaset,5,excellent,2026-07-19T11:00:47,
+en-np,1e29c9a6-ed46-43c3-a224-1e70fe145bb5,Dharma Saud,4,good,2026-07-19T11:00:36,4.8.3.1
+en-np,7be963cb-da19-4c12-8171-740a2858123b,Rajaann Mukhiya,4,very quick online payment and easy to use,2026-07-19T10:59:49,4.8.3.1
+en-np,b234d48e-8e8e-4bbf-8e86-84e0e4fc18d0,Paras Muktan,5,Easy mob banking,2026-07-19T10:53:06,4.8.3.1
+en-np,180c0ff8-6c63-4d71-8a8d-6b5de6d7e1f1,Om Keshari,3,Not bad,2026-07-19T10:46:37,
+en-np,6d6c7ec9-6c32-4b78-ade8-8391dffee1d3,Rahul Ray,5,I love esainess,2026-07-19T10:39:30,4.8.3.1
+en-np,923ca204-63c6-41ea-8543-269d784933b9,Niroj Gurung,4,it's good but when it's time to deposit real money (cash) I can't find an easy way to put money on my e sewa account. fix that issue,2026-07-19T10:24:17,4.8.3.1
+en-np,19893c7d-a5d9-4f46-a424-ce8716abf7a8,sams Bista,5,good,2026-07-19T10:15:48,4.8.3.1
+en-np,27dffb79-746f-48f0-88a8-ab0fa75d364d,New Creat,1,slow,2026-07-19T10:10:46,
+en-np,5c5e21d0-8344-4102-b31b-0b674c1a0b2d,Gayatri Giri,5,good,2026-07-19T10:09:32,4.8.2.1
+en-np,6b0c06f3-cfbe-4c74-a24f-d2c78c0793cd,Sanjay Yadav,5,Best experience,2026-07-19T10:06:56,4.8.3.1
+en-np,d8c241fd-a658-49ae-aed5-a0c3b02114b0,Amrit Bohara,4,oppp,2026-07-19T10:02:09,4.8.3.1
+en-np,920b4838-f48b-43ce-812e-76e7011ee965,Abishek dahal,4,yeah pretty good but some times we face problems like server loss or anything else,2026-07-19T09:55:46,4.8.3.1
+en-np,d095dd6b-c11f-4f0b-953e-17ab68a42b65,Bashu Dev Thapa,5,best wallet,2026-07-19T09:54:51,4.8.3.1
+en-np,1d70b671-0d49-4441-864a-b64fcde7a4aa,Aryan Dangura,1,i not satisfied of this app because of sometimes money can't send in emergency situations so fix it fast thank you 😊!,2026-07-19T09:48:04,4.8.3.1
+en-np,f033e06d-ca74-4c02-8470-a80cef99f153,Pushpa Raj Pandeya,5,nice it was good experience,2026-07-19T09:47:37,4.8.3.1
+en-np,0bcf328f-5c9b-4163-ab6d-f679e0f116ca,Sidha Bam,1,thikxa,2026-07-19T09:45:03,
+en-np,83002212-b5fd-479c-9cc8-ecb9b23c1886,Karna dhega Magar,5,thankyou,2026-07-19T09:40:52,4.8.3.1
+en-np,4337669f-3e02-4a56-a1bc-b52d620a7b69,Sapan Thapa,5,good,2026-07-19T09:38:15,4.8.3.1
+en-np,f0ac7b4c-5283-45d1-8363-504575c2e1c9,Ranjit Lama,5,everything's okay but sometimes its glitch.....,2026-07-19T09:34:00,4.8.3.1
+en-np,4047ae1e-a2a0-48fe-9c03-700f646ff3c7,Ramganesh Yadav,5,this easy to money,2026-07-19T09:33:31,4.8.3.1
+en-np,52f9ce0d-b28c-44ca-bac8-dcd07116af04,Nurjaha Khatun,3,why to pay charge while doing payment in same wallet... boycott esewa !,2026-07-19T09:32:13,4.8.3.1
+en-np,ce1603f9-e070-4c1e-b0db-d9b41fe305a4,Prince Sahani,3,Helps a lot .💗,2026-07-19T09:29:27,4.8.3.1
+en-np,b828a721-d376-4b00-ad93-000c92b378fb,Deyon Adk,5,very good,2026-07-19T09:21:50,4.8.2.1
+en-np,7b62c35f-5c41-4854-a1dd-c14efa07e383,Sangita Lama,5,good application,2026-07-19T09:17:19,4.8.3.1
+en-np,62ac9828-6f18-42b4-b522-17908d6368e6,Denish Syangtan,5,good service,2026-07-19T09:10:37,4.8.3.1
+en-np,682e38aa-21a7-4915-b4d3-bf6b5645a3bb,Anju Magar,5,very covienent,2026-07-19T08:54:06,4.8.3.1
+en-np,04abfb7f-11c2-455a-91f1-c458226b6c0d,Amit Oad,5,easy &safe,2026-07-19T08:52:28,4.8.2.0
+en-np,c9381e00-12f9-4725-b35d-2102fddc6bc1,Ram chandra poudel,4,good,2026-07-19T08:50:07,4.8.3.1
+en-np,03010d93-19ee-40a7-8c49-58ee41627658,Homestore Butwal,1,"I had been used this esewa app since 2019 may be, It is good i am satisfied❤️",2026-07-19T08:48:48,4.8.3.1
+en-np,0afbe2ed-70b7-44dd-a0ee-7cb12b198b41,Bappe Broa,5,ok,2026-07-19T08:42:08,
+en-np,436b4ea4-5377-433e-8606-9c396ab00fda,Shantathapaliya Shanta,5,awesome,2026-07-19T08:40:11,4.8.3.1
+en-np,1582c27f-1ff2-4b3e-bfdb-91ecb0e0a2b0,Aadhitya Regmi,5,helpful,2026-07-19T08:40:00,4.8.3.1
+en-np,384af010-f3b7-41fa-bfbd-f58b820b2cc7,Niraj Magar,5,it is very reliable for transaction,2026-07-19T08:37:20,4.8.3.1
+en-np,1b6d9eea-81f1-4906-a2e3-d9eb09503396,Sushil bogati Sushil,4,it's good for money pay,2026-07-19T08:34:24,4.8.3.1
+en-np,09c20778-3cff-4773-ab4b-b56466ebe320,Rajiv Singh,5,Good,2026-07-19T08:32:10,4.8.3.1
+en-np,83e74fa4-b33e-4ec7-8f74-9c59c941abb8,Roshan Magar,5,easy and safe ❤️,2026-07-19T08:30:00,4.8.3.1
+en-np,e5ab4acc-2dd6-4832-9d18-ca77842482c3,Nishan Rai,4,quit good,2026-07-19T08:24:11,4.8.3.1
+en-np,4364e6da-6580-41eb-a3b6-9cd6b9d5e981,Tarani Awasthi,4,awesome except few moments,2026-07-19T08:23:21,4.8.3.1
+en-np,d90ac17e-304d-432c-9f0d-43b0ee523872,Anish Lamichhand,4,quick,2026-07-19T08:18:37,4.8.3.1
+en-np,fdd9809c-29be-4e62-9c85-37f47e351f2f,Surya Yadav,1,stop fraud by having service charge Nrs 10 per transaction,2026-07-19T08:14:58,4.9.0.0
+en-np,d2b88940-86d6-4617-b4b5-d7c024e66539,Muletti Pushpa Raj,5,bharpardo appp,2026-07-19T08:14:04,
+en-np,a1a1ea2e-0adb-432e-969a-89be95f8002f,Azay Mahato Tharu,5,good performance,2026-07-19T08:04:46,4.8.3.1
+en-np,14f709ca-b51f-4486-ad74-3f1333288570,AyU sH,1,service down,2026-07-19T07:59:53,4.9.0.0
+en-np,18fcaf2c-454c-49c1-b842-7d9219861dfd,Aefive,5,easy to use,2026-07-19T07:53:17,4.8.3.1
+en-np,0ef19cbe-2dc1-4901-a638-cda85a0d7269,Prince bista,1,some time take 10 rupya charge esewa to esewa transfer,2026-07-19T07:49:23,4.8.3.1
+en-np,e2c38e21-1a20-4e82-8a65-b3af269cca08,Jagdish Thapa,5,very good,2026-07-19T07:48:39,4.9.0.0
+en-np,e82fb6e2-f197-4c4a-bf90-0119dc563c9e,Ram Magar,5,easy and fast transaction 👍,2026-07-19T07:46:14,4.9.0.0
+en-np,cd7a387d-506c-4be4-80a3-0ec032d58202,Sakib Ali,5,good apps,2026-07-19T07:41:54,4.9.0.0
+en-np,7f54063a-4961-4dd4-b9f4-c9318a76fbd4,Mukunda Pudel,5,very good.,2026-07-19T07:34:10,4.8.3.1
+en-np,562abf39-7be8-43c6-b64a-88259d4cd0ce,TechNicker Gadget Boy,5,for daily use perfect and easy to use,2026-07-19T07:28:37,4.8.3.1
+en-np,131cc239-17c6-4c50-a9fc-696a18270479,Suman Bhomjan,5,doog,2026-07-19T07:22:16,4.9.0.0
+en-np,aa31e4ca-51bb-419a-b2a5-eaf3051e0f09,Shyam Singh Rajput,5,good,2026-07-19T07:08:01,4.8.3.1
+en-np,f23ed4b5-af60-436d-bec8-fd84bc6f1717,Sabin Shrestha,2,average need to more updates,2026-07-19T06:54:21,
+en-np,090db3dd-876a-48e4-8101-b27b1db2a849,Dhana Deuba,5,ekdam ramro cha service I like it,2026-07-19T06:53:48,
+en-np,b84e9409-7dd7-46cb-9c93-aa9bb2a19c6e,Lakraj Shahi,5,fast and reliable,2026-07-19T06:52:41,4.8.3.1
+en-np,62a8bee3-149b-4df6-ac58-b5e9fb36a573,Deepak Bhujel,5,good,2026-07-19T06:51:59,4.8.3.1
+en-np,40dd7b26-dbd2-4b91-8e2d-a44a3040f229,nischal Gurung,5,nice wallet,2026-07-19T06:51:07,4.8.3.1
+en-np,7665418d-63bd-4d64-aee0-f03c43ef5202,Nishant Mishra,5,App is too good and helpful for money transfer,2026-07-19T06:50:49,4.5.0.1
+en-np,8e066528-adb3-4c4e-948d-dc8203a1c784,Simon Magar,1,eSewa same ho yo nepali huru la use garno xordew amount dhearai Vaya paxi automatic le block amount garay Ra paisa khanxa so all eSewa user don't use eSewa,2026-07-19T06:50:36,4.5.0.1
+en-np,d5f9fd33-5e80-4117-a0ef-f6c875dcdffe,Diwash Mishra,5,good,2026-07-19T06:48:47,
+en-np,1b257a3d-80d6-476e-bed0-50fe1727c8ba,Sanju Malla,1,crash,2026-07-19T06:42:48,4.3.3.5
+en-np,207f6a8a-a5d9-480f-a157-f45b70e81b8f,Crazy Army,5,better experience 😉,2026-07-19T06:40:26,
+en-np,716ffef8-5639-4fea-8b59-0838ec4b3499,Rambalak kumar Khang,4,best mobile wallet and easy use,2026-07-19T06:30:37,4.3.3.4
+en-np,bbb3599a-8ce0-4e07-a794-f285f18406f7,Rajesh Yadav,3,kam pare ko bela chali rah hudai na server down ma dhyan denu paryo,2026-07-19T06:25:23,3.12.2.2
+en-np,a29d3e17-7d1f-47fc-adee-31d9f5f516dc,Rakesh Khadka,5,nice,2026-07-19T06:23:25,
+en-np,4154f717-e7f6-426b-8c61-211c7eea8436,SWAG KTO MOH,5,good app,2026-07-19T06:17:44,4.8.3.1
+en-np,3584a5a3-53e7-4ed2-995d-d8b479b8ea0b,Nirajan Bogati,1,kahile fasau xa yesle,2026-07-19T06:15:17,4.8.3.1
+en-np,1d920e8b-c84e-4037-979c-955cf81f46e8,Sanjeep Yadav,1,veer poor,2026-07-19T05:56:45,4.7.0.1
+en-np,175ba4ce-958c-492c-b01c-7124c0d8e175,Susant Thapa,4,sometimes it's doesn't work thats why I rate you 4 out of 5,2026-07-19T05:55:29,4.8.3.1
+en-np,48268608-5078-4269-a6a7-cdf4fe71484f,Bikash Yadav,5,thaks,2026-07-19T05:54:04,4.8.3.1
+en-np,3a99e19d-b6be-4b6a-b743-fd9df1d94aa5,Jishan Rain,5,good,2026-07-19T05:50:04,4.8.3.1
+en-np,03702d9b-1f62-482b-b56e-8dff2779e5f5,rabindra bohara,5,good and bad both equal,2026-07-19T05:49:20,3.8.15
+en-np,983c5821-4f86-4234-bd58-33329744f0f2,Suman Tamang,5,good,2026-07-19T05:41:21,
+en-np,dc316251-6e23-49df-b8ec-80307c135953,Rubal Bhandari,5,it's good,2026-07-19T05:31:33,4.8.3.1
+en-np,fef9ae5d-4fc8-43b5-807b-d2e8569078e4,D4EVIL YT,3,good,2026-07-19T05:30:18,
+en-np,03fc4a4f-bb2e-4818-9535-6eb3541cb56b,Nerish Shrestha,1,doesn't work on my device xiaomi pad 6. stuck in location services,2026-07-19T05:28:53,4.8.3.1
+en-np,b03b8f8f-c7af-4483-a4a9-b43b4b16c715,Suzon Kec,4,ok,2026-07-19T05:28:53,4.8.3.1
+en-np,4aee62a7-e454-4b2a-9955-eda56f2ba930,Prayutsu Pokharel,3,They charge Rs. 10 extra for no reason in the name of tax,2026-07-19T05:27:08,4.8.3.1
+en-np,ef39a59c-6876-43c3-bcc5-8183072540ac,patrick lee,4,easy and very good..,2026-07-19T05:14:41,4.8.3.1
+en-np,c7a49e5f-e13d-49a5-b404-70a4dd34f067,lalitjung,5,best ever,2026-07-19T05:12:47,4.8.3.1
+en-np,b11948a9-ec44-4ddd-91b0-8e358a57ccc1,Rajesh Khatri,5,best,2026-07-19T05:12:08,4.8.3.1
+en-np,b0698e24-fc2a-4ee9-8f76-1097b42e7abc,Hariom Goswami,5,good,2026-07-19T05:07:11,
+en-np,d4b0b5e5-fa51-4bb2-8ff7-288a9dd3cf6d,AB Gaming,3,good app,2026-07-19T05:06:47,4.8.3.1
+en-np,dc4671f9-db66-4c80-b836-50e48afa4973,OPメ፝֟፝ɴสmiꔪ࿐ {LEADER},5,good,2026-07-19T05:06:07,4.8.3.1
+en-np,bfb2d1ed-54c4-4bce-9e3b-b055cd4d5f09,Gangesh Mathema,3,every timing service error....,2026-07-19T04:56:29,4.8.3.1
+en-np,b2310e4e-dc01-447f-a1cd-4bea511913b0,Anish Rai,4,nice,2026-07-19T04:52:05,4.8.3.1
+en-np,ef317fbb-bd55-44e7-a356-9f7fa9376219,Lukesh Chaudhary,5,nice,2026-07-19T04:45:55,
+en-np,e04ba2cc-b37c-4ee5-a295-58d2a3f3f304,Bivush Bhujel,5,good,2026-07-19T04:43:35,
+en-np,22b6b082-e874-44ff-9184-d4edf44b4d89,Anil Xettry,5,excellent,2026-07-19T04:39:32,4.8.3.1
+en-np,6aa03d5d-715c-49a1-9fe6-9e227f2cd32b,Samip Saud,4,it was glad to use esewa,2026-07-19T04:24:33,4.8.3.1
+en-np,135deadd-d444-41ce-b479-14ea742241e6,Bikki Khadgi,5,very good i like it very much,2026-07-19T04:20:46,4.8.3.1
+en-np,59f72e09-b2fa-4ddb-978b-9793b9a864c7,Aryan Roy,1,kam pareko bela kaile kam na dinee khattam xa khattam !,2026-07-19T04:20:03,
+en-np,c5be40e2-0a16-45b4-98f0-4d3e25d90349,Roheet Shrestha,1,worst,2026-07-19T04:16:39,4.8.3.1
+en-np,cba324be-5953-4bab-afa0-56059d08124e,Abishek Karki,5,I am very happy to this app this app is really good,2026-07-19T04:15:18,
+en-np,169d8827-0941-4d4d-9d92-dbce77ec2dc3,Binay Shrestha,5,very good,2026-07-19T04:14:33,4.8.3.1
+en-np,1c547ffe-0b27-41a4-ab1e-413dc4a839fb,Prashant FF,5,best wallet and save the money,2026-07-19T04:09:26,4.8.3.1
+en-np,2d512060-fa13-487f-ab74-08b7e181c2b1,Shashi,5,good,2026-07-19T04:08:13,4.8.3.1
+en-np,e567967f-c411-42dc-b53b-79a554aa1bb2,Siddhant Singh,4,good,2026-07-19T04:06:10,4.8.3.1
+en-np,402b3d47-b0d4-44d3-8687-6da369f4ac63,Sannjay Lepchaa,5,very nice,2026-07-19T03:55:06,4.8.3.1
+en-np,d57d5a67-7dab-4f1e-97b9-e349981d4a71,Sandeep Neupane,5,very satisfied,2026-07-19T03:54:55,4.8.3.1
+en-np,bc2af5c5-0c35-4c6d-a33b-96c4a0083405,Aadarash Yadav,4,better work easy to pay,2026-07-19T03:54:27,4.9.0.0
+en-np,149785c6-92aa-43f6-a524-43a09ac3a45b,Jeevan Paharai,5,So far doing good,2026-07-19T03:50:13,4.8.3.1
+en-np,bfb9548e-dc8e-4776-b4f4-63ccd86d3548,Sujana Regmi,5,awsome apps,2026-07-19T03:33:29,4.8.3.1
+en-np,83de4138-b378-49b7-9f37-e45a4c56ec5a,Madhubista,1,this aap save,2026-07-19T03:33:14,4.8.3.1
+en-np,00f677d8-6348-47e8-8ebd-687208ea89c0,Jayesh Karki,3,"It's not so trustworthy, sometimes the payment cannot be done, giving a lot of stress.",2026-07-19T03:28:39,4.8.3.1
+en-np,f1aca2dc-cd56-49f9-95f7-364f4b7e4e86,Question Rise,1,time saving,2026-07-19T03:27:22,
+en-np,eb874c2d-7ba1-424f-b43d-e2fcc0f9fef6,Dipak Limbu,5,nice,2026-07-19T03:25:55,4.9.0.0
+en-np,77f35466-706d-4565-94b5-88c3808fb146,Ribis Tamang,5,it good to use at the expensive store,2026-07-19T03:14:25,4.8.3.1
+en-np,a45eb046-5e57-4441-b869-b72628dd7bc5,Dipak Sah,5,ramro,2026-07-19T03:11:27,4.8.3.1
+en-np,fb8b8f53-d9ac-44b0-8673-1266453263c8,Rabina,5,this app is so esey to money transfer,2026-07-19T03:07:33,
+en-np,e73cee4c-801b-4f8c-9bd4-909e15cb9e91,Abhay Gupta,1,"Very bad experience for business accounts users 😔 , any customer support portal also help for any problems with us.",2026-07-19T03:05:40,
+en-np,0e94cd3f-c9a6-4b11-9b11-cbc80ea472a5,Subash D Bayalkoti,1,fun,2026-07-19T03:02:11,4.8.3.1
+en-np,b437a2ba-4f9f-4f75-9316-159b02324a31,Aashish Rawal,4,lovely,2026-07-19T03:01:32,
+en-np,c14d6fbf-a3e8-4bad-8295-38a6c061930d,subash tamang,3,Sometimes didn't work,2026-07-19T02:55:49,4.8.3.1
+en-np,eafba5c8-4c31-4a35-ad2d-612e341811a1,Satya Thapa,5,great,2026-07-19T02:44:25,4.8.3.1
+en-np,f8a60a7c-ab6f-487a-8b87-4e70a527182e,San Jeev,2,Not good,2026-07-19T02:39:51,4.8.3.1
+en-np,9e32a5a7-c8aa-4ae7-a3bb-b6a948a5a8eb,Gaming with Aladdin,1,worst App,2026-07-19T02:38:25,4.8.3.1
+en-np,b478efde-8706-4ffa-b0d8-7d3de5e312a8,Vision Singh,1,good,2026-07-19T02:36:51,4.6.1.0
+en-np,51d0a01a-b6c4-46de-a278-0d50328a1a2e,Rohit Das,3,fantastic,2026-07-19T02:35:52,4.8.3.1
+en-np,e65241d0-41ee-40a2-985e-217d105e10ee,Puja Sah,4,best,2026-07-19T02:28:57,
+en-np,8d758fd8-544f-4613-8eab-76e911332910,Yana Gurung,3,i use this app very frequently but those points I collect are so useless.provide some motivation prizes so I can recommed others to use this app thank you,2026-07-19T02:28:50,4.8.3.1
+en-np,534883a5-2b37-46c9-8959-e21c08f02765,Kanxa Rai,3,Good,2026-07-19T02:28:32,4.8.3.1
+en-np,d32aee27-1cd4-4325-a80b-dc5a9d629407,Anup Subedi,1,single trancation it cut 10 Rs charge and untill 10 transaction it become Rs 100 how we rate 5 stars,2026-07-19T02:20:01,4.8.3.1
+en-np,19db948f-375c-40c5-af54-5b660546df83,Durganand Paswan,3,not bad,2026-07-19T02:17:59,4.8.3.1
+en-np,601a8c3e-bb17-4a0b-9094-16ac9360cd67,Samarpan magar,1,worst app ever,2026-07-19T00:23:11,4.8.3.1
+en-np,3bf6c16d-f967-4c9b-ac58-ed9c6dccf840,Som Lama,1,yo app sake samma nachau nu naj best jo yo app le kun din khanxa manxey ko sabai kura khanxa,2026-07-18T15:21:36,4.8.3.1
+en-np,4204e2f6-75be-4f01-945c-7071f76b7164,Mukesh Sah,5,thank you 😊,2026-07-18T12:13:14,4.8.3.1
+en-np,16c00999-d263-4d82-b19c-747e66310453,Ronaldo Devil,5,very good,2026-07-18T11:59:35,4.8.3.1
+en-np,c3653182-4cc3-4875-9bc5-d11043988bbe,Tenji Sherpa,5,Great 😃,2026-07-18T11:57:50,4.8.3.1
+en-np,c48bc0e5-fc74-4573-a315-64b28432d5e4,Prem Singh,1,good,2026-07-18T11:51:23,4.8.3.1
+en-np,fa278bbf-4a66-45c2-9904-f8ec27df3706,zen怎 trxsh,3,thik chha,2026-07-18T11:49:30,
+en-np,875b936a-9f0c-4b55-8f48-618192ae9e38,Nesa,5,very good,2026-07-18T11:49:28,
+en-np,dd939d7c-d92c-4501-9241-82baf0b6775b,Gopal Gurung,5,easy,2026-07-18T11:44:50,4.8.3.1
+en-np,73ec075c-95ac-489a-94db-b2c7db1e5f51,Bipasha Yogi,4,good but sometimes money doesn't transfer or doesn't given return money and late payment message,2026-07-18T11:44:01,4.8.3.1
+en-np,454ebb78-5f88-4b0d-bf41-5c89d53b1e01,Dipak Bhatta,5,nice,2026-07-18T11:43:02,4.8.3.1
+en-np,281d04c6-152e-47d5-914b-9e721609c2b3,Tirtha raj Bhandari,5,nice,2026-07-18T11:36:51,4.8.3.1
+en-np,2184f9fc-5b4f-4acb-8ce0-eec9aad3fb5d,Jack Magar,2,good,2026-07-18T11:27:11,4.8.3.1
+en-np,e396b670-81a4-456b-96ff-6d60240e77ea,Ishan Dangol,2,do not function well,2026-07-18T11:17:39,4.8.3.1
+en-np,3178eba4-3be4-45a4-b16f-aa4c79eddfa7,Kishan Poudel,5,"Saabai ramro cha. System leh chai kaile kai payment garda dhoka dinx beijat garauncha nachalerah tyo time mah chai hotel, restaurant and gas station mah dish wash Garna ko lagi ready vaerah basda hunx😁🤗 part of joke.. overall all good. Note:: Rewards redeem claim garda chai dherai tham scam vako cha so milcha vaney reward laai pani cash mah convert garera afno esewa wallet mah withdraw garneh environment launu parcha mero reward 4000 pugna lageo tesko kei kam jo chaina.",2026-07-18T11:17:23,
+en-np,e99cf9c5-6991-4599-a5de-aa91413d5eac,Abhishek Sunar,5,good,2026-07-18T11:16:43,4.8.3.1
+en-np,548bc54a-d436-4962-a9ed-75c015087a42,Hem Paneru,5,paisa badhi katxa per transaction ma,2026-07-18T11:14:10,4.8.3.1
+en-np,0e9a41ce-539d-4a4f-ae18-95efcecce234,Suveksha Khatri,5,best,2026-07-18T11:11:51,4.8.3.1
+en-np,32d811d0-5da8-45f7-900c-89cfe536b1f8,Akhilesh Sah,1,jailay glich aauxa,2026-07-18T11:11:01,
+en-np,de63fc0e-df13-41f0-b6f2-170e6a3150a1,Sabina Magar,3,worse,2026-07-18T11:06:53,
+en-np,f7599962-3e0b-48dc-a477-c29fc48df7f7,Dilip Bk,5,good job,2026-07-18T11:02:46,4.8.3.1
+en-np,c748acb8-dfa3-4ee6-a120-2fba513f1632,Swornim Kazi,1,bekaar xa,2026-07-18T10:56:55,4.8.3.1
+en-np,d28104c3-3649-4e1d-b8ca-db637a95c9a9,Josh Stanzel,3,sometimes server not work well,2026-07-18T10:56:30,4.8.3.1
+en-np,f6ccd6bd-2a90-40b8-b925-6c0c19e3d907,Hack,2,easy to use but Only 10 transaction in one Day,2026-07-18T10:44:52,4.8.3.1
+en-np,b199017d-6664-4f98-ace5-23b38b3cd663,Premlal Uparkoti,5,sometime good sometime bad but always great 👍,2026-07-18T10:43:20,4.8.3.1
+en-np,93b77781-863b-4dc5-8d57-78d7113fdd94,Ramesh Dahal,4,my app is up to date but why i dont get loan & inverment features?,2026-07-18T10:32:57,4.8.3.1
+en-np,c32d0884-c247-4741-a16a-e3ec75e97eeb,B.Manish Yadav,5,good 👍,2026-07-18T10:32:30,4.8.3.1
+en-np,534657e9-cb4f-47e8-a680-6ab92a3af281,Sauzan Jung,1,bad,2026-07-18T10:32:21,
+en-np,8b535e1a-f23d-4155-a1ab-9f8f1c4fae47,Dikesh Gaming,1,every time the server is down,2026-07-18T10:26:47,
+en-np,9b3f5027-3292-4872-9991-0e8c53307c3d,Cr rupesh,3,it get stuck.,2026-07-18T10:25:37,4.9.0.0
+en-np,0d077deb-722e-4b73-9a6e-f600082c262e,sachin olee,4,It's ok,2026-07-18T10:19:49,
+en-np,56a7d75b-10af-4f69-81be-5ced38681633,Gaurav Neupane,5,babal xa,2026-07-18T10:17:48,4.8.3.1
+en-np,030ca7cd-d881-45ff-bc2e-389eb1947d8e,Bhola Bhandari,4,Good but sometimes it's so slow to read QR,2026-07-18T10:10:49,
+en-np,de5b6298-424f-4b1a-b321-8040957070a3,Nakul Singh,5,digital platform ma mero fast choice Esewa ❤️,2026-07-18T10:09:34,
+en-np,a648f56b-8618-4f21-b5a9-640e921b8d5b,hemanta chemjong,5,easy to use,2026-07-18T10:07:55,4.8.3.1
+en-np,b7670892-6dc8-45b4-adaf-dcda7eafcd67,Laugh Forever,4,goof,2026-07-18T09:56:31,
+en-np,cae659de-0730-4832-9832-965c66698ec9,Esha Lama,1,showing I'm not the same person just because I get little fat. is eswa scanning is that bad I have tried many times it's showing not same person so poor scanning system,2026-07-18T09:54:53,4.8.3.1
+en-np,3ae8cced-ea00-4def-9078-8b4cc21b03de,Sujita Karki,5,Easier,2026-07-18T09:42:02,4.8.3.1
+en-np,6c292c24-afcb-4d8b-b38a-93ae49f770f8,Razza Gupta,4,good,2026-07-18T09:35:15,
+en-np,7aa33be4-ce25-4aaf-8462-5dd4a2380ab7,Ceo Bhola Tharu,1,bakwas,2026-07-18T09:33:32,4.8.3.1
+en-np,0c3709f5-4bb8-4856-b6e7-14e081a8ab5a,Md Ahsan,1,I just want to give 1 star,2026-07-18T09:31:32,4.8.3.1
+en-np,9a2f0140-a9f0-4b5c-8cc0-a1a691a75ae6,Dipesh Chhetri,4,All good,2026-07-18T09:31:27,4.8.3.1
+en-np,7f737a51-6fd2-4826-b750-2d17c941535a,Binod Kc,3,daily user,2026-07-18T09:31:09,
+en-np,0a2c8803-78c1-46e9-a002-eb2ce5b96da0,SANJAYA RAI,3,Kaile kai emergence paisa pathauda pending ma 24hrs rakhdinxa aru baki ta thikai ho,2026-07-18T09:23:57,4.8.3.1
+en-np,cfbfbd02-5d86-4926-8238-4efb781452ca,Awafu Tech,5,Good,2026-07-18T09:20:13,4.8.3.1
+en-np,5210f839-eeef-4d46-90af-8361f52f9186,{KOR} {LO},5,nice app,2026-07-18T08:55:01,4.9.0.0
+en-np,d6e1ff98-41d6-4f16-ac86-642f173a7ff2,Noor Mohammad Ansari,5,good,2026-07-18T08:54:03,4.8.3.0
+en-np,2dfb88ef-9b78-45e6-8f09-e53ec97b740c,Hancy Hunk,5,Very nice,2026-07-18T08:48:50,4.8.3.1
+en-np,94c7d388-2420-4684-b32e-9c5f106e33d1,Sonam Tamang,5,wow,2026-07-18T08:46:18,4.8.3.1
+en-np,5c0417f5-e2b8-40eb-8f29-71afc8b50f0e,Gyanendra Rana,5,easy to use,2026-07-18T08:40:05,4.8.3.1
+en-np,8f57a140-1463-4399-8c28-242da437ca33,Anysh Gãming,3,hang too much,2026-07-18T08:38:17,4.8.3.1
+en-np,baa82a2c-b010-4738-b900-9a911f44da45,Piyush Thapa,5,nice,2026-07-18T08:31:20,4.8.3.1
+en-np,21240d9f-1cb0-4f7c-993e-5713e55254f0,Sita Guung,5,nice,2026-07-18T08:28:03,4.8.3.1
+en-np,af77fe4d-7715-42d8-aa32-3aea8ac5ca9b,ravi chettry,5,I like it,2026-07-18T08:23:18,4.8.3.1
+en-np,b02343a6-f7cc-491b-8de2-c051ebde05c0,aalok giri,4,some time my esewa server was not working and I was miss my many more payment,2026-07-18T08:22:37,4.8.3.1
+en-np,0b2fcb34-59b2-475c-a78a-3ec161888f9d,Manoj Sah (Manoj),5,Good,2026-07-18T07:59:28,4.8.3.1
+en-np,0bf0a6de-8a64-4ab3-a1e6-0ebebcb3a4e7,TM LAA,5,Nice,2026-07-18T07:56:01,4.8.3.1
+en-np,0e39e193-0659-404d-8d18-8fe6bf2cbafa,Mahakaal,5,its a good app,2026-07-18T07:51:02,4.8.3.1
+en-np,946c19f2-814e-4ec5-ad73-e2c1271a6045,Prakashsubedi Prakash,5,Good orking,2026-07-18T07:50:49,4.8.3.1
+en-np,b17e8a21-58a3-49d5-8b7e-9019dd582ea4,Om Tamang,5,this app is very good for pay money 💲 easily withdraw money and easily receive and send,2026-07-18T07:49:07,4.8.3.1
+en-np,c119f152-47d5-43a6-9a58-8ddb9f5f9105,Luffy Chaudhary,5,good,2026-07-18T07:46:58,
+en-np,4b20c6aa-5716-40cb-bf0a-dd460cb2bf3b,S Bhagat,5,very good application 👍🏻,2026-07-18T07:44:56,4.8.3.1
+en-np,9ca22e32-b400-4710-9f3f-968f540a1074,Srn Vlogs,5,it's nice,2026-07-18T07:38:14,
+en-np,b9460804-2b93-45e0-853b-d4dd68b0269c,freak aadarsh,4,good yrr,2026-07-18T07:30:18,
+en-np,2bb2a974-af04-418d-840a-92e06b6f545d,Subash Mahara,4,"sometimes payment delay occurs ,but allover it is good",2026-07-18T07:25:21,4.8.3.1
+en-np,c08bd7ed-6a59-4130-a01a-208ae673ad65,Roshan Sah,5,good,2026-07-18T07:24:49,4.8.3.1
+en-np,89f0634f-b4bb-4210-9090-3736ca005f40,srv yuvraj,4,great app,2026-07-18T07:24:15,4.8.3.1
+en-np,79e6b5cc-03bc-44cc-840c-4020a1695e4d,Mohan zimba,5,most useful app,2026-07-18T07:01:46,
+en-np,5369afad-1cac-4ef0-a860-58d6782eda98,Rahul Jaiswal,5,good,2026-07-18T07:00:17,4.9.0.0
+en-np,d8725556-9bb4-44f6-9525-71a0204390f2,Amrit Kurmi,1,ok,2026-07-18T06:58:58,
+en-np,230674cc-b778-47b9-9239-7902b8598021,Randeep Yadav,2,not better than phonepe and google pay in india because they do not consider any changes for balance transfer,2026-07-18T06:55:02,
+en-np,7e7f29f5-d852-4a4b-bca1-4e285bc9b9da,Guddy Verma,3,it's good,2026-07-18T06:53:12,4.8.3.1
+en-np,0df82a7b-fce0-4198-b503-b9022dafed3d,Rain,5,excellent,2026-07-18T06:51:05,4.8.3.1
+en-np,e5ba8070-2b20-4225-b110-15412fc9ac41,Sushil Thapa,5,loging gara tw mero I'd,2026-07-18T06:49:28,4.8.3.1
+en-np,5f0b6698-abc7-4ac7-a755-a006f0c710d3,Abhi Singh,5,best online payment app,2026-07-18T06:49:06,4.8.3.1
+en-np,346a3bb7-6f53-45a2-8bd3-269eb632d7a7,Chandan Yadav,5,wau,2026-07-18T06:40:06,4.8.3.1
+en-np,48efed07-4ded-4265-af50-be2afd11aadf,omrj shop,5,good,2026-07-18T06:39:01,4.5.0.0
+en-np,04583757-5377-4c1d-80fd-ffaede74977c,Yagya,5,very good,2026-07-18T06:32:38,4.8.3.1
+en-np,9496f4f0-310e-4cc5-a4d0-707c18aaf21f,Jazz Rai,5,great app and very easy to use😍,2026-07-18T06:24:39,4.8.3.1
+en-np,b1fbeb72-7cf1-4da8-9aef-975398aa2ffb,Mumtaz Ansari,5,Good Ui🙌,2026-07-18T06:20:29,4.8.3.1
+en-np,3db3b322-fe5e-4e92-b225-41ddaeb557cd,arjun mandal,5,easy to use well supported,2026-07-18T06:17:57,4.8.3.1
+en-np,3e502893-916d-4a7b-9879-5ac8388195da,Arambha Shah,5,good,2026-07-18T06:09:32,
+en-np,d57aff3a-24ea-41d9-abde-0be41f97469a,Menuka Karki,5,this app is good,2026-07-18T06:08:28,4.8.3.1
+en-np,26ed668e-d9a8-4b0c-88cb-f61be2e9b06e,PPN Infosys,5,good,2026-07-18T06:06:11,4.9.0.0
+en-np,fd418eca-89f9-4b2a-b628-21f392748aa1,mohammad imran,5,good,2026-07-18T06:03:32,4.8.3.1
+en-np,c75bbb7f-5821-40e7-830a-865c3b7ea795,Sunil Poudel,1,why don't i get notification of money sent or received? is it feature you've disabled? because i remember it was not the case in earlier days,2026-07-18T05:57:28,4.8.3.1
+en-np,71603ff9-bf5a-4d10-be94-2937691685c6,Karan Shrestha,1,"I have been using eSewa for a long time, but it frequently experiences server downtime. During these times, I cannot transfer money to bank accounts or make payments, which is very inconvenient. I hope this issue is resolved as soon as possible.",2026-07-18T05:48:39,4.8.3.1
+en-np,80a9a28d-9f5b-4cb4-a63a-b4d94e9d7709,Murli Yadav,5,good,2026-07-18T05:44:23,4.8.3.1
+en-np,de1cf8c7-2b23-40a6-a40f-ee3513367a54,MANISH AND JIVAN VLOGS,3,I am giving 3 star because something when I was in hurry it didn't work and I got frusted.,2026-07-18T05:44:02,4.8.3.1
+en-np,c68491b5-a885-4b86-9866-deeb1fdd9a07,Saraswati Chataut,5,best,2026-07-18T05:43:05,4.8.3.1
+en-np,845a37ec-5419-495e-b920-026d2481b1e9,Bipin Sinjali,5,fast service and easy to use 😊,2026-07-18T05:40:09,4.8.3.1
+en-np,0bf16131-7d8e-449a-a32b-cb343992d06f,Shambhu Poudel,5,good,2026-07-18T05:40:02,4.8.3.1
+en-np,03448dcd-2a7f-405e-b9a2-40da732c7832,Nasima Khatun,2,Service is not good,2026-07-18T05:38:44,4.8.3.1
+en-np,94ddd128-c8c9-4af9-84ed-dd15828140c0,prasant sunar,5,it was owomoase,2026-07-18T05:34:34,4.8.3.1
+en-np,bed316ae-54f7-4609-8fd7-93b7be217eea,rohit gupta,1,any time problem,2026-07-18T05:34:20,4.2.3.1
+en-np,0d412290-96e9-4f99-8bf6-7f84db1bd5b8,Ajaya Rai,5,good,2026-07-18T05:27:54,
+en-np,5bb7c69d-e990-443d-802b-1049d6174c05,Dilkash Raza,2,nice but limit is very bad,2026-07-18T05:26:31,4.8.3.1
+en-np,b74af849-2926-4375-a520-ecf4a0001aa1,Karuna Rokaya,5,good,2026-07-18T05:20:10,4.8.3.1
+en-np,1f8a8d28-06e3-4e0e-b026-7ef36e00d847,gyanu Magar,4,good,2026-07-18T05:18:40,4.8.3.1
+en-np,20e8b78f-68ad-4ffb-97ca-facda61c8665,Saheb Khan,5,मलाई एकदमै मन परेको वालेट हो यो एक दम भरपर्दो विश्वसनीय पनि रहेको छ,2026-07-18T05:17:26,4.8.3.1
+en-np,13eb8dcb-1e9d-4484-8904-e2f2706dc4ab,Crypto Mining,5,good,2026-07-18T05:14:18,
+en-np,25ff49b9-22c9-4aa6-9677-a260599257d2,Himanshu Khatri,5,best appp,2026-07-18T05:13:07,4.8.3.1
+en-np,e903af89-4cc9-4707-a48b-0ecc7bb8a8c7,Sujan Luffy,5,very nice,2026-07-18T04:49:41,4.8.3.1
+en-np,8cbaf455-5560-4293-b77a-526f64ce02d2,suwarna Yonajn,5,it's fast and convenient,2026-07-18T04:46:34,4.8.3.1
+en-np,2e8ad0c0-909f-4446-8fc7-5349222d04a2,Bhuwan Kunwar,1,worst,2026-07-18T04:43:12,4.8.3.1
+en-np,45166464-826f-4a57-a480-9d5cf7251fc7,Sushant Singh Bhusal,4,it's does not work sometime,2026-07-18T04:34:10,
+en-np,d955856a-d7b3-4fe9-a794-04d326427360,Sandip Limbu,4,good to pay without carrying money,2026-07-18T04:20:16,4.8.3.1
+en-np,869d00d2-6369-449f-8e6c-4f663a6a7239,YU BR AJ SH AH,5,all good 🙂,2026-07-18T04:09:58,4.8.3.1
+en-np,fc86fd1d-52ce-4619-9088-9473ba7e9f99,Amrit Sagar Dudh Bikri Kendra,4,Reduce unnecessary advertising and advertise poorly for genuine and customers.,2026-07-18T04:07:57,
+en-np,38f9cf79-4c91-4327-acc5-2347f3666c96,Kritika Pariyar,5,it's really good,2026-07-18T04:07:10,4.8.3.1
+en-np,cb97bd63-6f7d-4b19-9523-524d1fa4aa05,Dipu Shah,5,digital made easy i know there are many issues need to be solved .,2026-07-18T04:00:35,4.8.3.1
+en-np,158ca204-12f4-4f70-98f8-dd29aa5884ae,Radhe Shiyam,3,nice but not working fast,2026-07-18T04:00:28,4.8.3.1
+en-np,2eea880a-f1aa-4dc8-819d-2368f6fb5659,Unique Tamang,5,good,2026-07-18T03:52:36,4.8.3.1
+en-np,12eab02e-6bd5-4b63-a955-f35fdc195fc0,Sunny Prakash Mishra,5,Good 👍,2026-07-18T03:51:33,4.8.3.1
+en-np,b579bf9a-be7e-4ec3-95cd-407134a327c5,Nikhil Ghimire,5,bad luck,2026-07-18T03:50:12,4.8.3.1
+en-np,df0fccb3-195d-4dd2-b3aa-41579f517ef4,Ganesh sharma,4,very helpful..some urgent time it not working ....finger print function not reliable,2026-07-18T03:47:41,4.8.3.1
+en-np,1fd4d4cb-0866-4aa2-a4cb-909108ab3d80,Sanjay Kumar,1,bad experience not good.app,2026-07-18T03:29:49,
+en-np,b54343ca-7f88-4221-8096-88f6b37988d8,Jittu Joshi,4,"Great service, UI and Features but sometimes its slow or it just doesn't work at all",2026-07-18T03:17:20,4.8.3.1
+en-np,ac810de9-3976-4c49-bf9d-b3acbe09cd30,Rijan Kunwar,5,still need to upgrade costumer support,2026-07-18T03:07:30,4.8.3.1
+en-np,dcbab5c8-44ed-497e-8819-4a82a903cacd,Aashik Kumar,1,This is too much bad app its so weird app in play store . badest online transactions appp ever .Khalti is well as esewa service,2026-07-18T03:03:38,4.8.3.1
+en-np,1a1f4ee3-ff9b-4428-b0c2-3bd4b0b91ebf,Asmita Chaudhari,5,nice,2026-07-18T02:51:06,
+en-np,81351799-3064-466c-8f9c-a68cadff0e27,Basudev Bhattarai (Basu),5,nice,2026-07-18T02:45:36,4.8.3.1
+en-np,0132c607-97e0-461e-bb29-1392ad88ccde,Rabita Yadav,5,good,2026-07-18T02:39:33,
+en-np,7ac03479-920a-444d-aa47-4603b40093ff,Laldev Sah,5,very used full app,2026-07-18T02:38:12,
+en-np,2b11bc69-9b0f-4d0b-ac2c-4dce7b23878b,GD Gotame,1,Yak no ko scam app ho yeo yauta bata arko ma paisa hale ko 10 rs legcha eseva to eseva pani scam. bank baru bank ma katdaina. Worst app of nepal. 10 ko dar lea katcha eseva to eseva ma ta yeo batti ko paisa terda matra use garchu baki sabai mailea banking bata use garchu ya ta khalti jindabad. 1 star from me to Eseva aaja 0.5 star bha ko bhayea teo dinthea worst.,2026-07-18T02:32:38,4.8.3.1
+en-np,becdcb59-9eda-4efc-beca-605d23a7872c,Rambikesh Mukhiya,1,cut the charge rs 10 after more than 3 payment in a day,2026-07-18T02:31:40,4.8.3.1
+en-np,d0a5d9e4-e3c2-467e-a869-88edc185cc6c,Rameshwor,5,wow,2026-07-18T02:19:48,
+en-np,72789c5b-746b-4705-aedf-881e582e37d6,Ramesh Mahato,5,nice,2026-07-18T02:15:58,4.8.3.1
+en-np,fb8e8405-9033-4b9c-b080-d39959ceeda0,kushe . Mukhiya,5,Nepal 🇳🇵👍👍👍👍👍,2026-07-17T17:30:50,
+en-np,11a76a80-3151-4064-a133-fa77699e063d,Kushum Raut,5,easy for every things,2026-07-17T16:12:25,4.7.0.1
+en-np,f987ab4b-0e37-415c-9a47-641c3d4bfb19,Love Series,5,ramro wallet. Mero ma Pani loan sewa update gardinu hola,2026-07-17T15:17:38,4.8.3.1
+en-np,3dea6c76-4291-4bc7-a5b8-757449eb60f4,Remon Magar,5,sometimes disappointed but other services are fine.!!,2026-07-17T12:14:53,
+en-np,10225034-63e6-4ebd-96f7-d09905550a94,Arbin Poudel,5,very amazing,2026-07-17T12:09:12,4.8.3.1
+en-np,c5d0542e-9ee7-4129-b521-f91b4562d8b6,Prashant Ghimire,3,good,2026-07-17T12:08:54,4.8.3.1
+en-np,bef55731-1cbc-4b39-92d8-d69fadbb0eff,Spandan Gurung,5,good,2026-07-17T12:07:53,4.8.3.1
+en-np,36281025-c38b-4f6b-bb42-7999730b9179,Suvangi Bista,4,"nice app dont ask me to review it again and again, i already love it thannks",2026-07-17T12:07:18,
+en-np,99c0e589-d368-4019-9ca2-fd10e7a740ba,EasëStart,5,"Great. It saves me every time when mobank fails. I wonder about cashback benefits for recurring recharges, electricity bills and other utilities payments.",2026-07-17T12:04:50,
+en-np,d5fad152-d62d-40fa-8741-f1f172f54dfb,Bhole nath Agasti,4,nice,2026-07-17T12:02:59,4.8.3.1
+en-np,4c296dc4-787a-4f8a-aaf8-721359f693d6,Menuka Sunam,1,Good,2026-07-17T12:01:57,4.8.3.1
+en-np,cc3d8d25-5a58-4997-9c28-88f3018943e0,Shrijal Cuber,5,nicee,2026-07-17T12:00:40,4.8.3.1
+en-np,7814918d-8365-4a28-99c7-694499e26942,Amrit Dhital,1,sometime the app donot respond,2026-07-17T11:59:58,4.9.0.0
+en-np,faa92954-e5dd-41d5-b48b-3d5f315bcd64,Nawal Patel,2,good,2026-07-17T11:53:38,4.8.3.1
+en-np,90170d75-7326-44ba-a02c-bc34da932929,saru magar,5,good,2026-07-17T11:53:23,4.8.3.1
+en-np,25858b28-7b8d-44e0-a24c-c9282fc53c27,Najus Khadka,5,nice,2026-07-17T11:52:38,4.8.3.1
+en-np,55325e63-aae7-425a-bd91-bd4733014010,Gagan Chhetri,1,i cannot load esewa,2026-07-17T11:51:08,4.8.3.1
+en-np,266c9a39-4c94-4cf3-9385-fed6ae4936b6,Rishav Baskota,5,great,2026-07-17T11:50:53,4.8.3.1
+en-np,441ddecf-bdf2-4cf4-b92b-4d99219300e8,Laxman Kc,3,good but sometimes it's not work,2026-07-17T11:48:13,4.8.3.1
+en-np,ea477087-6964-409a-bcb6-4863d62a7395,SHEKH MD SAMRUDIN,5,My experience is 2 years in esewa,2026-07-17T11:45:37,4.8.3.1
+en-np,3c2094bd-86ad-46ce-a705-d3427d034ea4,Sandip Adhikari,5,lovely hai,2026-07-17T11:45:30,4.8.3.1
+en-np,44cc262b-0c87-4486-9503-ed7cf21fd2ca,Binod Saud,5,best experience,2026-07-17T11:45:00,4.8.3.1
+en-np,7ffff131-7fa5-48d2-a4e2-e1898788fcf5,Saksham shrestha,2,ghari chalxa ghari chaldeina,2026-07-17T11:44:51,4.8.3.1
+en-np,c2b645c9-7583-490e-91b5-b302eb263e91,Tara Ghimire,5,good 😊,2026-07-17T11:44:10,4.8.3.1
+en-np,01093c86-6f93-4b35-b1d7-c060918d8f47,Keshab Nepali,4,nice,2026-07-17T11:43:11,4.8.3.1
+en-np,65f26445-a8cb-4917-9791-d48607c18060,Dilip Khadka,3,Good,2026-07-17T11:38:01,4.8.3.1
+en-np,be9a3d95-5049-4b0a-ac5f-ea17e5568769,Bibek Rana,5,all good,2026-07-17T11:37:31,4.8.3.1
+en-np,15bb8c7b-c134-47e1-9cf1-430ab2af052b,Nagendra Rijal,5,excellent 👌,2026-07-17T11:33:37,4.8.3.1
+en-np,b458a970-66ba-40a1-8742-29b691ccdb25,Rajesh tamang gaming,5,love you this aap,2026-07-17T11:32:28,4.8.3.1
+en-np,7a09200b-bcea-4778-a4be-faca196be129,baji keisuke,4,sometimes server down,2026-07-17T11:15:20,
+en-np,509fe0f4-f84c-4eb1-a1d7-ae2c14313e31,Sasi Pa,5,Ali Kura thik Garnus hajur Aru thik X glitch dherai X bug off grnu,2026-07-17T11:14:47,4.8.3.1
+en-np,83493bd9-006a-47ed-a588-35c0af68a2b5,Rojin Majhi,5,good,2026-07-17T11:11:53,4.8.3.1
+en-np,1685196e-1008-4fde-97de-df4b8ee2f645,Jeevan Chepang,5,babaaalll👌👍👍👍👍👍👍,2026-07-17T11:11:45,4.8.3.1
+en-np,dd849ee6-a996-4e6b-8143-f9802cc65084,Chota Rider,5,good,2026-07-17T11:10:44,4.8.3.1
+en-np,5be6c585-548a-473c-ab29-d32f5c40956c,Rohan Roy,5,osm,2026-07-17T11:10:42,4.8.3.1
+en-np,f9c32258-f26a-4b9c-8717-0e2b1bf1fa80,ravi shrestha,5,very good experience n fast service,2026-07-17T11:08:37,4.8.3.1
+en-np,6ac88412-cc7b-4cad-aa33-7dca7e333eed,Samir dewan,5,very helpful and easy to pay or receive funds,2026-07-17T11:06:46,4.8.3.1
+en-np,b837d4f2-097b-422b-8c6b-33f765a79a72,Ngima Fenjo Bhote,5,best service,2026-07-17T11:05:06,
+en-np,e53fd12c-c1a5-4966-8702-52d0a71baa7f,Nabin Subedi,5,Good,2026-07-17T11:04:10,4.8.3.1
+en-np,8c0d2511-d9eb-497c-a1e0-a22ee8ad590e,kishan sah,5,good,2026-07-17T10:59:58,4.8.2.0
+en-np,acfa72c1-01a4-4765-9936-35e9600217d3,Binod Nepali,5,good app,2026-07-17T10:56:39,
+en-np,1fd164dd-133b-4891-aa97-79b834e2885b,Aakash Thakurii,5,😍,2026-07-17T10:47:25,
+en-np,4a28c9e7-4a4f-4f6b-baf5-760687992e42,speedlink tandukar,1,lastai problem aauxa,2026-07-17T10:44:03,4.8.3.1
+en-np,91b6c6e5-ed38-4c8f-a278-39d149b9e93a,Suraj Gaire,3,good,2026-07-17T10:34:39,4.8.3.1
+en-np,b38df678-8663-4d05-ab7a-8338a59d9e87,K4X YT,2,Bakwas,2026-07-17T10:30:31,
+en-np,86f668c7-5a77-4e84-a442-3982e38f8ee8,ABESH Beg,5,it is very good,2026-07-17T10:28:50,4.7.0.1
+en-np,99298771-bd6e-4bf2-8ad3-34b2a6429845,Sumit Kumar Sah,5,good,2026-07-17T10:26:42,4.9.0.0
+en-np,9f0e9e33-792c-468c-a9a1-86102ec1d5df,Prabin Subedi,5,nice cha,2026-07-17T10:26:05,
+en-np,5e63466b-1d4c-4833-aec1-910d7c75043b,subash kumar kushwaha,5,good,2026-07-17T10:20:59,4.8.3.1
+en-np,44b70b6d-8e26-40cb-8b8d-b300710d4b8a,Slopy,1,lado jsto app,2026-07-17T10:16:43,
+en-np,c8e549c6-703b-4f74-b67d-7a0fc7cd5c06,Abhi Bomjan,3,important time ko bela chaldoina,2026-07-17T10:16:21,4.9.0.0
+en-np,0a6a747d-7249-4737-958e-b60d3e6f231f,Roshan Gautam,4,great,2026-07-17T10:16:03,4.8.3.1
+en-np,61287528-f585-453f-964c-32d698f16206,Manish Humagain,5,Excellent,2026-07-17T10:14:04,4.8.3.1
+en-np,237a57b8-ae79-40ed-8e2d-b43dde2fd10d,Rajan Khadka,4,easy to use,2026-07-17T10:12:06,4.8.3.1
+en-np,f92c065c-d420-46a9-bd4e-f63867aeea4d,Sushil Bista,5,best,2026-07-17T10:07:32,4.8.3.1
+en-np,e2fc2e5e-fcf8-4159-9942-546795b42bc2,Prama Joshi,4,good,2026-07-17T10:01:15,4.8.3.1
+en-np,880828c9-78c1-4ccf-ad11-c4a8283710bf,Karan Neupane,5,very happy about e.sewa,2026-07-17T09:55:14,
+en-np,468da796-de52-40ff-835e-4d26f8b1d16b,ADVANCE MOBILE REPERING,4,good wallet,2026-07-17T09:51:55,4.7.0.1
+en-np,74f7723a-2e54-46b1-8d1c-0b311d1e6b85,Suraz Mahato,4,fast and easy to transfer money,2026-07-17T09:50:18,
+en-np,dd4e0b60-4d2b-461f-b4a9-d5d87f4c9966,Rey Mysterio,5,I love ❤️ 😍 this mobile wallet smooth fast n reliable. every option is good n best. and mainly we don't need to fear of losting cash money.i m enjoying this digital wallet app and keep going .I've also encouraged my family members to use this app. the best thing is it is easy to install n any one can learn to use this app faster cuz it is simple n easy.thank u for your digital wallet system,2026-07-17T09:46:41,4.8.3.1
+en-np,dc792d71-9102-4660-96f7-a93c1fd30527,Lalala T,5,nice,2026-07-17T09:42:07,4.8.3.1
+en-np,e28a57b7-6c10-4c2a-94ff-19981825dda2,Subash Ojha,4,very thing is good but sometimes service is unavailable,2026-07-17T09:39:21,4.8.2.1
+en-np,446b5db6-d231-4bf2-a8e0-ba1c0d7702f0,Dhiraj Pariyar,4,good but international transfer also available more thanbetter I wish esewa will think about this problem,2026-07-17T09:34:20,
+en-np,01f6d20e-0dd0-4b95-845e-4446c7b8f0cd,Tejnarayan Yadav,4,everything this is good but top up is not prefect bonus .. I was doing to much top up and electric bill then be possion not be change,2026-07-17T09:29:08,4.8.3.1
+en-np,fb5448d2-cb4c-40d7-a2dd-e3a9c4515c65,Bhim Saud,5,perfect for daily transaction,2026-07-17T09:17:18,4.9.0.0
+en-np,00260109-9ce8-492d-b006-bb8333a94d41,samir Adhikari,3,very good for payment but sometimes due to server issues it is not good,2026-07-17T09:15:29,
+en-np,019149a1-6910-489c-8b8a-b640a774276b,Albert woli,5,wonderful,2026-07-17T09:14:05,4.8.3.1
+en-np,d131896b-febe-4409-a462-0316ee8cc2ca,Amit Sardar,2,"eSewa's service is usually very good and fast. However, due to a mistake, the money was transferred to someone else's eSewa account. I immediately called eSewa customer care to report the issue, but I did not get the money back. The service is poor.",2026-07-17T09:12:07,
+en-np,0c2dac50-e364-465d-9c21-b7ebf7cc1784,Tasbirmandu Studio,5,liked it,2026-07-17T09:07:52,
+en-np,aab9a655-4ce0-462e-9cac-516d16727c0f,Life is beautiful,3,sometime it doesn't work. it doesn't show qr code.,2026-07-17T09:02:55,4.3.1.3
+en-np,1d83ef46-668c-49b8-94f9-010316f46a85,PANCHADHATU NEPALMS,4,🙏🏻👍🏻,2026-07-17T09:01:11,4.8.3.1
+en-np,1b3f02ab-65d4-4cdb-8863-4a40552145bd,Bisesh stha,5,Best,2026-07-17T09:00:51,4.8.3.1
+en-np,0a4d0c6c-29ae-4fbd-b755-6ac0ca23d499,Paban Bhandari,1,not good,2026-07-17T08:59:00,4.8.3.1
+en-np,044775cb-ed40-40b6-9adb-f305d211c312,Anju Lama,5,it is nice app,2026-07-17T08:58:03,
+en-np,e336796b-d39b-4205-bffe-d4640c5c2c72,Sagar Pun,1,Too much additional charges of Rs 10 daily transactions,2026-07-17T08:57:57,4.8.3.1
+en-np,2e9303a8-3a39-47e1-a870-55ba465252cc,Pratik Basnet,1,ok,2026-07-17T08:55:25,4.8.3.1
+en-np,a37ac4bc-ef0f-480c-812a-d2fc6d04711c,Santosh Yadav,5,good for all people we are easily transfer our money and esewa makes our daily life esaly,2026-07-17T08:54:37,4.8.3.1
+en-np,21ec8a75-17b1-4b9b-915f-8b1eb48372c6,giri sital,4,it's good,2026-07-17T08:50:45,4.8.3.1
+en-np,8fbb15f5-4b68-4696-8d93-6b60a995d152,Rajesh Subedi,5,useful,2026-07-17T08:46:38,4.8.3.1
+en-np,90a2d505-cfaa-4027-bacb-c298fc00669c,Dayasagar Parajuli,5,Beautiful Wallet,2026-07-17T08:32:54,4.8.3.1
+en-np,d47d0cc6-c98d-4f86-995e-e3635e839a52,unknown,5,so far it is a useful app for money transection....,2026-07-17T08:31:59,4.8.3.1
+en-np,36a90a5c-eca4-4d84-8392-6c1b88996244,Puskar Bhandari,1,bad bad,2026-07-17T08:31:32,4.8.3.1
+en-np,592a58ca-862a-4e65-839f-40352c2df0aa,Strom Aashish,5,very good,2026-07-17T08:25:58,4.8.3.1
+en-np,9d67e0ae-9e99-44bf-82ff-71cc43f42d7a,Dikesh Yonghang,4,Best but damn server goes down sometimes whenit is needed most✅,2026-07-17T08:24:10,4.8.3.1
+en-np,6149642e-1657-4223-ac77-f54ebc41ffc5,Himal Karki,1,not good as expected,2026-07-17T08:23:10,4.8.3.1
+en-np,537391b0-0bb0-4652-bcef-f27fbd4b48b8,Ankit Shah,5,excellent,2026-07-17T08:19:19,4.8.3.1
+en-np,5ad906e0-56ed-4451-9ea4-4eec1687b37f,russell Shakya,3,..nice,2026-07-17T08:17:53,4.8.3.1
+en-np,adbcb5d7-9d28-4050-8226-18602d047761,Bikash Maharjan,5,User-friendly Wallet for General People,2026-07-17T08:09:33,4.8.3.1
+en-np,93fbb8be-c4d6-482f-ba28-8993a67d32b2,Mafia,5,best,2026-07-17T08:07:44,4.8.3.1
+en-np,84d9446b-fb77-4e52-bbef-2a388839f464,Sabita Shah,1,very slowwwww,2026-07-17T08:00:34,4.8.3.1
+en-np,950c1936-a94f-4b7a-bccd-e456109e2c24,Rohit Ray,1,Not nice,2026-07-17T07:54:30,4.8.3.1
+en-np,f37d1487-a138-48ea-9987-fe50b0b4fa30,Ash Giri,3,its alright but duable. I had problems with limits that hurts my business.i do understand the receivement but when I can't send one whats the point.,2026-07-17T07:48:25,4.8.3.1
+en-np,640a633c-127e-4aea-89a1-699f183dd881,yovng pablo,5,good,2026-07-17T07:44:33,4.8.3.1
+en-np,f10d05c6-c5a1-43f7-adaf-89e03b859a9e,Shekhar Chettri,5,it's good,2026-07-17T07:44:26,3.14.5.2
+en-np,e70302fd-3cd0-4deb-8e35-ab133ee1115d,Chandra Shekhar Yadav,3,showing error sometime loading money or paying money,2026-07-17T07:41:03,4.8.3.1
+en-np,8743a255-40f5-4d9d-9140-dcd29af282c9,binod lamsal,5,masta sewa,2026-07-17T07:40:31,4.8.3.1
+en-np,bb6c78e3-5abb-4379-a74a-b8b3c28f4aac,Niraj paudel,4,good app but the charge 10 ruppes after 5-10 transfer should be improved. there should be no charger taken while transfer on esewa to esewa,2026-07-17T07:39:48,
+en-np,c7a73397-37a9-4ef0-9f64-026a8557df4d,Lochan Thapa,5,good,2026-07-17T07:39:34,4.8.3.1
+en-np,6164b5a0-cf1d-443f-ad6d-5dfc45dc7fef,Aayush Tandan,5,it's goods,2026-07-17T07:38:58,4.8.3.1
+en-np,4d852522-f482-432b-8510-3bb2569a6f7a,Karun Kandel,5,this is good app in online payment,2026-07-17T07:36:02,4.8.3.1
+en-np,47566ab2-bf3c-42b9-bda2-35c5629cae7d,MST Eng,5,"Nice app , easy to use .",2026-07-17T07:35:57,4.8.3.1
+en-np,cf90641c-bf6a-485e-a5e9-daa8e472fae9,Sujal Don,1,server crash,2026-07-17T07:34:56,4.8.3.1
+en-np,e5df109d-d9c4-4cde-bd94-9749384e4119,Surya Paswan s (suraj),4,fine,2026-07-17T07:34:56,4.8.3.1
+en-np,84c5f417-7b8e-45d6-9088-fda4282bbf42,Santosh Gautam,5,good better best,2026-07-17T07:34:29,4.9.0.0
+en-np,1fc6f262-fdbf-4d6c-afc2-c4c9dd1c0f12,Rupa Dhami,5,good application,2026-07-17T07:31:43,4.8.3.1
+en-np,e3b6f884-0c4c-4d52-aa7d-805588f1f5dd,Shreeyansh Niraula,4,good,2026-07-17T07:28:57,4.8.3.1
+en-np,a84fc430-d5c7-4e73-a75f-42f5056e019f,Durga Magar,5,very nice,2026-07-17T07:26:12,4.8.3.1
+en-np,7326827d-3d2e-48e8-a2ab-ac680f9db0c0,Rabin Bk,4,good enough but not available for withdrawal of bonus and load waletn in ride-sharing apps it make us little dependent on other wallet hope e-sewa team understands what i am trying to say (otherwise e sewa never disappoint us)🙏,2026-07-17T07:19:11,4.8.3.1
+en-np,57916ca8-45fc-4320-bdeb-2427aa4d6880,Sonu Prasad Shah,4,Easy and quick payment process,2026-07-17T07:18:22,4.8.3.1
+en-np,f5b989b1-a515-44d2-856c-12872af64d73,Sachin Adhikari,5,easy to use an i dont se any ads in this app,2026-07-17T07:16:46,4.8.3.1
+en-np,f5cd2fb2-e513-47db-ab32-eb7867533696,Shine Thapa,2,good,2026-07-17T07:15:43,4.8.3.1
+en-np,2bd20c2e-426a-4843-a622-621be130433d,Milan Shrestha,5,easy to pay,2026-07-17T07:09:02,4.8.3.1
+en-np,8fb6d543-7714-450e-881e-0ad4be86f429,Aayush Olee,5,good,2026-07-17T07:08:46,4.8.3.1
+en-np,b0324423-28d7-49b4-b286-379354a77e01,Maheshwor Gurung,5,good,2026-07-17T07:01:55,4.8.3.1
+en-np,6ea1e333-0494-4905-8f50-5fef63f2a999,Hari Punmagar,5,good,2026-07-17T06:59:31,4.8.3.1
+en-np,6089f052-61b5-40d5-963c-ef431528d0f0,Jasim Alam,1,sometimes very slow,2026-07-17T06:57:42,4.8.3.1
+en-np,31edd620-0560-4e68-b339-ec84b4682ddc,Laxmi kr Rai,4,👍,2026-07-17T06:53:07,4.8.3.1
+en-np,5acd282a-d405-4494-ace1-5e5eb56dcf41,Shambhu Sah,5,very good,2026-07-17T06:51:53,4.8.3.1
+en-np,54731070-c5f1-4863-88c1-c62d57426a5f,Munna Khan,5,dherai Ramro app xa Eswa but Alik Recharge chai Ncl ko Kamti garnu parne minimum 20 🥰🥰,2026-07-17T06:50:43,4.8.3.1
+en-np,7c09eb3c-f22b-4edf-b689-424d4db607ac,anonymous Man,4,it's a reliable wallet but some time the server goes off.,2026-07-17T06:50:37,
+en-np,8c57e874-a0af-4ea8-87f2-86502b56edae,J - NK Thakuri,4,amazing,2026-07-17T06:50:11,4.8.3.1
+en-np,5cde81fa-32c8-4bc5-8dd1-036169a73570,rohit ghale,5,great,2026-07-17T06:49:56,
+en-np,700ae11a-3fbc-4ff1-beac-f38a2c542c5e,Pranisha Dulal,3,it's very easy for everyone but their is one problem while transferring esewa to esewa service charge applied,2026-07-17T06:42:49,4.8.3.1
+en-np,7f9db391-c9e5-45c7-8138-81798652ba03,Aayush Khatri,1,Sometime it doesn't work,2026-07-17T06:42:46,
+en-np,d00f8ef0-c52e-499e-b282-fce19556e995,Aayush Thakur,3,nice,2026-07-17T06:40:14,4.8.3.1
+en-np,1cb7d0de-be10-402b-95ca-e6546a26b3d6,Sujal Dhams,5,good app,2026-07-17T06:39:16,4.8.3.1
+en-np,b6e48371-6e4c-4c0f-98bd-f2618a9f5a62,Adam Wiz,5,it's good to use,2026-07-17T06:36:41,4.8.3.1
+en-np,75ded1de-d898-4a7c-ab9a-6606fbda3bc9,Mayush Shakya,3,good,2026-07-17T06:33:03,
+en-np,24eb9f89-2bc5-45d5-a377-d775be32c60f,Gajendra Chaudhary,5,use full app,2026-07-17T06:32:46,4.8.3.1
+en-np,1ea65308-7be1-4801-be73-2f8c64000273,Anil Rai,3,good,2026-07-17T06:27:07,4.8.3.1
+en-np,9b6f2672-ab26-4956-a867-85d2500d51bf,Suryan Thapa,5,ramro xa,2026-07-17T06:27:03,4.8.3.1
+en-np,2914f217-f6f2-4588-8cac-7c7524b3fd84,Inta RS alisara channel,5,very useful,2026-07-17T06:25:58,
+en-np,3c082355-b563-487e-946b-e154c746176b,Md Asadullah,5,appreciate 🥰,2026-07-17T06:21:48,4.8.3.1
+en-np,744e924f-576a-4564-9775-5f6216ea004f,Salam Khan,1,very disappointed app,2026-07-17T06:20:46,4.8.3.1
+en-np,c4941999-82d8-4a21-8325-7c1f63523778,Aasish Ghimire,5,great,2026-07-17T06:17:36,4.8.3.1
+en-np,91264c68-7396-444b-a6c7-b968c0c81156,Bipin Silwal,5,safe,2026-07-17T06:11:23,4.8.3.1
+en-np,ce2eaffb-63b4-467a-8a6f-c9d2a777f07a,Abhaya Shrestha,5,Awesome best,2026-07-17T06:11:17,
+en-np,de93e4b3-c3e4-43f4-a6fc-cf4eeb71d35a,Sakshi Tamang,1,so many bugs and when i pay it additionally cuts my 10rs even though it is esewa to esewa transaction,2026-07-17T06:10:21,4.8.3.1
+en-np,d9e955b9-eb3e-46f2-80e9-49b80a41080a,Raju Mishra,5,very good,2026-07-17T06:03:12,4.6.1.0
+en-np,023d974b-d5da-42bc-831a-b2e89f6fe74e,rohit Thapa,5,good app,2026-07-17T05:59:10,4.8.3.1
+en-np,5d8aeec7-1a0e-4ab0-ab9e-9460fc90a4b2,Roshan Singh Bist,5,wonderful experience,2026-07-17T05:55:26,4.8.3.1
+en-np,1c14debf-db04-488c-97db-9963811b0ee2,sayaule Guru,5,सबै ठिकै छ तर बेलाबेलामा बैंक ट्रान्सफर हुँदैन यो सुधार गर्नुपर्यो सेवाबाट ईसेवामाता भइरहेको हुन्छ तर ब्रेकमा पनि जतिबेला पनि कारोबार हुने बनाउनुपर्यो। २४ घण्टा कारोबार हुनुपर्यो वालेटदेखि,2026-07-17T05:47:21,
+en-np,6d87f8ce-52c0-498e-8583-0953872ba04c,Bikash Stha,1,easy to use,2026-07-17T05:47:15,4.8.3.1
+en-np,7d8010b4-54d8-4620-8cae-ca3fa9b9c7f5,SD VLOG,5,nice,2026-07-17T05:43:59,
+en-np,5ebef4da-87d1-4081-87ba-67e24d3ee976,Soni Lama,5,wow,2026-07-17T05:39:52,4.8.3.1
+en-np,688fb83e-4f4f-4ae0-b8fb-a7cb419bc68c,Zee Zee,5,vary good,2026-07-17T05:38:40,4.8.3.1
+en-np,28e7ea60-74cb-49b1-bdc0-b22b02007f4c,Bhupendra Paneru,5,more good mobile banking easy and fast,2026-07-17T05:36:30,4.8.3.1
+en-np,5d3b38fa-134e-4149-b444-a5c7f10222d5,Ankita Pun magar,2,good if I have issue any of like payment logins I will say to assistant esawa ani they help good app,2026-07-17T05:35:48,4.8.3.1
+en-np,1ce83353-755c-434b-b7f6-d6709e7ac885,Bhawani Gaha,5,good,2026-07-17T05:28:20,
+en-np,0e188696-bebf-4563-bde1-165d53c50bb7,Sumantraj Yadav,4,sometimes server issues. transaction used to fail too much. No. The transaction and transaction amount limit is low.,2026-07-17T05:26:24,4.8.3.1
+en-np,ba833484-7b5e-4f1c-8baf-66d132677146,Avinash Tamang (Avi),5,everything good,2026-07-17T05:23:46,4.8.3.1
+en-np,3fec5f5f-b87c-4a1c-9330-9f0e8fe2bb30,Kabita Rana,5,Nice app ☺️,2026-07-17T05:20:51,4.8.3.1
+en-np,559de7cd-3eca-401c-813e-7e390fc9bac9,Hemant Dhami,5,nice 🙂,2026-07-17T05:17:21,4.8.3.1
+en-np,364394b6-b5dc-4ce0-b6d8-0acfaba39228,Rojin Tamang,5,xito sajilo,2026-07-17T05:14:08,4.8.3.1
+en-np,7931adc3-a962-4206-b98a-b874eb5c0712,Gaurav Adhikari,5,Professional in every aspect,2026-07-17T05:12:44,
+en-np,060a1d56-2694-42ea-bcce-4eea6cc1a30c,Neshnal Mahato,5,good for digital payment,2026-07-17T05:10:46,4.8.3.1
+en-np,6a2cea4b-a982-48b2-81ab-1013fe23c67e,Kishor Malla,4,it's an awesome app for me .,2026-07-17T05:02:11,4.8.3.1
+en-np,2750dd1c-9309-4834-910d-96153706ed7e,bibek dhakal,4,It's very nice but 10rs extra charge should be removed.,2026-07-17T04:58:29,3.14.0.0
+en-np,df4534ea-843c-4505-b3e9-768fc284597b,Gregoria Rodriguez,5,I like this APP because it makes money transactions easy and just a click away.,2026-07-17T04:57:02,
+en-np,a31283ea-0e9d-4067-bbb7-4d892f7767d1,singh ji,5,excilent,2026-07-17T04:56:29,4.8.3.1
+en-np,ee70b63f-89cd-4504-ab84-280c55a54bb8,ARUN Ji,5,good,2026-07-17T04:53:20,
+en-np,2e55561d-155b-4205-80e3-8289ad229ead,Kabir Singh,3,super app Smooth payment,2026-07-17T04:51:09,
+en-np,c38a459b-8c45-412e-85d6-ef9fec5136fd,Joy Boy,1,doesn't take complain seriously,2026-07-17T04:46:39,4.8.3.1
+en-np,4b772da1-d92a-41d7-9546-f374652e69f6,Roshan Magar,3,sometime it's rude,2026-07-17T04:45:39,4.8.3.1
+en-np,ab591385-7ccb-46b2-9e6b-4c5d8b51c60a,Md Prince,5,good 😊,2026-07-17T04:41:08,4.8.3.1
+en-np,7b1c6166-b700-43c5-a2fb-7c5613ef448a,Abhay Mandal,5,it's too goo,2026-07-17T04:40:20,4.8.3.1
+en-np,29f9c10c-e17f-4058-989e-30e71790613f,Lopchan Sunil,5,I'll use it 3 yrs it's fear,2026-07-17T04:39:16,4.8.3.1
+en-np,b97164ee-7c8e-4b41-bba4-2d82319c720f,Lohorung Rai,5,wow,2026-07-17T04:35:48,4.8.3.1
+en-np,99217233-b4bf-460a-8fe5-ae8bee832e7b,raaz thapaliya,1,they hold money,2026-07-17T04:33:01,4.8.3.1
+en-np,72bb348d-e582-4120-948d-847115ddf794,Tilak Thapamagar,5,Great 👍 👌 app,2026-07-17T04:24:24,4.8.3.1
+en-np,7358ff6b-d301-4389-8bbf-ba4afc178214,Yogesh Thakur,5,nice experience 😄 and fully recommended digital wallet across nepal.fully satisfied with the service provided by this app✨,2026-07-17T04:22:56,4.8.3.1
+en-np,a0601f01-4a04-4150-a4e5-2fc8c1376f04,New Rajiv,5,It's very good,2026-07-17T04:20:53,4.8.3.1
+en-np,475973cd-58b0-4108-8a50-e5dcb2c99774,DeepJung Singh Thakuri,5,all is well but only needed is loan features in my esewa,2026-07-17T04:20:29,4.8.3.1
+en-np,7e664b47-ec5b-4619-913a-9e957f1e133d,devdaskumar “The Øñê” stillalone,5,Good and fast service,2026-07-17T04:18:38,4.8.3.1
+en-np,2340e089-eb04-4f9d-9a4c-8f9adf0df9b6,yuvraj baduwal,5,good,2026-07-17T04:17:47,4.8.3.1
+en-np,b7fb0be9-1755-4bfa-b8c7-1060ff9fdd22,Nirajan Mahara,5,good,2026-07-17T04:14:50,4.8.3.1
+en-np,eeb0348b-5b5f-497d-968b-9cdf4a36305e,Tika BantawaRai,2,"Only 2 star because esewa had charged me couple of times while transferring to esewa itself!!! I am too busy to visit your office at the moment regarding the issue! But I will dropby soon to resolve it. Beside from this issue, service is fine.",2026-07-17T04:09:12,
+en-np,a422018c-573d-40cf-9f85-620d730e2e92,Rahul Mandal,3,Good,2026-07-17T04:07:21,4.8.3.1
+en-np,81aea72c-2622-4165-9c97-913263d3ef4f,योगेश पाण्डे,5,best,2026-07-17T04:03:52,4.8.3.1
+en-np,ed4db866-2858-4586-8d16-c9753756809d,AR Gaming,5,good experience,2026-07-17T04:03:25,4.8.3.1
+en-np,8a307e85-0b7d-4bc7-bcaf-5de2ac51aa5d,Bhuwan Tharu,5,good esewa,2026-07-17T04:02:36,4.8.3.1
+en-np,81896661-0573-439e-b846-f427682506f2,james limbu,5,very good,2026-07-17T03:59:12,4.8.3.1
+en-np,125ddf36-a827-42e6-9521-d742e4875dec,Fair Play,5,very nice service fast and honest,2026-07-17T03:57:15,4.8.3.1
+en-np,71c145a1-58d4-4393-89a6-98d94ce15ae2,Aryan Sapkota,4,very nice aap,2026-07-17T03:56:13,
+en-np,73776298-d651-4b0b-a62a-9f17307e8b16,Sunny Alam,5,good,2026-07-17T03:55:38,4.8.3.1
+en-np,abbdcc71-a261-4a96-93b0-b6f0ddef9a6a,Bishal Singh Rai,5,good,2026-07-17T03:47:11,4.8.3.1
+en-np,95f0cefb-c45b-4e8e-9ef0-4810de5808ef,Sallu Tiktoker,5,awesome,2026-07-17T03:44:02,
+en-np,49e44a64-2950-4971-8847-ba65142ed604,ARBINDRA BIKRAM SHAHI,5,bleaveable app,2026-07-17T03:43:37,4.8.3.1
+en-np,b56db312-a323-442d-b547-f5bdb9b78b24,bivek jha,1,the issue with this app is rs 10 deduction on esewa to esewa transaction . pathetic it is. looteras,2026-07-17T03:43:29,4.8.3.1
+en-np,73cb65e8-d5fb-4a00-bb45-ffcf5ba61dd3,Dibash Khadka,5,excellent,2026-07-17T03:32:27,4.8.3.1
+en-np,744c60de-3b7d-4fac-88c4-1dc102a4fc17,Ajaya Subba,5,easy fast and reliable .,2026-07-17T03:20:49,4.8.3.1
+en-np,64dc2bbc-ad11-4c11-88b1-263b20642a0e,Tshalav Lopchan,5,very very good,2026-07-17T03:14:28,4.8.3.1
+en-np,79d940e7-f718-4628-9787-31bfcb2f7781,Bijay Rai,5,🤗,2026-07-17T03:13:28,4.8.3.1
+en-np,e9d80d0b-fb6a-40fd-aa7b-d9e5898a9268,gyan chaudhary,5,great trustable,2026-07-17T03:08:56,4.8.3.1
+en-np,ccd755bc-ee39-4ecd-b68c-ee88f81c40d6,Gopal Shrestha,3,Not good not bad,2026-07-17T03:08:26,4.8.3.1
+en-np,398620f6-8b1f-4958-92b3-a19226caeb24,Abhi Chaudhary,5,amazing app,2026-07-17T03:05:56,4.8.3.1
+en-np,2e89f707-ee18-47bb-96a6-15d2b7d6bd83,Prabhu Rana,2,not satisfied,2026-07-17T03:00:13,4.8.3.1
+en-np,9197ff90-89dd-4ba4-9b41-4bbb88de9a76,Akendra Yogi,5,it's an easy process to send money customer can easily pay my indrive money,2026-07-17T02:49:09,4.8.3.1
+en-np,fbf30d9a-b448-4d82-b921-ee8bed88116d,bibash Budha,5,awesome 😍,2026-07-17T02:47:11,
+en-np,1037ec52-ac4e-4a8a-851e-b5bff748cbc6,Bishal Rokka,5,help me alot to not take money in cash,2026-07-17T02:47:08,4.8.3.1
+en-np,fac959da-36cc-4e55-a63c-45b8bd4cef4d,Sharad Chaudhary,3,nice and easy,2026-07-17T02:44:04,
+en-np,b32a52fe-1268-4984-b454-185f9b610ab5,prakash Dhakal,5,great,2026-07-17T02:41:23,
+en-np,f0363ab0-9ff0-4ab3-a617-4341bb915e9f,Hari Pathak,5,"Excellent app for sending money and paying bills. The service is fast, secure, and easy to use. Highly recommended!",2026-07-17T02:40:12,4.8.3.1
+en-np,0e346c27-ee34-4d5a-a1f2-6455a1913967,Sahil Gharti,2,average performance,2026-07-17T02:39:11,4.8.3.1
+en-np,041db00e-f16d-48a8-b65b-50da38a14d92,Dinesh Khilinge,5,is so good,2026-07-17T02:32:34,4.8.3.1
+en-np,e9adc6b2-e199-41ef-a513-26a87d88f402,Tej narayan Yadav,5,nice,2026-07-17T02:27:50,4.8.3.1
+en-np,66257824-d223-4672-90a9-c98df9fa3286,puspakamal dhakal,5,👍🙂,2026-07-17T02:27:40,4.8.3.1
+en-np,af68a216-d08d-4adb-a185-58d280201658,Bhawana Rai,5,easier and faster payment,2026-07-17T02:21:29,4.8.3.1
+en-np,a8161f06-31b1-4341-8758-ac35694dfc65,Praful Koju,5,good,2026-07-17T02:15:23,4.8.3.1
+en-np,a653b2c2-4edc-44c6-bd1e-20daf6d7d653,Bipana,5,very nice apps,2026-07-16T16:34:19,4.8.3.1
+en-np,7cc8faba-96ba-4fb3-a996-03f6133c0e7f,Abhaya Bam,3,when it's necessary to pay the server goes down it's bad experience,2026-07-16T12:14:36,4.8.3.1
+en-np,7b665b27-1344-4b37-a10c-eb138f581aae,all in 1,5,connect with life,2026-07-16T12:07:44,
+en-np,289987ac-6768-4358-a00c-2ef4e1c39af1,Dharmendra khemka,1,इसेवा बाट इसेवा मै पैसा पठाउदा नि 10 रुपैया चार्ज काट्यो त्यो चित्त बुझेन,2026-07-16T12:03:46,4.8.3.1
+en-np,f96dd334-1459-4e7a-8304-e7bea36e4f7e,Bijay Reload,1,worst,2026-07-16T12:01:24,
+en-np,a7969fc6-28db-45d5-93a9-e55dcf92d3d0,Xorem magar,5,good,2026-07-16T12:01:02,4.8.3.1
+en-np,c494ec07-3b6d-4df8-b32a-cf9eb509adfa,Nitesh Bakhrel,1,Always Server Down,2026-07-16T11:58:31,4.8.3.1
+en-np,576fd74f-948a-4691-bf9b-7cbe09d703ef,Rahul Shah,4,good,2026-07-16T11:57:49,4.4.0.1
+en-np,fe6023fe-ae9e-4378-9270-5f63569188c9,Daniel Bijay,5,osam,2026-07-16T11:54:04,
+en-np,a7bd9897-b89c-4852-a5cb-11c36e2640b4,Imran Hossain,5,Great,2026-07-16T11:52:24,4.8.3.1
+en-np,a34f472e-3602-4b33-8145-4f4fcd8d3059,Nima Lama,4,it's good,2026-07-16T11:51:22,4.8.3.1
+en-np,0ea4df0e-191b-42b0-93b7-566969ad0329,Dilip Gharti,5,excellent,2026-07-16T11:50:37,4.8.3.1
+en-np,2c065a9a-5686-4bc8-bff6-661813e9d6e9,Dipen Ray,4,everything is good but the limitations are not good,2026-07-16T11:49:45,4.8.3.1
+en-np,dad31019-2da7-4da0-9afe-cf53bc461590,Ratnesh Sah,1,time to time show bank server problem,2026-07-16T11:49:42,4.8.3.1
+en-np,0f7dd5a6-ea79-4653-8dff-fbb5b1c17fcf,Bijay Lama,1,bakwas wallet kei na kei issue aiirakhxa,2026-07-16T11:49:26,4.8.3.1
+en-np,50ca5ae4-d83b-4480-96ad-f7c719afaf84,Prabin Gurung,5,best,2026-07-16T11:45:05,4.8.3.1
+en-np,51e3ee0a-80d9-462c-aa46-9839aa5855ea,Pratikshya Magar,5,very good,2026-07-16T11:44:59,4.8.3.1
+en-np,0de93e52-041c-479d-b9f3-9ce5f32e7387,Xmart Sujit,5,easy to use,2026-07-16T11:41:51,4.8.3.1
+en-np,e240a670-6679-47f7-95e8-1198c2ba3696,NR,1,where the most this app needed this got lack and glitch....,2026-07-16T11:39:46,4.8.3.1
+en-np,33422eef-63ad-4a21-bda0-289470910bc1,Prajwal Karkee,5,Best,2026-07-16T11:38:10,
+en-np,35c2f72a-e8f9-4b2d-b9aa-2bb3ea51ee1c,Sumit Shroff,5,best payment app and best wallet,2026-07-16T11:36:45,4.8.3.1
+en-np,36cf93c9-b36e-4c09-a341-ca5c26325698,smart mobile solution,5,Nepal best,2026-07-16T11:31:54,4.8.3.1
+en-np,f6986add-e03e-4fc9-8db4-74f026daa26b,gajendra mandal,5,Good Application for digital payment,2026-07-16T11:30:38,4.8.3.1
+en-np,74778e48-8886-4d3c-860a-fd8a885da737,Spyder Mahesh Babu,5,good,2026-07-16T11:29:38,
+en-np,b9ba3805-6c03-46cc-919f-cfea3b358a7d,Arjun Kumar,5,very nice,2026-07-16T11:28:46,4.8.3.1
+en-np,33525868-72bd-4c96-a93c-b004d8ffc9ab,Krishna Lama,5,good,2026-07-16T11:28:34,4.8.3.1
+en-np,8f70fa49-f60e-4721-a6c5-5a13dda3df9e,New Keshari And Sons Traders,5,Good service provide keep it up,2026-07-16T11:27:42,4.8.3.1
+en-np,4c24277d-7130-425b-91f3-0a1f3d51c83d,Urgen Lama,5,app is 😊,2026-07-16T11:20:29,
+en-np,621db886-5474-44e0-9fee-cb80d3725e2c,Sumit Thing,5,fast and responsive,2026-07-16T11:19:51,
+en-np,7ddee91f-8acd-46cf-91ce-d62384c4b276,Santosh Thakur,4,increase monthly limit,2026-07-16T11:17:16,4.8.3.1
+en-np,1a782a3c-e0bd-4748-b7b2-e84cb9ab1aed,Anish Gupta,5,best App,2026-07-16T11:12:23,4.8.3.1
+en-np,ecdae25d-5589-4cdc-8b26-b87a972238dd,Dhurba Karki,5,OK very good,2026-07-16T11:12:18,4.8.3.1
+en-np,9de18874-12dd-4d49-ab5e-e1431e5b3285,Sulav Mgr,5,easy,2026-07-16T11:10:01,
+en-np,bd97ef62-33d4-4821-9d38-abbc9b1a7359,Raj Aalam,5,very honest and good but sometimes lack,2026-07-16T11:07:43,4.8.3.1
+en-np,e8d6cef0-7a89-4021-8512-3a4c1ae4fc0f,upendra lamichhane,4,Best,2026-07-16T11:06:15,4.8.3.1
+en-np,312f906b-bd13-492e-94cc-d1719f6bc5a7,7 Jack The Editor,5,best wallet . easy way to use and easy kyc verification. most appreciate it,2026-07-16T11:02:59,
+en-np,1caf2be6-9586-4315-9416-9a3d5ce81513,prakash bhattarai,5,it's easy and reliable for us using esewa,2026-07-16T11:00:45,4.8.3.1
+en-np,99b20eff-5bba-43c5-8c42-59c00378b61f,Kumari Lama,1,esewa to esewa pani 10rs charge leko chaii man parena,2026-07-16T10:57:11,4.8.3.1
+en-np,65748ab0-3120-4062-ae96-0189bf8a13d9,Keshab Bhandari,5,nice,2026-07-16T10:51:42,4.8.3.1
+en-np,447e6b52-c621-4c8e-862c-ff2682bdde93,Sundar Jung,1,Fantastic,2026-07-16T10:51:02,4.8.3.1
+en-np,a2b0d42c-c902-4be6-9ba7-4c4b4e4541b7,Dipak Yadav,5,good,2026-07-16T10:49:33,4.8.3.1
+en-np,7a432d5a-66a0-4f18-939d-dfe11b8a0d9f,Pramod Bhandari,5,best app,2026-07-16T10:48:05,4.8.3.1
+en-np,36f858d5-85bc-4429-a49c-35177bbc88f7,samyak subedi,1,काम नलाग्ने झुर सर्भिस,2026-07-16T10:21:20,4.8.3.1
+en-np,af36c4d9-e118-4769-a7ef-c8b27075940a,Nirjalkc Kc,1,jaile cafe mart Jada server down hunxa . Kati choti billa vaisakyo xya,2026-07-16T10:21:16,4.8.3.1
+en-np,248d4860-e3d4-4a56-a72d-1f43aa55930c,Sajal Lama,5,Good,2026-07-16T10:20:33,4.8.3.1
+en-np,d5d9de94-a5c1-4800-b299-958835c8f220,Ajeet Kapar,5,It was extremely nice and I'm regularly used no issues at the time so I'm satisfied with the online esewa wallet.,2026-07-16T10:20:24,4.8.3.1
+en-np,92c9d71e-5e15-4c49-b930-22706805924a,Md Momtaz,5,nice app,2026-07-16T10:19:56,4.8.3.1
+en-np,d1047ccc-2dd0-4b00-94d0-fb9cea7b9ddf,Ajit Yadav,5,good,2026-07-16T10:18:48,4.8.3.1
+en-np,893d3e11-b78f-46b2-aeab-36aa662e2b1f,Yamuna Basnet,5,good apps,2026-07-16T10:18:13,4.8.3.1
+en-np,757ef33b-b8b5-4df3-a245-982988b7c1c8,Keshab Budha,5,all the services are good at all,2026-07-16T10:12:58,
+en-np,a0ddb150-c598-4998-a019-559f14b37180,Rakesh Kumar,1,very bad not resposaable person in your wallet,2026-07-16T10:05:33,4.8.3.1
+en-np,1b3b85f7-e850-434b-a3f3-fef26ec19f5b,Nikesh noob,5,best app,2026-07-16T10:04:24,4.3.3.5
+en-np,e5e2420d-671c-428e-9052-e045f3c3163d,Niraj Awasthi,4,Thank you esewa for providing such a great facility. I wish you all the best in bringing even better facilities in the future.,2026-07-16T10:02:30,4.8.3.1
+en-np,7759d3cb-bdc5-460b-a213-c394d853bfbe,Mishan Khan,5,Good service,2026-07-16T10:01:50,4.8.3.1
+en-np,80a789dd-1581-4ce9-b60c-71871de8004f,Rabindra Baniya,5,easy too good🫶,2026-07-16T09:58:54,4.8.3.1
+en-np,a635c43a-1c86-40c2-a5be-3874fb2b6a8f,Ganesh Kuwar,5,easy and fast,2026-07-16T09:57:55,
+en-np,1278709e-241f-4c9e-af23-3237bb60a5bd,Jivan kumar Chaudhary,5,nice,2026-07-16T09:54:10,4.8.3.1
+en-np,bb4414b5-b8ba-44f1-941d-9d45c3dcd545,Anil Gupta,5,good,2026-07-16T09:50:26,4.8.3.1
+en-np,f5b441a1-c9cb-49a6-9ff6-2567e9fbbee3,Pemba Tamang,5,nice,2026-07-16T09:49:07,4.8.3.1
+en-np,36d1e9d7-781e-403c-b17b-ecca8077e104,Mukesh Vlog,1,jaba jaba emergency parcha taba taba kaam gardaina Ani paisha freez bhaye rakcha,2026-07-16T09:42:29,4.8.3.1
+en-np,219c9713-d4bd-4b49-bc45-9abf47f60a6e,Lakpa Sherpa,4,sometimes the server goes down and my money get stuck whenever i need...,2026-07-16T09:38:16,4.8.3.1
+en-np,aa489343-7840-48ad-8655-38187fc6e4d9,Kamal Tamang,5,very good esewa i loved,2026-07-16T09:35:45,
+en-np,f2b6dc4d-07f7-46cd-be5e-216ca4f2c1a8,Kishan Shrestha,5,easy to payment method,2026-07-16T09:35:29,4.8.3.1
+en-np,ff1de192-7783-42b8-9859-0c4315f3afab,Deepu Jaiswal,5,dherai sajilo x,2026-07-16T09:34:25,4.8.3.1
+en-np,b8be96fe-c1d6-45de-a90a-f9952607c637,YD Nirajan,1,so many glitches,2026-07-16T09:26:28,
+en-np,f078b1a0-dfdc-4401-96a8-33e9c2a96ff3,James Shrestha,4,easy,2026-07-16T09:20:45,4.8.3.1
+en-np,5a21a1cb-8664-4e02-a0a4-43a2ba044922,Duku Adhikari,3,Gooe,2026-07-16T09:16:49,
+en-np,2f85b1e6-e88b-4c96-b2ee-d25b475b2b32,Antra Nishan,5,it's good,2026-07-16T09:10:19,4.8.3.1
+en-np,5aaf6b07-e60f-4722-8db5-6995cef4792a,Manohar Mahato,5,♥️,2026-07-16T09:06:42,4.3.4.2
+en-np,8dcc6a2b-278a-40cf-b288-760c3f973042,Sujal Budathoki,5,it's helping very well no losing money no payment issued fast service safe document,2026-07-16T09:03:59,4.8.3.1
+en-np,424500be-d627-476e-a7b8-7d01ab8d047e,Subash Bishwakarma,5,it is really good,2026-07-16T09:00:57,4.8.3.1
+en-np,b464b681-728f-4bea-912b-fc85e7cdf929,Udyachandra Neupane,5,I like it,2026-07-16T08:57:33,
+en-np,b803a4f2-7ca6-43da-9486-79363f31ce7f,Devil Roy,5,most better,2026-07-16T08:57:07,4.8.3.1
+en-np,1d755511-65b9-4d73-995b-abcaea1f0fa4,kamal khadka,4,Disgusting Frequently saying you are offline You are on SMS mode despite WiFi connection 🤣 How to solve it Uninstalling and reinstalling is done Still not working How can it be solved??? Updated: better now( 2026 😊),2026-07-16T08:56:57,4.8.3.1
+en-np,46065345-4ce0-4ae8-8097-c2a34d40a658,Akash Raj Giri,5,good experience but some note work fast,2026-07-16T08:54:29,4.8.3.1
+en-np,840fb01e-993d-47f9-b548-cdd41fcacaed,Adarsha Thapa,4,really good as of now I am not having any trouble 🙌,2026-07-16T08:54:11,4.8.3.1
+en-np,ada6601d-8bfc-4dea-8d76-0197db00e8c3,Saurav Gurung,5,good 👍,2026-07-16T08:53:39,4.8.3.1
+en-np,df72389a-6f65-41d5-9b1b-1d006cfec077,Owl Production,1,never works when you need it the most,2026-07-16T08:53:25,
+en-np,d51d2445-fb6b-4555-8de2-eef3dfeba291,Simon tamang,5,good,2026-07-16T08:52:27,4.8.3.1
+en-np,590cc941-c86b-4190-9832-b2fa7073a863,Pratiksha Lopchan,5,Wow,2026-07-16T08:52:25,4.8.3.1
+en-np,f27a7f69-ed00-4a1f-9556-bf21ff2afde8,Prashant Chand,5,excellent,2026-07-16T08:51:40,
+en-np,df74507a-4f43-429f-8545-ff44e2256d8a,Rishad Baniya,1,aaking for rating always,2026-07-16T08:51:35,4.8.3.1
+en-np,110863a7-8dca-4041-9aa2-09f60bd4a3af,Sandip Verma,1,Very very bad. They just don't receive the call if any problem persist,2026-07-16T08:48:55,
+en-np,cfa8a6a9-b369-4c51-9b25-d0db1cb6721e,Smart Nabi,5,sometime slow,2026-07-16T08:45:19,4.8.3.1
+en-np,c6891da5-7d6f-4614-905d-058986d413bf,Binisha Magar,4,very good app,2026-07-16T08:44:07,4.8.3.1
+en-np,af16911f-9850-41a8-9b2b-a8b315e2ecfc,Dipson G.C,5,best,2026-07-16T08:42:42,4.8.3.1
+en-np,b16c5fb2-e8ba-4321-89bf-171ab8b0ec8c,Galen Kanxo,5,overalls goof,2026-07-16T08:39:38,
+en-np,93013d5a-9c7d-45b4-ae03-d3ab29f4fd93,prajwol karki,5,good,2026-07-16T08:31:27,4.8.3.1
+en-np,b914eaa0-bb58-4d52-b5ca-66ae61c74026,Nischal Katwal,5,nice,2026-07-16T08:29:31,4.8.3.1
+en-np,937662f8-d980-42a0-a17b-864b3fac772d,Khaam Thapa,5,not bad,2026-07-16T08:24:52,4.8.3.1
+en-np,1984d8f9-d858-4772-baae-f801e8bbbed6,Soong Geet,4,good,2026-07-16T08:23:33,
+en-np,e678282a-1879-4e11-9bc9-2ad60f16f7ec,Aavash Yadav,5,Excellent,2026-07-16T08:18:56,4.8.3.1
+en-np,c98eb752-e523-4773-a819-66cf129014f0,मनिष कामती,5,comfortable use,2026-07-16T08:18:31,4.8.3.1
+en-np,ae485441-054a-4fa9-9dfa-8b462dee16c0,Abdul kayyum,5,Great Experience,2026-07-16T08:18:20,4.8.3.1
+en-np,b9cc7ae8-50ac-4b3e-9c12-eca906f8736d,Manish Sharma,5,awesome 👌,2026-07-16T08:14:55,
+en-np,312b8e7d-7a5f-40fb-a688-48d824b119d2,Kristi Acharya,5,good,2026-07-16T08:14:36,4.8.3.1
+en-np,7a892f91-4e82-4df9-9576-c1c7efdf9ec7,Rashmi Uprety,2,It is helpful for online payment but often it doesn't work something 😔 which made difficulty for several times.,2026-07-16T08:07:12,4.8.3.1
+en-np,40aa5e08-f17b-47fb-b0f9-798eb70908cf,Gauri Yadav,1,good,2026-07-16T08:06:42,4.8.3.1
+en-np,70f5971b-5f6d-4a2a-82b7-6ca746b50b2d,King And,5,good,2026-07-16T08:06:23,
+en-np,9ff3f37b-9967-4ffb-8b83-0dbe8739ee8b,Pingala Karki,5,This is a easy and fast payment wallet,2026-07-16T08:06:13,4.8.3.1
+en-np,115bb740-a951-4007-965e-fba73438416a,Ananjay Das,5,extraordinary,2026-07-16T08:04:17,4.8.3.1
+en-np,a44e2bda-23d0-448b-8a6c-649b3f9e5030,Ridhwik Gupta,5,good,2026-07-16T08:02:30,4.8.3.1
+en-np,f848c797-bae8-4519-b5c9-10424a5faeb8,गाउँ बेसि,5,very good app,2026-07-16T08:01:32,4.8.3.1
+en-np,6b8e1a74-b872-4007-8db4-7ca731847960,Swikar Nepal,5,nice,2026-07-16T08:00:40,4.8.3.1
+en-np,025c3758-a6bb-4cad-8ddd-3666b6eeae72,Bishal Singh,5,i love using esewa,2026-07-16T07:59:33,
+en-np,c51b4f18-5a29-4c64-9bcb-74806b50591c,Sachin Bohara,4,very good to use and its simple and fast,2026-07-16T07:52:49,4.8.3.1
+en-np,f87fdd0b-eeee-4189-bdf4-f03ac199fbd1,Tufaan Gaming,3,not too much good not too much bad scarification 🙂,2026-07-16T07:51:05,4.8.3.1
+en-np,97607663-851e-4b2a-9812-329d3be9c39b,gaming news,5,I like,2026-07-16T07:45:44,4.8.3.1
+en-np,fb129538-6e31-41f6-96e7-7776dc40fdcc,Dipak Mandal,5,very very excellent wallet for use👈,2026-07-16T07:45:10,4.8.3.1
+en-np,4bead382-801b-44a7-b75c-2a988d4aab67,राजासाहब,5,best experience,2026-07-16T07:42:33,4.8.3.1
+en-np,ee2ec8e3-d3cf-4dc0-82c3-71c1a754fbed,Parasmani Chaudhary,4,best servisez,2026-07-16T07:42:33,4.8.3.1
+en-np,d1592831-bb7e-44cb-a902-c9471b6a125a,Rinju Tharu,5,not bad,2026-07-16T07:41:34,4.8.3.1
+en-np,e48886b1-26cb-49be-a086-54feb25daeb7,pratap bam,5,ok all,2026-07-16T07:37:56,4.8.3.1
+en-np,40494766-79bf-4e69-bca9-e4b0a3b28b53,Bikash Yadav no,5,good,2026-07-16T07:37:38,
+en-np,4f0a94b8-f0ec-444d-b1a4-517fb8020f04,Phulraj Bholan,1,I lost my mobile after i try to login there are no any option for recover mobile number,2026-07-16T07:34:30,4.8.3.1
+en-np,9d2e5169-770c-4b3d-8914-ca506df6227d,Mukesh Dhamala,5,"faster, easier, secure. i think",2026-07-16T07:32:30,
+en-np,56a84952-797f-43ed-9505-d6fc73c19941,Aayush kushwaha,4,noice (very random review btw),2026-07-16T07:27:59,
+en-np,648f1f75-d238-428b-855c-88b972a1bf36,Ubaraj Singh,3,nice,2026-07-16T07:25:42,4.8.3.1
+en-np,36f300fc-b429-47a6-88ab-78de4cbdb19c,Kaushal Sah,4,most reliable,2026-07-16T07:22:55,
+en-np,1a7afea1-0a88-4853-9687-e487eb8d8018,Balmiki baniya,5,good,2026-07-16T07:22:26,4.8.3.1
+en-np,58c5c7cc-6144-4f36-849e-fb2f0335e8af,Lucky Bhujel,5,It's easy to use and less efforts,2026-07-16T07:22:25,4.8.3.1
+en-np,558ddfe3-d117-4891-97bf-1e93c4561995,Nabin Thapa,1,ghatiya app,2026-07-16T07:17:05,4.8.3.1
+en-np,d562d45b-79db-40d6-8c0f-f294dfa70507,Roshni Shahi,5,it's good,2026-07-16T07:16:48,4.8.3.1
+en-np,88101fe4-20de-4c8c-b786-f4b439e9e9f4,Mithlesh Mahato,5,best app,2026-07-16T07:16:42,4.8.3.1
+en-np,465f7010-0bf2-4bd4-a33d-fb299c429578,Sujan Shrestha,5,this payment app,2026-07-16T07:12:38,
+en-np,b79a5b4d-040d-4d41-85d3-c0db95b75ea9,Ganesh,5,"good,",2026-07-16T07:09:44,
+en-np,608fbea0-760a-49c1-a8bd-06d1b91ab6b3,Krishal Shiwakoti,4,I feel comfortable while using this app but I don't like the limit system in it.,2026-07-16T07:06:20,4.8.3.1
+en-np,640c0112-d627-41c2-9146-1ebe92c4deb8,Sagar Chaurasiya,4,nice,2026-07-16T07:05:58,4.8.3.1
+en-np,1bcc4fc5-bacd-42b5-a1db-0bfd1de8519d,Sushill Thapa Magar,5,greatest app in nepal,2026-07-16T07:02:04,4.8.3.1
+en-np,93b64589-70a4-4c0b-bc23-59c60d8980c8,Ronik Pradhan,4,sometimes ambigious and other problems comes and it is a big problem some times server down the payment dont go through this are the problem and in other side it is a good app for payment,2026-07-16T06:56:42,
+en-np,fffa2806-1c4c-4970-b6f1-0db5b1e2d256,Shran Aakrasan,5,bet,2026-07-16T06:55:20,
+en-np,b34772ef-2603-4253-acb5-1597b7e8ca3d,Suman Baidhya official,3,good,2026-07-16T06:49:06,4.8.3.1
+en-np,1c48bfd7-b3c0-451f-b45c-2d4c1c6b65de,Hem Kunwar,5,babal xa esewa,2026-07-16T06:48:44,4.8.3.1
+en-np,43282e94-b6b6-4aa2-a82b-cd94ba0971df,Afjal Khan,5,good,2026-07-16T06:48:12,4.8.3.1
+en-np,ae4538e9-689d-464d-8616-1baaf5bffc37,Prakash Aryal,1,good apps,2026-07-16T06:47:37,4.8.3.1
+en-np,5f032a9e-af5d-4b6b-974a-1290f06db283,Ravi Shah,3,good,2026-07-16T06:43:22,4.8.3.1
+en-np,72f560e4-d80d-43d9-90dd-0e526adc6d02,Ranjit Sah,4,too good and safe,2026-07-16T06:41:44,4.8.3.1
+en-np,eeba05d7-6497-4221-b0ba-817f74de4d7b,Yaman Prajapati,5,sometimes server problems,2026-07-16T06:40:31,4.7.3.0
+en-np,fe227a88-da7a-419c-b09d-ad672a16a20e,krishna pandey,1,Always slow and while sending esewa to link makes pending,2026-07-16T06:34:52,4.8.3.1
+en-np,da2e1fd2-1f84-4de2-a8d2-6814357704dc,Dilip gupta,5,superb,2026-07-16T06:32:02,
+en-np,f676125d-f77d-44a6-a91e-bc5f2d4d435d,Jitendra Laxmi,3,it's okay,2026-07-16T06:31:34,4.8.3.1
+en-np,348e33ca-d5be-489c-9a79-c1b2496d3e5e,Oasis Tamang,5,excellent but sometimes there is fault at esewa,2026-07-16T06:29:21,4.8.3.1
+en-np,cdea1ebd-28ff-4c76-8953-c325ab55beb0,Suman Khanal,5,Nice easy for small transactions,2026-07-16T06:27:46,4.8.3.1
+en-np,407e3b15-332c-4b21-ad3c-b3ce76f60403,Supendra Vaidya,5,easy to play,2026-07-16T06:24:52,4.8.3.1
+en-np,06a377eb-cf3e-4b5e-96d4-dff7e94d76f7,Prabin Acharya,5,Everything quick and easy to use,2026-07-16T06:24:41,4.8.3.1
+en-np,cf1255b6-2f9f-47e1-973f-2bacb01de2bf,Mandal Dipraj,5,nice,2026-07-16T06:21:24,
+en-np,9b8e103f-cb68-448b-804d-c193da56f40f,ɴɪʀᴍᴀʟ ʟᴀᴍᴀ,5,somerimes,2026-07-16T06:19:27,4.8.3.1
+en-np,9aac7155-8baf-4653-9b34-433db61a705e,Undercover Rap,5,👍,2026-07-16T06:18:47,4.8.3.1
+en-np,af313354-fa53-4f81-b2b1-207af9aebf7b,Bibek Chand,4,it's good,2026-07-16T06:17:16,
+en-np,aca33776-81af-4e39-b90a-029a79bb3240,Gautam Paramananda,5,all good service,2026-07-16T06:16:05,4.8.3.1
+en-np,609acf38-67d8-4536-8d95-ab27fac63fc4,Sarad Bhatta,5,awesome 👍,2026-07-16T06:15:30,4.8.3.1
+en-np,905497bc-00d1-4591-a20f-6936954ebd18,siris rana,5,👌,2026-07-16T06:15:26,4.7.0.1
+en-np,c843ec7f-cd60-491c-82f9-61d4034789f2,Aman Das,5,😊,2026-07-16T06:14:41,
+en-np,6402fda5-72e0-4a72-b30a-3a0db41f0105,Unik Don,4,ye its is good app for payment,2026-07-16T06:11:28,4.8.3.1
+en-np,023b3604-18db-4c2f-a9cd-0b8bc6a4f78b,BIKESH PATEL,5,best,2026-07-16T06:10:36,4.8.3.1
+en-np,82906e98-34ac-4f38-a4e6-a99f0b6002b2,Tamang Amir,5,good,2026-07-16T06:09:56,4.8.3.1
+en-np,29e964ed-1e61-4911-9315-0cc50560fccf,Mina Gole,5,good,2026-07-16T06:09:23,4.8.3.1
+en-np,faebf581-c444-4121-8808-61b2be96c5e7,Sunil Bk,5,very Good apps,2026-07-16T06:06:02,4.8.3.1
+en-np,b802c93c-36ec-4fbd-934f-31c7f0cb9b79,Kiyomi Kimmm,5,I like this app so much,2026-07-16T06:05:35,4.8.3.1
+en-np,e593f35c-4f3e-4ed9-b4ea-cffccd9d4163,Sakshi Sah,5,very easy to transact,2026-07-16T06:04:47,4.8.3.1
+en-np,44ef1115-5a00-48b4-9108-62d32af70151,manish Shah,5,very nice for my business,2026-07-16T06:03:29,4.8.3.1
+en-np,d5d2ab74-6da9-465e-a505-a4c38d523e98,Janardan Mainali,5,this app is very useful for us and it is easy to do transaction,2026-07-16T05:58:15,4.8.3.1
+en-np,98c2f59a-0fd5-4ad6-af6d-8843d37408a1,Khairey Don,5,Very very nice,2026-07-16T05:57:29,4.8.3.1
+en-np,201732ff-3227-453f-a251-418faee70f86,Saddam Siddiki,5,efficient,2026-07-16T05:55:52,
+en-np,59c4d55d-2fdb-4654-b5cc-4112e4972541,Lave Exe,5,nice,2026-07-16T05:54:05,4.8.3.1
+en-np,70abb369-ad8a-478a-a8d7-9833272d8288,Suman Adhikari,4,"great mobile wallet, easy to use.",2026-07-16T05:46:59,4.8.3.1
+en-np,d7e6a16f-8631-4720-a237-eb825e409a9a,enemy wealth,5,"Excellent service, Good communication Staffs, Realiable and Trusted App Support",2026-07-16T05:46:23,4.8.3.1
+en-np,9fba7045-e3d6-4c5d-8f29-85708a1f8f29,Rohit Sinha,4,amazing,2026-07-16T05:45:28,4.8.3.1
+en-np,9429661b-8589-4d0b-a953-065983a479ba,Kellson Lama,2,doesn't work when payingthe bill after meal on restaurants and while paying bank accounts,2026-07-16T05:44:50,4.8.3.1
+en-np,b5a7a7ca-b169-4e80-adae-d94cfa7bdd06,Rahulkumar Sah,5,good,2026-07-16T05:44:23,4.8.3.1
+en-np,d7929577-344d-454f-a4d3-2673eea22fbe,Saroj Dai,2,good apps,2026-07-16T05:41:06,4.8.3.1
+en-np,d07502d4-46f7-477e-bb1b-665d6dac1293,Godx,3,charges 10 rs in bank transfer not good,2026-07-16T05:35:40,
+en-np,6a36c536-11b2-450f-bdf5-26e355f32020,dipesh rana,5,good,2026-07-16T05:35:12,4.8.3.1
+en-np,a3545c31-e5b1-4896-a797-6e0a7db0ac0d,sujan thapa,1,good,2026-07-16T05:31:36,4.8.3.1
+en-np,6d6dc3c4-9de2-4797-a1f8-45966ae53ef6,Sumit Shrestha,5,best,2026-07-16T05:30:22,
+en-np,9b2b8b04-bae2-41ea-8fd0-9f523f56c6f4,Himal Bohara,1,Wahiyat payment app. Chaiyeko bela kam gardaina. Backup ma cash na boki ta bhada majhne awastha aauchha,2026-07-16T05:28:22,4.8.3.1
+en-np,08ea09d4-8aaa-4db5-b7a9-1a7bd400842b,Akil Ali,5,better,2026-07-16T05:27:34,4.8.3.1
+en-np,cb38a2ce-3067-43e1-8642-606868429d28,Prajwal Singh,5,good,2026-07-16T05:23:11,4.8.3.1
+en-np,1a072342-98cb-4da5-9acb-100d3712de4c,Chandan Sah,5,good,2026-07-16T05:21:55,4.8.3.1
+en-np,4641e747-beb2-44df-bbe6-e2b1785d836e,Aryan kumar Sah,1,below average,2026-07-16T05:21:23,4.8.3.1
+en-np,d30a9d30-b2e1-4d85-8c49-9c81ad6cba94,Pragyan Khatri,5,incredible,2026-07-16T05:21:03,4.8.3.1
+en-np,140f1ef5-9081-4ff3-b99e-595741df274a,Ashish Gharti Magar,5,esey and safe,2026-07-16T05:18:45,4.8.3.1
+en-np,f7f33360-cd2d-4421-8543-5c6fbc919e4f,Luv Sah,3,it's is good for transition money. but in this aap there is a problems that is any this server was not working.,2026-07-16T05:18:32,4.8.3.1
+en-np,cbff5a86-d069-4496-9949-127a90975d9b,Prabesh Pantha,4,"it's good but .. it takes long time while sending money,to do top-up ....and ad.its boring .",2026-07-16T05:16:09,
+en-np,33d45fa2-5e01-40ae-9414-8628bb08e761,Sahil Sunar,5,Ramro cha hai,2026-07-16T05:14:25,4.8.3.1
+en-np,d89571d5-2d8e-436c-9660-bd3a6d75cd48,Farman Ansari,5,fantastic,2026-07-16T05:11:36,
+en-np,3162a46b-a785-446c-a795-7a11cbe99ac2,Salim Miya,5,it's too good,2026-07-16T05:06:42,4.8.3.1
+en-np,0afbca7a-c359-4338-aef2-791efeb86f2d,Sanjita Thapa,5,very good,2026-07-16T05:04:56,4.8.3.1
+en-np,2b04475b-82a8-49ff-90d7-2440415a095b,Nishant Saru magar,5,good,2026-07-16T05:03:51,4.8.3.1
+en-np,5d4a9aeb-1d8c-4556-ac84-763638e454a4,Pradeep Sah,3,good 👍,2026-07-16T05:01:57,4.8.3.1
+en-np,768da5ee-fa7c-4c92-975e-a43c7a8abf70,Boss In boss,5,good,2026-07-16T04:59:33,
+en-np,aa9af997-4bfd-45a2-953f-d05564c83f68,Aryan Pokhrel,5,best,2026-07-16T04:57:33,4.8.3.1
+en-np,9c360e82-ac25-4703-9c00-5ccc0518f709,Mohammad Aayan,5,good,2026-07-16T04:57:04,4.8.3.1
+en-np,def4119e-d3fd-4794-a40e-04550e98725f,Lil Stoicx,3,Good,2026-07-16T04:57:02,4.8.3.1
+en-np,377bd078-0462-443e-b6bb-025e4e7b763f,Prakash Rimal,5,👍,2026-07-16T04:56:38,
+en-np,2ac13711-f40e-4889-b367-310693a4534f,Madan Karki,5,easy to use,2026-07-16T04:54:57,4.8.3.1
+en-np,9d3b36fa-38dd-40d0-89d4-ab07f80b626e,Rajan Ghatani,5,nice,2026-07-16T04:48:13,4.8.3.1
+en-np,a020bb82-77ce-4086-97e2-7954be392bdb,vivo Media vivo v70,5,is good for payment all kind of banking account,2026-07-16T04:47:48,4.8.3.1
+en-np,9d02b6c8-9002-4ec6-b410-b38ceea80cee,Aayehaa Aayesha,3,good,2026-07-16T04:44:59,4.8.3.1
+en-np,dfb8177f-a7eb-4806-9e85-eb95f99fe7b3,Bibek Majhi,5,"eSewa has completely transformed digital payments in Nepal. Fast, reliable, and incredibly convenient, it makes everything from mobile recharges and utility bill payments to bank transfers seamless. The user-friendly interface, strong security, and wide acceptance across Nepal make it an essential app for everyday life. I've had a consistently smooth experience, and it's one of the few apps I can depend on anytime, anywhere. Highly recommended for anyone who values convenience and efficiency.",2026-07-16T04:40:36,
+en-np,a4c62222-0d80-4104-b6d0-426e39530f97,Nishant Bastola,5,nice,2026-07-16T04:40:15,4.8.3.1
+en-np,39b65d16-0d90-4ef4-9711-a888ba0eb0ea,Aklesh Mehta motivation,4,very good Transfer this app,2026-07-16T04:36:14,4.8.3.1
+en-np,e90e55b9-6ca5-457b-afd4-4d7dafe465f3,Nitesh Chaudhary,5,good,2026-07-16T04:34:52,4.8.3.1
+en-np,17182cf1-9c3f-469e-bbb3-ec26cc431312,chandra goit,3,no charge,2026-07-16T04:33:51,4.8.3.1
+en-np,8c2aaaef-3cc1-493b-8f86-074b9ee0793b,Yamon Tamang,5,beautiful,2026-07-16T04:32:39,4.8.3.1
+en-np,5babfdef-d079-45f2-8e6a-53301a5b4305,Ranjit Gupta,4,very good 👍,2026-07-16T04:31:12,4.8.3.1
+en-np,e062163c-805a-48a5-b596-6790948c5162,Aarju Chaudhary,5,best of the best,2026-07-16T04:29:07,4.8.3.1
+en-np,ed97e787-edf9-4ea2-b7c6-fec81d80e2b2,Sumit nepal,5,Good app,2026-07-16T04:28:35,4.8.3.1
+en-np,c6c5a553-63c6-4a5a-8525-7225b728eeeb,Arjun Bishwakarma,2,good,2026-07-16T04:28:30,4.8.3.1
+en-np,444f1343-ba44-4e91-af51-8015d30efe5c,D.B. Ghimire,3,still very nice working,2026-07-16T04:27:12,4.8.3.1
+en-np,b60b6c7c-b09f-4ac9-aded-c3ed1f3afb03,Nishan Limbu,4,nice,2026-07-16T04:23:07,4.8.3.1
+en-np,f2b4517c-2a66-490a-8789-aa8a6888228c,Nabal Gupta love,5,best,2026-07-16T04:22:25,4.8.3.1
+en-np,4d125b94-fe38-4a70-a3a6-4eda9b70930b,Rajesh Sunam,2,Why does esewa take charge even if we transfer money from esewa to esewa?,2026-07-16T04:22:13,4.8.3.1
+en-np,07dc3461-2c02-4768-bd56-898b9ddb8d0f,Hari Subedi,5,wow,2026-07-16T04:20:30,
+en-np,0c5063c3-da8e-4d68-8bfb-65cf50ba10a5,Bishwas Pandey,4,"some times it doesnt work , and left me choices to wash dishes!",2026-07-16T04:20:04,4.8.3.1
+en-np,fc25dcc0-be26-4842-8a24-267e844ffdf7,Thakuri 2003,3,ok,2026-07-16T04:18:58,4.8.3.1
+en-np,2c9e91ae-4031-400b-9d41-265a63df7297,HOTEL THARU VILLAGE,5,good,2026-07-16T04:14:05,4.8.3.1
+en-np,21e975fc-55a4-4098-8ce0-1e9879461dfb,suman jimba,5,Comfortable...,2026-07-16T04:09:49,
+en-np,43030299-68cc-4cf3-8c6b-bd81e4df5ee1,samikshya Magarati,5,Good,2026-07-16T04:03:22,4.8.3.1
+en-np,dabb3ba4-ed7f-4231-8d52-24dbcc270449,himanshu acharya,4,good,2026-07-16T03:55:15,4.8.3.1
+en-np,814efe17-7efe-4ab9-982b-31716448f0a6,Tek Maya thanet,3,good,2026-07-16T03:54:19,4.8.3.1
+en-np,0ebcb87e-4e4f-4d9a-943f-aedc5d2f372b,Suraj Singh,2,very good,2026-07-16T03:52:48,4.8.3.1
+en-np,e62a6285-32b3-44ea-a94f-79d099c69b85,Sajan Gupta,3,good,2026-07-16T03:51:58,4.8.3.1
+en-np,7efcdc51-6c15-4c7f-807a-52ca405d043b,Rock Johnson,5,best,2026-07-16T03:48:32,
+en-np,bb3551c3-2e59-4c49-910f-92cdf9dc1969,SHUDIKSHA KHADAKA,4,best but customers sarvice slow,2026-07-16T03:47:59,
+en-np,4a2d6718-f7bb-41c9-aa94-9afc06cb40d0,Chairing Tamang,2,sometimes badha majna patauchau hotel tera nasta knaw jada,2026-07-16T03:45:30,4.8.3.1
+en-np,669d673e-f428-47ca-82dd-50b2693e6263,Bishal Ranas,5,best for me,2026-07-16T03:45:23,4.8.3.1
+en-np,0c573041-2a62-4fbc-a41c-0f1f72d781ab,Telish Niroula,4,ramro xa,2026-07-16T03:44:11,4.8.3.1
+en-np,a242a484-ae69-468a-9eac-b252a33c65a0,Roshan Harijan,5,good work,2026-07-16T03:43:32,
+en-np,b6fc0509-b227-4a65-aa90-925309c127fb,Manika Shrestha,5,easy to use,2026-07-16T03:42:39,4.8.3.1
+en-np,d0b83913-b3e5-4a59-a412-286785fcbf30,Salman Miya,5,Superb,2026-07-16T03:40:51,4.8.3.1
+en-np,56889109-d5ed-4e8e-8d7a-4dea43c822d4,pradeep Yadav,5,👍️,2026-07-16T03:39:14,4.8.3.1
+en-np,d67ac0fa-d99e-40dd-b934-07050ab4ee6a,Sagar Saud,5,it's a most important app which is used easy to send or receive Moner and transection,2026-07-16T03:38:46,4.8.3.1
+en-np,75f2885d-ed32-4cf7-8462-85bd077a1ac1,Pranav Acharya,5,best,2026-07-16T03:38:41,4.8.3.1
+en-np,9903dba9-08cf-44c1-93bd-d22dab1e9b79,Bina Sah,5,good,2026-07-16T03:38:06,
+en-np,74c77575-5307-4b10-ae17-624525279d55,parshu nepal,4,"love when my account has balance . else, i don't like 😅",2026-07-16T03:34:44,4.8.3.1
+en-np,e847740e-1b04-46bd-842b-aec5e9e4b44f,Pradip Sah,5,Easy to pay,2026-07-16T03:32:57,4.8.3.1
+en-np,59c24529-cbc5-4575-8e0f-1fe3dea12d14,yonjan dan,5,no thanks,2026-07-16T03:27:36,4.8.3.1
+en-np,c4ec6cf9-13cb-4812-a511-75a842f213bc,Pintu Paswan,1,good,2026-07-16T03:27:09,4.8.3.1
+en-np,b80fc51e-0ff4-4de9-b7d4-30ee581da0fb,JIWAN KTUWAL ff,5,I like this app,2026-07-16T03:26:17,4.8.3.1
+en-np,a4f7f8de-22db-44a0-b6e6-24c383df3ae8,Manish khatiwada,5,because he is very well,2026-07-16T03:25:00,4.8.3.1
+en-np,0b320ba3-b9f6-49eb-83e1-39351ae981f5,Jagrit Bahadur Paudel,5,👍👍👍👍👍👍👌👌👌👌👌👌👌,2026-07-16T03:24:59,
+en-np,e33ddf29-d5bf-4d82-b0e5-20149647b7f8,Aman Pandey,5,best app for business man,2026-07-16T03:17:05,4.8.3.1
+en-np,b3e324a7-beb1-4bbb-b425-44b2ee2016aa,Ka Bin,5,easy to use,2026-07-16T03:17:01,4.8.3.1
+en-np,75a2fb99-b19a-4ab2-b2d5-1d3049f922f7,Tshering Magar.,5,good,2026-07-16T03:14:45,
+en-np,b3134f7a-527e-4b08-a16b-4c883023f375,ajij ansari,5,nice,2026-07-16T03:14:31,4.8.3.1
+en-np,3f596e6f-b8a3-4b6b-8a64-dffe5f7a3875,Navin Navin Tharu,5,best for use,2026-07-16T03:13:47,4.8.3.1
+en-np,dbc82e26-ffd4-4b49-8e4b-4375309e35d8,Prakash Pant,4,nice app good,2026-07-16T03:11:39,4.8.3.1
+en-np,ce296926-8aec-4cbf-ab29-383920b2a780,saheb kumar sahani,5,supper,2026-07-16T03:08:31,4.8.3.1
+en-np,a7582e6b-ad23-435f-85a8-0904292f8fee,Glove Koirala,5,good,2026-07-16T03:06:24,4.4.0.2
+en-np,d9236403-b203-4120-a025-faa3e7617d11,Shankar Oli,5,Oops,2026-07-16T03:04:43,4.8.3.1
+en-np,3b81140b-8a9d-473c-9bfc-4f79276f39d3,Binay Yadav,5,excellent payment app,2026-07-16T03:03:41,4.8.3.1
+en-np,21a3b8da-9f8c-47ab-bdcb-a8cbe5249015,Pasha Santosh,5,good,2026-07-16T03:03:36,4.8.3.1
+en-np,127e3c96-bbe7-4130-a753-94599a9c3fd0,Padam Century,5,excellent,2026-07-16T03:03:29,4.8.3.1
+en-np,65ad8bd7-1992-4692-95fe-a8b4714a47f8,Rajeev Singh,4,nice service....make transfer easier....better than any other online banking service....the only thing - sometimes the server is down ....otherwise excellent service,2026-07-16T03:02:49,4.8.3.1
+en-np,c4bd166b-480f-4d01-87f8-d53db49cb351,Mantosh Kumar,5,very goods,2026-07-16T03:00:00,
+en-np,148b53f2-ed3b-4b12-a574-b2ee1374422a,Surendra Magar,5,good,2026-07-16T02:59:04,4.4.0.1
+en-np,b892db24-e6a4-4a40-89a7-51b3760095dd,Dibash Pokhrel,5,vry excellent service,2026-07-16T02:40:39,4.8.3.1
+en-np,77158ce8-412d-4ca3-8e26-0a8a2ba33a74,sss3 Metal Songs and solo,3,nothing new,2026-07-16T02:40:26,4.8.2.1
+en-np,279ded1d-a5f5-42e9-a5a9-21ae61f317e8,Niraj Chaudhary,3,nice,2026-07-16T02:39:45,4.8.3.1
+en-np,ffeff034-adf9-481b-bc54-ad7769c1a11b,Bir Bahadur Chaudhary,4,please make faster and improove customer service for quick response,2026-07-16T02:35:06,4.8.3.1
+en-np,2d348e3c-71fc-4185-a8e7-37297c64c863,Arjun kumar Shahi,5,good apps and easy use,2026-07-16T02:34:34,4.8.3.1
+en-np,5cdb80a8-8dd3-4c69-9b23-a31b3c91d36b,Dipshan Lingden,5,good 👍 good sort and fast ⏩⏩⏩ apps,2026-07-16T02:33:43,4.8.3.1
+en-np,1b2d54df-d3da-4e71-a724-1b217a44f67a,Krishna Singh,5,very goo!,2026-07-16T02:32:18,4.8.3.1
+en-np,db7bf2ec-ed92-46d0-b840-fae2ca810d99,Nisha Khadka,5,wow,2026-07-16T02:29:56,
+en-np,e8eee9c8-ca20-485d-9866-3d9916582388,nepali heros,5,why can't we send money in another esewa number....please reply i'm quite disturb of this issue,2026-07-16T02:29:25,4.8.3.1
+en-np,afcfcdbd-bf0e-4d1d-ba5b-f939d53de26a,Dark Moon (D M),4,i am old user,2026-07-16T02:26:48,4.8.3.1
+en-np,825f7571-d0f7-403b-a683-b95e94479c34,Anuj Tamang,5,fantastic,2026-07-16T02:24:41,4.8.3.1
+en-np,475fcbe7-4ebb-4f6f-ae0f-02afb00dd5d2,subash thakuri,4,good,2026-07-16T02:20:22,4.8.3.1
+en-np,2c449360-b394-48dc-ab05-4887116c73e9,Rohan Mandal,3,good 💯,2026-07-16T02:16:59,4.8.3.1
+en-np,93edf8d5-0d6d-45ed-96a5-f7c66457ffed,mohammed aarif,5,excellent app for payment and for fone points,2026-07-16T02:08:45,4.4.1.0
+en-np,3d9ff339-d8b9-4f2c-83a4-71d1f91dfeb7,Mr NIR JUNG MaGar,1,system is bad,2026-07-16T02:06:46,4.8.3.1
+en-np,3d2171c8-84ab-4f0e-bcde-1e7ebb780f27,Saphal Chaudhary,5,i have best experience on this wallet I love it thank you esewa,2026-07-16T02:05:42,4.6.0.0
+en-np,f5511022-bd40-4fc8-9c0a-a6424e9ce75e,Manu Ram,5,good app,2026-07-16T01:58:38,4.8.3.1
+en-np,3a965a91-fc76-421e-9881-03d7612ac8e6,Safal Cleaning,5,very useful for business transactions.,2026-07-16T01:55:15,4.8.3.1
+en-np,efbbee3d-d1a7-495c-8543-079e2f6eab3f,Dinesh sadashankar,5,it's good off all time,2026-07-16T01:54:52,4.8.3.1
+en-np,3475cd50-e2e7-4bb7-bcc2-a1ad48126029,Lalbabu Yadav,5,Great app,2026-07-16T01:46:13,4.8.3.1
+en-np,9098d6ec-a263-4000-b683-bda156b29318,कृष्णप्रसाद पाठक,5,good,2026-07-16T01:42:49,4.8.3.1
+en-np,9ad79b87-7bd9-40b0-835a-9ed071a5b5ab,Sonu Vai,3,good,2026-07-16T01:41:45,4.8.3.1
+en-np,01f8c94b-52fc-4df4-b2cb-5840ace5c350,MIKESH Devkota,5,nice app,2026-07-16T01:37:16,4.8.3.1
+en-np,069ec2bc-8b30-4533-a72d-9c37a337b09c,Deepak Khadka,5,very nice,2026-07-16T01:35:00,4.8.3.1
+en-np,642acc72-70cc-478f-88cd-b207a27301ab,Sunil Kafle,1,not good at all,2026-07-16T01:32:59,
+en-np,e162bae1-3f45-4592-a679-43adff7c36ff,Aadarsha Adhikari,5,it's a great banking app. Iike this very much,2026-07-16T01:29:50,
+en-np,8ea5437b-527e-4d5d-8a17-6e41395ced41,Rajesh Saud,5,🥸,2026-07-16T01:28:49,4.8.3.1
+en-np,b180d0a3-acc8-475c-980a-7579d7c1286f,Mamta Thapa,5,too good,2026-07-16T01:23:34,4.8.3.1
+en-np,96f7bc05-4943-49e6-b797-42090970ad4e,Aashish Chaudhary,5,easy to use,2026-07-16T01:22:07,4.8.3.1
+en-np,65e8a105-3b2f-41ed-8434-cc5c823efc53,Dilip Jaiswal,5,good,2026-07-16T01:17:57,4.8.3.1
+en-np,110d3026-de54-4bda-9707-48234b92d4ab,Anupam jha,5,good,2026-07-16T01:16:06,4.8.3.1
+en-np,14bd3ad0-78c2-4d0c-b1d7-560c843c0b49,ABhang Rai,5,Best options for e-Sewa wallet. 👌,2026-07-16T01:13:03,
+en-np,1dd1a259-0a07-4283-9ecb-8222d1b5f1b9,binod tulachan,5,excellent,2026-07-16T01:06:11,4.8.3.1
+en-np,b2bec88c-494f-4766-b7fa-62c7d7091e2b,JEET NARAYAN CHAUDHARY,5,good,2026-07-16T01:00:53,
+en-np,51adced8-46f5-499d-ba6f-4f77efad593e,Sanjaya Bista,5,easy and fast service but sometime doesn't work,2026-07-16T00:59:04,4.8.3.1
+en-np,b2de3fe7-3ced-4612-863f-f6900ac2ecfe,Sandes Subedi,5,it's good,2026-07-16T00:52:18,4.8.3.1
+en-np,ac2430d2-1bc9-4a60-890e-4c26f78c349e,Bhupendra Khatri,5,best,2026-07-16T00:51:06,
+en-np,4886c1be-9b7d-47e8-92fa-60dc2e16c52f,Divyansh Yadav,5,this wallet are easy to my life,2026-07-16T00:39:30,4.8.3.1
+en-np,72659121-10d5-4600-8c89-a31da03814ee,Santosh Singham,5,now very good. this app to many people download. so much sported me and for you guys and your family helping ❤️all s,2026-07-16T00:33:15,4.8.3.1
+en-np,40c30913-aef0-43a4-9294-b0f917bbfcd6,Chandra Mani Sah,4,awesome but some time transaction failed and money deducted,2026-07-16T00:33:12,
+en-np,4703cd83-437b-4ca9-bf1b-e3c8652f65ff,jagat Awasthi,5,nice,2026-07-16T00:30:13,4.8.2.1
+en-np,ca6b4fcb-1353-4d55-af0c-681c64116dec,Niraj Dhakal,5,Its easy to use esewa and good services.,2026-07-16T00:17:54,4.8.3.1
+en-np,62043337-d4ad-4910-a8eb-8d64643987ad,Bhupendra chhetri,4,it would be better if eswa provide short money short term lone,2026-07-16T00:11:07,4.8.3.1
+en-np,800b4aa3-cb0b-4285-997e-bcbee2107776,Bishnu Gelal,5,perfect nice very good one,2026-07-16T00:09:53,4.8.3.1
+en-np,81673beb-d3cc-47dd-af93-8acaa0488262,Yobraj Rana,5,its fast for everything like receiving and sending,2026-07-16T00:05:39,4.8.3.1
+en-np,0ab894fc-2b73-43e9-8e81-513e1b5f5745,Pappu Kumar Gupta,5,Very Easy To Use and faster .,2026-07-16T00:04:18,4.7.0.1
+en-np,f50955ef-51b3-4dae-b813-294ce22b02cf,Karan Rana,5,this is app so crazy,2026-07-16T00:03:12,4.8.3.1
+en-np,d5d13cd2-8148-4af5-ba62-975dfbdd3715,Angel Ghale,4,good,2026-07-15T23:57:35,4.8.3.1
+en-np,014bd3f8-eea5-41c4-8821-8de2ae1d2c83,Stha Vyantss,4,kaile kaii bijok banauxa😭,2026-07-15T23:54:20,4.8.3.1
+en-np,ce51d91a-1d47-4506-95c5-3db61c999731,Win Shyam,5,op,2026-07-15T23:52:37,
+en-np,95fc5a7b-6118-4130-997f-6db11886f3a0,Bidya Rajbahak,5,fabulous,2026-07-15T23:46:40,4.8.3.1
+en-np,cc072c46-9af9-409d-b8bc-a6c2f3e23c92,sagar Dhital,5,fast and responsible,2026-07-15T23:45:14,4.8.3.1
+en-np,7dfb10af-6ae9-4f0e-ae75-be726f70d251,Saroj Aagri,5,great,2026-07-15T23:44:31,4.8.3.1
+en-np,7c8aa748-3500-48f7-ae2b-1b0837b2602d,Nitendra Yadav,4,its a safe wallet for the normal transaction.,2026-07-15T23:34:38,4.7.0.3
+en-np,c24e30c4-6b26-4990-8f54-0fef145eba49,Sakhila Magar,5,fast and good services,2026-07-15T22:53:04,4.8.3.1
+en-np,ec98911f-ac84-4419-8b5e-187d8dd0f58e,SuMan AchaRya (RaZa),5,good service keep it up,2026-07-15T22:17:42,4.8.3.1
+en-np,5f56fba6-9db7-48d3-8f36-6d44e3dcdc20,Sandesh Tamang,5,its good,2026-07-15T21:46:26,4.8.3.1
+en-np,ef7979fa-55b2-415e-9f4d-6b2222ec4e30,Shah Ujjwal,5,very effective when some time bank server not working then it help quietly❤️🤲🤲,2026-07-15T21:30:21,
+en-np,95fae8a0-f71f-42fd-a7fe-c5cc3d81c093,Saroj baniya,5,super,2026-07-15T21:08:08,4.8.3.1
+en-np,ebfc1998-dd06-4e14-8b28-41f2776a18f0,Kishan Thagunna,1,not good so faf,2026-07-15T20:40:17,4.8.3.1
+en-np,7d0744c8-7f9b-4cd0-bfb0-4bad5348b9c3,nage neupane,5,good,2026-07-15T19:52:59,4.8.3.1
+en-np,a6153835-c1db-4152-848e-45baab4f27f7,Indra Dhakal,5,good app,2026-07-15T19:46:50,4.8.3.1
+en-np,e7cbd8c3-8559-4e22-b429-b2be4983a155,Bik_ash Khatiwada,5,very good,2026-07-15T19:42:19,
+en-np,9985b97a-5441-402c-b9b2-62afaf3d5c24,Kishor Khadka,5,easy to use,2026-07-15T19:35:57,4.8.3.1
+en-np,65f38390-2d38-4096-8f88-3af5af81b2f0,Google Eeee,5,good app,2026-07-15T19:33:23,
+en-np,99d601c9-6ff9-44e6-942e-f31743b61e42,Sangeet Chy,5,nice for transportation and deposit money,2026-07-15T19:29:38,4.8.3.1
+en-np,e502a2d2-5a9c-44ec-80ee-3c6926e4c4ba,Bisshal Thapa,5,outstanding,2026-07-15T19:29:35,4.8.3.1
+en-np,87426a15-244b-4bbd-b7b4-c5e3c55008d9,Rono Mars,5,easy to use,2026-07-15T19:29:08,4.8.3.1
+en-np,314b6dd9-9d8b-4e82-9248-1469986f4ee7,Pujan Gautam,5,good,2026-07-15T19:28:43,4.8.3.1
+en-np,e1ff9639-8b40-4bb3-ae50-2c300519eba0,Pathao Rider,5,good,2026-07-15T19:28:26,4.4.0.0
+en-np,f09b632b-7582-4282-b2e7-2ec9686ab1dc,Avinash Shrest,4,very good and fast,2026-07-15T19:11:06,4.8.3.1
+en-np,b86848b7-63ff-4e0c-806c-19bd79bab8cf,Sagar Sunar,5,good,2026-07-15T19:03:49,4.7.0.3
+en-np,8587a586-cd02-4220-8231-746c32dc65f1,Dave Shrestha,5,Good,2026-07-15T18:47:18,4.8.3.1
+en-np,98a0e8eb-0ba8-4ff6-80bd-cd169f980a3f,Udaya Rokaya,5,it's a good or easy for payment 😃 Thank you 😊,2026-07-15T18:44:31,4.8.3.1
+en-np,4ce74c3e-6d28-4177-bd9f-fd379687da77,Muji Tillu,5,good,2026-07-15T18:41:55,4.8.3.1
+en-np,e24b3728-3f74-49f3-84fb-248561dadcc9,Prachana Pasman,3,sometime it doesn't function well,2026-07-15T18:33:00,4.8.3.1
+en-np,4ce00fa9-3314-4ff3-849c-aea4612b496e,Kamal Khadka,5,verry good wallet,2026-07-15T18:32:56,4.8.3.1
+en-np,4af6ffb2-b2ab-4475-a769-b8838f61e5b5,sandeep prasain,5,good,2026-07-15T18:24:48,4.8.3.1
+en-np,b1a28b2c-f475-4e0b-9e25-4b1644d98ef4,Wang Tamang,4,good 👍,2026-07-15T18:23:33,4.8.3.1
+en-np,52e275d0-7af1-4717-a23a-d0dd388e0bc1,Abhay Lopchan,1,Your server is too bad you guy's need to fix it because of that my money is on pending 😭,2026-07-15T18:18:40,4.8.3.1
+en-np,b7830e6c-84ff-4956-be6f-9998e41be934,Robert Daju,4,Tanki ko petrol return gareko birsinna kaile,2026-07-15T18:17:41,4.8.3.1
+en-np,f2b58060-0b1c-453f-bfa9-4c775100c5fa,Rajan Danuwar,4,Very very nice,2026-07-15T18:13:14,4.8.3.1
+en-np,59ac79ed-a9e9-4f4e-a14b-a020924cfa3a,Saroj Mangrati,5,very nice,2026-07-15T18:02:38,4.8.3.1
+en-np,a11b5975-e1ea-480c-b345-6c636e6adb81,nyima Tsering,5,excellent,2026-07-15T17:54:43,4.8.3.1
+en-np,e072025a-a332-4f79-924f-522f973ec1d3,Raj lama,1,pay garne bella 10rs charge chai kina,2026-07-15T17:51:22,4.8.3.1
+en-np,940eef0b-64c2-421c-825f-063330bfd4dc,A R,5,Manu hang Hy yuryggfyhhfy gf gf yu,2026-07-15T17:31:48,4.8.3.1
+en-np,5485fbb8-12fe-4cb2-b251-ef8d18971855,Ritanjaya Joshi,4,transfer charge,2026-07-15T17:19:07,4.8.3.1
+en-np,152fbf72-31d4-4435-b965-fc8ded04ed3e,KUMAR KRISHNA,5,best of all,2026-07-15T17:18:51,4.8.3.1
+en-np,7004304e-6e27-4400-9981-73f825bdc6ce,Naresh Bhai,5,osm,2026-07-15T17:14:42,4.8.3.1
+en-np,8619b354-b86f-4e50-9723-486e25f74519,milan paudel,4,good improved,2026-07-15T17:08:21,4.8.3.1
+en-np,d9eb9722-a55d-4cbc-bd0a-aebf085435e2,Sirjan Bhusal,3,This is best for sending and receving money it has save my so much time the only issue i get while using this app is there server shut down any time soecially when i go to any place resturant and at the time of billing the server shut down and i feel so sameless in many place,2026-07-15T17:05:42,4.8.3.1
+en-np,2f5033a8-fae6-43f2-abad-757de633babe,Sunil Kumar,5,outstanding,2026-07-15T17:00:19,4.8.3.1
+en-np,4746f056-7609-4ff8-b814-d12c5f840379,Dipesh,5,best payment,2026-07-15T16:57:26,
+en-np,9086211e-43d5-4e02-b965-2b7e3114e760,Samir Rai,4,e sewa is good app but sometimes there is a payment error problem,2026-07-15T16:51:19,4.8.3.1
+en-np,034487d7-46f3-4b0a-8869-74c757173c4a,MISTIC GAMER,5,good,2026-07-15T16:50:26,4.8.3.1
+en-np,2c4c462d-07ec-4828-ba05-1d96bec8e29d,Shishir Acharya,5,Best,2026-07-15T16:46:23,
+en-np,a452f48b-d678-4e8d-846f-6f5dc554b19a,Sandesh Kc,5,Excellent,2026-07-15T16:45:04,
+en-np,100689e0-f8fc-4d12-a62b-e29d1746914a,Anish Yadav,5,Very useful and secure,2026-07-15T16:44:13,4.8.3.1
+en-np,f982b0e2-b043-4e31-8d2a-46ca7f225fb8,oli dorna,5,good for pay any where,2026-07-15T16:44:11,
+en-np,d3ae34fd-16a0-4ad5-8295-46c15244f14e,Gsm Binod,3,sometimes lacking your systems,2026-07-15T16:42:23,4.8.3.1
+en-np,dc5a1a87-4863-4453-bc45-0f28ab05c25f,Dayananda chaudhary,5,good,2026-07-15T16:41:30,4.8.3.1
+en-np,71f8476d-b843-4672-91a9-1d4d567ef911,Santosh Mahatara,5,good mobile wallet and good experience about this walle,2026-07-15T16:40:50,4.8.3.1
+en-np,bfecf3b8-f2e0-49ba-9c9e-900c87b8e326,Nishan Chudali,1,limit probelm,2026-07-15T16:37:48,4.8.3.1
+en-np,f94f89e6-a8fa-4a8e-ba51-af291a289a46,Aakash Yadav,5,it's nice love this feature and security protocols also,2026-07-15T16:36:50,
+en-np,d52f4eea-084f-4623-bd5b-45bae542f7d4,Ricky Sharma,5,too good,2026-07-15T16:35:52,4.8.3.1
+en-np,942df0f5-fd57-4df9-8a1c-6ab5355cc22c,Kristi Gupta,5,its convenient,2026-07-15T16:34:03,4.8.3.1
+en-np,b47b4d67-e4cd-4404-a6a9-492ace458ffc,arbik khatiwada,1,no loan service for users,2026-07-15T16:34:03,4.8.3.1
+en-np,932834ff-d4ab-44a9-a8fe-169707baa2f0,Sandip Dhami,5,Very helpful,2026-07-15T16:31:42,4.8.3.1
+en-np,ccff7b61-22b9-4bc1-9474-39c761a59197,Ushant Dhamala,5,best for a reason,2026-07-15T16:31:25,4.8.3.1
+en-np,223fd52e-39df-41cf-b86c-3486eb9a13b6,Sumit Giree,5,its very easy and useful,2026-07-15T16:28:49,4.8.3.1
+en-np,4cae9999-04ca-4895-ab74-41cc1920910e,Subham Jha,5,best app,2026-07-15T16:27:47,
+en-np,7e345d0f-b6bf-47fd-91bd-6116fe27c82a,Tankaman Shrestha,3,many times massage not receive after qr payment,2026-07-15T16:26:27,4.8.3.1
+en-np,64ba4a82-152d-46ae-8b25-bfd67dd486f4,Hari kishan Chaudhary,2,"Sometimes, due to this issue, after buying small items at a hotel or elsewhere, the payment doesn't go through, and I end up having to pay again. Even when there is enough money in the account, there are problems with the payment—the money simply doesn't get transferre.",2026-07-15T16:25:41,4.8.3.1
+en-np,79920ca8-6b5a-4ff4-9236-7bca3f87f109,Dipendra Shah,5,very good best 👌 esewa karobar,2026-07-15T16:23:57,4.8.3.1
+en-np,90aca704-b468-4fd2-a369-302131a1d90b,Chandan Sah,5,very nice,2026-07-15T16:22:57,4.8.3.1
+en-np,ec5a60f4-baf3-408d-8c46-9eb1c0cd92f1,Devendra Dhami,5,Good,2026-07-15T16:22:51,
+en-np,430d272f-3999-48f7-986a-bc22c5f6673b,Rupesh Kumar Kushwaha,5,payment very good,2026-07-15T16:21:37,4.8.3.1
+en-np,b2e9f54a-9748-4067-b0f9-ed80f343504b,Ayush Vhandaree,1,Okiee,2026-07-15T16:21:21,4.8.3.1
+en-np,6bb99fc3-9f34-44ce-8ebb-d3db20260432,Resuv Nepal,5,nice,2026-07-15T16:19:33,4.8.3.1
+en-np,d9f2f200-b599-47ea-a550-ac93805d968c,Bijay,1,Taking charge while transforming from esewa to esewa😭,2026-07-15T16:18:56,4.8.3.1
+en-np,967bcc47-9c79-4fdc-ab28-e0e50cd04177,Ten Ma,5,gde,2026-07-15T16:17:14,4.8.3.1
+en-np,a58564a6-6562-469d-9218-2e5b3fbbee23,Samir khan,5,best payment app in the nepal,2026-07-15T16:14:52,4.8.3.1
+en-np,a032cc79-ffa2-4a2f-9949-498ae07a6ec5,Krishna Budhathoki,2,too much bugs recently...... mobile banking feels better,2026-07-15T16:13:50,4.8.3.1
+en-np,3f8451ad-81f3-482e-8e9e-14ca68aef08b,Dipesh Arghaule Magar,3,good,2026-07-15T16:12:56,4.8.3.1
+en-np,325a6494-998c-41ea-813f-edcb84674eec,Arbaz Husen,3,nice,2026-07-15T16:11:44,4.8.3.1
+en-np,745aa481-0597-43f0-a631-cf2f22826622,Dhananjay Joshi,5,ramro esewa,2026-07-15T16:11:40,4.8.3.1
+en-np,fbb3511a-3b73-4865-8baf-3122264af3fd,Hari Badayak,1,"chainey bela chaldai nw , always glitch. hunxa halda paisa .",2026-07-15T16:09:32,4.8.3.1
+en-np,38ce4efe-ac10-4c3a-a812-54caab432d08,Sujan,5,very easy and fast pay . love it ✌️,2026-07-15T16:09:19,4.8.3.1
+en-np,ecc22efe-5f62-42d9-8e43-eadb4a2690cf,dinesh lama,5,very good,2026-07-15T16:08:12,4.8.2.1
+en-np,019ec326-e5e6-4b19-ba1c-db42c6c06a7e,Chandan Sah12,4,goood,2026-07-15T16:04:39,4.8.2.1
+en-np,beff93b6-899a-4590-8795-9165a434a80f,Bikal Tamang,5,easy to use,2026-07-15T16:02:58,4.8.3.1
+en-np,52f8407d-f8a4-4162-a744-82044464c853,Roshan kumar Pant,3,ramro xa but kati bela chaldaina,2026-07-15T15:56:29,4.8.3.1
+en-np,0a02d167-e0e9-428e-9b37-0d5e6ea64b1f,Sujal Gurung,5,east or west esewa is best,2026-07-15T15:53:51,4.8.3.1
+en-np,ec74b8f2-4ff8-47da-84f9-8540a6a4e73b,Mukesh Kushwaha,4,These apps will help make digital transactions easier.,2026-07-15T15:53:43,4.8.3.1
+en-np,d0fe46ec-b6d1-47a7-9299-289fb6b64eea,Pusparaj Bhagat,4,good,2026-07-15T15:52:13,4.8.3.1
+en-np,e22c16dc-0372-436c-aadf-752d0ead7a3d,Nur Vai 2M,1,mero Kam eswa la dharai dila garxa,2026-07-15T15:51:39,4.8.3.1
+en-np,0a9e6d0b-692f-49fd-9f22-196257b8b004,Aman Basnet,2,always at time of payment the current service is not available,2026-07-15T15:50:11,
+en-np,29e2084c-1bf4-4b0d-9b22-6623843c4d98,Sahil Tamang,3,improve the load capacity of data,2026-07-15T15:48:08,4.8.3.1
+en-np,13ad04f8-ee2d-487e-a557-af19ece8d3c0,BIJAY THAKURI,5,nice,2026-07-15T15:46:57,
+en-np,adbc6510-cd6b-4602-931f-5adba2a8b9a1,Ugrasen Rana,1,worst,2026-07-15T15:44:33,4.8.3.1
+en-np,e30b9d5b-1b3b-4466-8988-aff896bd2c79,dipesh shrestha,4,ok,2026-07-15T15:44:32,4.8.3.1
+en-np,8e0143b8-18db-4c92-9b5e-bd8c5b9d8784,bishow ram kharbuja,3,you should add B.S. date features in app,2026-07-15T15:44:00,4.8.3.1
+en-np,596dc0ac-511b-40e5-9f75-226be6d0ef17,Ambike Kushwaha,5,are you will get better experience in transfering your morning it is nice yeah yeah,2026-07-15T15:42:25,4.8.3.1
+en-np,c1c1a791-cf41-4e0e-8315-f7d0baa27af7,Arun MAJHI,5,good,2026-07-15T15:36:37,4.8.3.1
+en-np,e9228ecc-adb4-4111-8221-2b3b91e6efae,Prince Xtx,4,good,2026-07-15T15:36:28,4.8.3.1
+en-np,08e937e7-a0e8-408b-91f1-4b47b8aa7eaa,Pawan Poon,5,always i ve to pay 10 rs exctra,2026-07-15T15:35:20,4.8.3.1
+en-np,6ef73f76-6d1d-46a1-a9ac-4900108ee12e,Hungry Mouth Cafe,4,good,2026-07-15T15:33:02,4.8.3.1
+en-np,8018a288-60e0-4586-bb3b-b5270bf021bd,Sa Nu,5,good,2026-07-15T15:31:59,4.8.3.1
+en-np,de25b8a4-f2e7-4206-b757-a02a7fb51812,Devendra Jaisawal,5,Excellent,2026-07-15T15:29:43,4.8.3.1
+en-np,a479c822-9494-45e5-a380-3ba2433ac627,KC Entertainment,5,lovely mind blowing,2026-07-15T15:29:04,4.8.3.1
+en-np,57e3e480-523b-44fe-80a7-0db18e788497,VIP DONG,5,Aati bbl hai yestai yestai hunuparryo sadhai sadhai,2026-07-15T15:28:57,4.8.3.1
+en-np,449a0e36-469f-4f46-a01f-569bdef0e1cd,Roshan Ram,4,just good 😊,2026-07-15T15:28:09,
+en-np,159ad8e2-a337-4b55-9d19-5ec642b8cc6a,Santosh Shrestha,5,hami jasto lai chai lon lina namelne raixa aafno manxe kojera dinu hola ni,2026-07-15T15:26:06,4.8.3.1
+en-np,c19194de-53af-42ca-ba36-14b5c8ae7f3a,Bhim Dangaura,3,when i needed esewo doesn't work.,2026-07-15T15:24:59,4.8.3.1
+en-np,08a8b7ef-d60d-4b73-9de2-00778e09a5ef,Roshan Rupakheti,5,its good,2026-07-15T15:24:17,4.8.3.1
+en-np,d26af51e-d24b-46e1-8c02-b1a3ac39f892,Gaurav Magar,5,good n easy,2026-07-15T15:23:36,4.8.3.1
+en-np,1ac426a2-535f-458a-a147-a472c47e4528,Shankar Thapa,5,good but sometimes didn't work plz improve esewa. 🙏🏻,2026-07-15T15:23:21,4.8.3.1
+en-np,a9393ff5-72ad-4174-9bfe-02704f44fb37,Shubham Neupane,1,4-5 start ho but yo recent esewa scam haru lai niyantran garna nasakeko dekhera 1 star tyo ni compulsory vayera...one of my close relative almost fell into this scam,2026-07-15T15:23:19,4.8.3.1
+en-np,287c0f02-9678-469e-b168-200ecfce5cbc,Kushal Khadka,3,sometimes it doesn't work when it is an emergency,2026-07-15T15:19:07,
+en-np,a8bcf063-124b-46d6-b0e2-463548391c77,ASAD AHMED KHAN,5,that's is awesome wallet platform,2026-07-15T15:18:29,
+en-np,717fb5a0-70ea-4fe9-a805-48095d2e8f92,Sanjay Shrestha,5,nice,2026-07-15T15:15:45,4.8.3.1
+en-np,d20e06b0-2a7e-45af-a1a2-c006e34189e4,SAFAL Gharti,4,good but limited transaction,2026-07-15T15:13:31,4.8.3.1
+en-np,b63cb0e9-0fc0-4dd4-9468-1544d2cebb24,Sushant Bishowkarma,5,Good,2026-07-15T15:11:41,
+en-np,a16dc02d-56a1-4875-bffb-fed0bf09304b,Santosh Palli,5,all good,2026-07-15T15:11:08,4.8.3.1
+en-np,0fa4f4e2-06cd-4337-b4a4-6f35972f58ff,Rn Store,4,not bad work smooth,2026-07-15T15:09:57,
+en-np,f54ee191-60fe-4fc8-8093-f9155905e946,Kritika Thapa,4,helpful,2026-07-15T15:08:09,4.8.3.1
+en-np,bbb67013-f39c-4597-a325-c72b1ebfd746,Nawa Raj Baral,4,Good,2026-07-15T15:07:05,4.8.3.1
+en-np,87bd5032-ea36-4de6-bca1-f085c7e067f7,Nanipat Sah,3,nice and available everywhere,2026-07-15T15:06:40,4.8.3.1
+en-np,9dea3bed-ff82-4e66-b14d-4f7b61ddd3b4,Manandhar Pratik,5,very good app,2026-07-15T15:05:24,
+en-np,a1dd6a1b-a21a-4c86-8be1-3417f48a0844,biswas Kandel,1,dont work while paying. one of the worst app,2026-07-15T15:05:21,4.8.3.1
+en-np,56f294a3-bee1-49ec-8fe6-4dbd5a8e893b,sanu magar,5,This is best app for those people doesn't carry cash with them. It's easy to use easy to do transactions with other people.,2026-07-15T15:03:41,4.8.3.1
+en-np,50c4e9e5-f9e9-4290-95fc-2336b57eb219,Sps academy janakpur 8,5,v good app,2026-07-15T15:02:58,
+en-np,75e955dc-ae18-4818-95a9-425ad1495724,Arjun Gautam,4,"Very good experience with us, But some time not working perfectly, run slowly",2026-07-15T15:02:56,4.8.3.1
+en-np,37d78f43-b85c-46ab-b1ea-7175f4d4e8e6,Prabin Gurung,5,"easyyyyy to use ,just wanna say thanks",2026-07-15T15:01:52,4.8.3.1
+en-np,ea901e56-23bc-43d4-9d67-e6f95a7a25e6,Roshan Dc,5,easy,2026-07-15T14:59:33,4.8.3.1
+en-np,55f92116-4160-4948-8af1-d41b12d0478b,Arim Gg,5,charges amount is to high and when we want to withdraw money we hardly fine a withdraw point,2026-07-15T14:56:29,4.8.3.1
+en-np,86679161-e84e-4aa7-856b-045119cb15b6,Samiksha Bk,5,nice,2026-07-15T14:55:49,4.8.3.1
+en-np,df6f63a3-9bc5-443a-a67d-f842fb849516,Sanjay Shah,5,nice,2026-07-15T14:54:15,4.8.3.1
+en-np,724efa4a-a694-4046-9a37-0f55b10b236a,prayush oli,3,Being country pillar of mobile banking this app sever keeps crashing which causes many inconvenience in daily life. It also shows fake transaction where money is credited from your account but receiver doesn't get the money.,2026-07-15T14:54:09,
+en-np,d20e9685-efbc-4f5a-9d9a-a84a7f2d5895,Prabin Sapkota,1,worst experience. katai cash naligi hinda ani urgent transaction kailai chaldaina sadhai fasauxa,2026-07-15T14:52:59,4.7.0.3
+en-np,9bf2716c-6608-44d0-af6e-67c36b521a11,Sukman Tamang Sukman,4,good,2026-07-15T14:50:29,4.8.3.1
+en-np,8b800d60-07c5-4bd5-82c5-5e8030ca65bb,Aasok Pokhrel,5,10 ma 10 haii app lai tara 10 charge lagni chai hatau na paryo,2026-07-15T14:50:21,4.8.3.1
+en-np,6d4de763-ccfb-4511-9df1-c2addeb1949c,Ritesh Kumar,5,nice wallet,2026-07-15T14:50:16,4.8.1.0
+en-np,6d5b41bf-30c2-4e57-ac7e-dca1fb971292,Dilip Basnet,5,Very Good...!!!,2026-07-15T14:49:52,4.8.3.1
+en-np,dd83fa71-de6d-4f74-a506-da4cb2866df1,Puratan Yadav,5,😍,2026-07-15T14:49:45,4.8.3.1
+en-np,88f92f4d-4ce8-4abf-a26b-7a575774aa5e,Biraj khatiwada,1,but the problem is it charges 10 in every payment .,2026-07-15T14:49:14,4.8.3.1
+en-np,c935a770-1277-45af-bafd-90ab3d8b33a7,subashuman thapqPaudel,5,gooodd,2026-07-15T14:48:44,4.8.3.1
+en-np,5e12a5c8-7c9a-47b6-8248-88214eb13a69,Y2K Gammer,5,awesome,2026-07-15T14:48:41,4.8.3.0
+en-np,c32c3c58-8e93-4d5e-8d4b-240fef54ad59,SudipFf,5,❤❤,2026-07-15T14:47:18,4.8.3.1
+en-np,07f454be-c110-447c-81d1-cc983fb6bce6,pawan bajracharya,5,excellent,2026-07-15T14:47:05,4.8.3.1
+en-np,a9ca9457-8a9b-49c3-9e0e-e570d4d209f4,YD Official,5,great app for income maintainace,2026-07-15T14:46:02,4.8.3.1
+en-np,2cffcbbe-ca5e-4357-84e8-b7e1d63b8e64,Birodh Chaudhary,5,good,2026-07-15T14:45:04,4.8.3.1
+en-np,2d06679d-99dd-4406-ab11-6ee0542a8829,Aayush Jaiswal,5,Excellent and Great experience,2026-07-15T14:44:45,4.8.3.1
+en-np,486eb08a-627d-4011-bec9-3088a742de7c,Bikash Joshi,5,good,2026-07-15T14:44:44,3.11.0.2
+en-np,c6162798-ddba-4bfd-9654-5f0093a1851f,Pradipraji,4,"somethings, there are payment issues you gotta fix that",2026-07-15T14:44:43,
+en-np,f32fabe9-dfc0-49a3-a407-418f594bdab6,Manoz Chaudhary,5,good,2026-07-15T14:44:34,4.8.3.1
+en-np,412fe110-2a97-4c1c-8a64-fe7d2a6f5712,Raushan Shaw,5,thanks for everything esewa,2026-07-15T14:44:09,4.8.3.1
+en-np,5a107002-8e37-4611-89dc-f110a4553177,Narayan Bahadur Upreti,5,nice,2026-07-15T14:43:49,4.8.3.1
+en-np,f8d0434b-c6e1-469d-ad74-a448128a3b8b,Nischal Acharea,4,it's good,2026-07-15T14:42:38,4.8.3.1
+en-np,15275e34-3388-4df8-a113-85c23903ece0,Narbir Dewan,5,good.,2026-07-15T14:41:58,4.8.3.1
+en-np,a003348c-0d1e-41b8-8cf8-b86a53fedafd,Satyam Tr,4,good but lag some time,2026-07-15T14:41:10,
+en-np,4dda72eb-2783-4b99-ad1c-3f67d615303c,2 b gamer Dipu,5,Good app I like it to save,2026-07-15T14:40:19,4.8.3.1
+en-np,6a0daaff-36d8-4992-87a6-979b53c44351,Karan Thapa,4,Everything is Good but sometimes there is a problem while paying money otherwise everything is perfect ❤️,2026-07-15T14:39:15,4.8.3.1
+en-np,9e7d21d7-81ad-4b59-b527-efdb83f41897,Raj Roshan,5,great,2026-07-15T14:38:24,4.8.3.1
+en-np,0e8a76b4-9b57-4c82-accc-73f69f3e80a8,Prabin Dahal,3,sometimes wen we r in urgency its system does not work properly.,2026-07-15T14:38:07,4.8.3.1
+en-np,c707765d-94ac-4950-8ce4-2f282919108d,Mohan Chhetri,5,good work for my experience.,2026-07-15T14:37:18,4.8.3.1
+en-np,eaeb317a-fb5d-4903-883b-28dd34d04055,Dilendra Thapa,5,fantastic 🤩,2026-07-15T14:33:17,4.8.3.1
+en-np,d6611c7b-b2c0-483a-afe5-9f5c8994319a,Swastika Majhyor,2,This app is genuinely so nice but the mostly problem is server down most of the time and even after sending money it doesn't came or go back in account not even to receivers or sender fixed this problem otherwise khalti app would get hype,2026-07-15T14:33:11,4.8.3.1
+en-np,fe0b8073-c68a-4cc1-a5aa-7d1f7005ef5a,Bishal Bk,4,this is very helpful,2026-07-15T14:33:01,4.8.3.1
+en-np,66238915-59fc-42ff-b40e-bd4640cda974,Priyanka Thapa,5,Good,2026-07-15T14:32:45,4.8.3.1
+en-np,e123a69c-1b2c-49da-b11e-e7691b73790e,Pasang Lama,5,Good,2026-07-15T14:32:25,4.8.3.1
+en-np,07a5ac12-a5ed-44fd-abc5-ee4f7eacb658,JAY MAHADEV TRADERS,4,very good 👍,2026-07-15T14:30:42,4.8.3.1
+en-np,fca7a1ca-1e44-4c87-b99a-072a0522dedf,Shuva Kalash,5,great,2026-07-15T14:30:13,4.8.3.1
+en-np,954eb291-333b-4d62-bb96-c2bcd3177b8d,Mandip Adhikari,2,this app is good but the server down is so high need to be improve,2026-07-15T14:30:00,4.8.3.1
+en-np,741360a5-d368-4aa4-b049-19a760e4a36c,Binu,5,very very easy to use,2026-07-15T14:27:56,4.8.3.1
+en-np,408fd8be-1b4c-41b4-b2f8-677093435d84,Anoj Chaudhary,4,better,2026-07-15T14:26:23,
+en-np,3d969ce1-c64d-4417-8c81-34312a1daccb,Kamal_kumar Yadav,1,slow ang lag,2026-07-15T14:24:35,4.6.1.0
+en-np,cd107edc-2581-4192-9c7a-0bd49b3fc608,SAmir Lama,5,good 👍,2026-07-15T14:24:25,4.8.3.1
+en-np,2d32a370-9929-4bd9-ad30-6d6e0c0b7424,Positive Gammer,4,easy to use,2026-07-15T14:22:21,4.8.3.1
+en-np,a33c65cf-a447-4477-94dd-b6e8e5b05611,Prashant Timalsina,5,my experience is good,2026-07-15T14:19:52,4.8.3.1
+en-np,e6bd9435-f41d-4b6a-b0d3-d66ede198238,Prem Chhetri,1,wowo,2026-07-15T14:19:23,
+en-np,be1463e7-7471-4271-8af0-6e74af4e81d1,Nishana Khadka,5,Nice,2026-07-15T14:19:07,4.8.3.1
+en-np,18fe819e-9855-4abc-87ce-6715226d9d00,Rohan Shahi,1,didn't worked when it was very important,2026-07-15T14:18:31,4.8.3.1
+en-np,e542f1b5-d6f1-4421-8a77-99a105ae9d94,Kiran Lamichhane,5,good service,2026-07-15T14:17:18,4.8.3.1
+en-np,7a7f5da8-2101-452f-b158-18f8a1bb8ec3,Utsav Karki,4,it's fast,2026-07-15T14:17:08,4.8.3.1
+en-np,7f619733-8990-4dc7-ac5b-35e55458e83e,Shiv Raj Sarma,5,good Very good,2026-07-15T14:16:29,4.8.3.1
+en-np,aa51e836-c61e-498d-a5f9-f04d2f8060dd,Sakshyam Sakshyam,1,several time I have faced server down problem,2026-07-15T14:15:41,4.8.3.1
+en-np,3b7eeab1-d7d4-42bb-a85d-76a025a9e809,Amir Tamang,5,good love this app,2026-07-15T14:14:29,4.8.3.1
+en-np,5125ca9d-351f-4a29-bcda-7e4c87e1cca6,unknown ghost player,5,how else would I pay 😑,2026-07-15T14:11:12,4.8.3.1
+en-np,ef7b391f-4bb4-474b-a423-31463483301f,Biwash Chapagain,5,i don't have complain,2026-07-15T14:10:04,4.8.3.1
+en-np,c533409a-1553-454b-a066-9a6da7f9c4f9,User Die,5,useful,2026-07-15T14:09:26,4.8.3.1
+en-np,5bb2d49e-3516-43bc-9a53-638b8210a485,Pawan Pangali,1,Chaiyako bela jahilai dhoka dinxa,2026-07-15T14:08:10,4.8.3.1
+en-np,91b8585d-30d1-42c1-bdcf-c2541315cdc3,Ravi Pasi,4,fast and secure,2026-07-15T14:07:54,4.8.3.1
+en-np,b4d33a3f-3e51-409f-81ff-1846751860f7,Mini kirana Mini kirana,1,wow so amazing apps This apps working very good👈👈👈,2026-07-15T14:07:44,
+en-np,11a48b00-1081-4d45-9ccd-84dc00888257,Gorakh Shah,3,helpfull,2026-07-15T14:07:38,4.8.3.1
+en-np,05103827-892f-41bc-afb2-4917206d5950,Punam Saud,5,overall good.. sometimes sucks,2026-07-15T14:06:47,4.8.3.1
+en-np,6ebab583-3770-48c8-a166-a25bb6a1a1fe,Yubak Bc,5,good app,2026-07-15T14:05:59,
+en-np,999dea6a-58f4-4713-bc96-e9052932845b,Aadarsh Lama,1,cool,2026-07-15T14:05:16,4.8.3.1
+en-np,126d5bd6-4224-410b-b1d2-87793368b826,Shyam Joshi,2,expensive charge,2026-07-15T14:04:44,4.8.3.1
+en-np,f5b113ae-5593-467c-b323-98871aa443ba,krishna sunuwar,5,good,2026-07-15T14:04:11,4.8.3.1
+en-np,48f2ff93-af48-4722-bd06-76013b68bab1,ARJUN KUMAR THAPA,4,fantastic 😊,2026-07-15T14:03:54,4.8.3.1
+en-np,f5a82567-a6e3-48c8-b116-b5f348f59963,Bikram Nepal,5,pretty awesome,2026-07-15T14:03:47,4.8.3.1
+en-np,3553854f-3f32-4306-8888-6c9d897f2eca,sushovan magar,5,good,2026-07-15T14:03:37,4.8.3.1
+en-np,92e75be6-7c3c-4fe6-90f6-e512f86e35ac,Bishek Sahani,5,good,2026-07-15T14:03:32,4.8.3.1
+en-np,ec95ba3f-d62b-4251-aa20-6dee763ff8b8,Keshav Mandal (zimmy),5,more help people,2026-07-15T14:02:54,4.8.3.1
+en-np,d0d3f8d3-21b0-4dc8-bdc9-13440a7ca75d,Resham Chamlagain,5,everything is possible,2026-07-15T14:01:11,4.8.3.1
+en-np,9460bc74-ce0a-45a4-bef8-43b60251d34d,Success Tamang,1,Good job,2026-07-15T14:00:51,4.8.3.1
+en-np,ccd8985c-abc4-4b89-ae3d-0c3851db2aa8,JIBAN TMG,4,Good for payment,2026-07-15T14:00:22,4.8.3.1
+en-np,b02fa591-210a-4ce3-8a60-ad82465e4f74,Dipak Bam,2,"sometimes it's doesn't work at emergency time . many times I fell in trouble for this app , so improve your system, I face many problem like: create a barrier in a payment time , •Paisa payment vaisakne but message najane, •high speed internet chahine, •aafai logout vaidine,etc.",2026-07-15T13:59:33,4.8.3.1
+en-np,22a6da40-c8ab-48f0-aeeb-858eff5fd90a,Sujit Gupta,5,excellent 👌,2026-07-15T13:59:07,4.8.3.1
+en-np,9b07c828-fdfd-4081-b0cb-2b2f04a1a82a,Kailash Bohara,1,worst wallet,2026-07-15T13:58:16,4.8.3.1
+en-np,bc6cfa0a-9f95-4af2-bca6-2c35acbc8b69,Export Business,5,fast and secure service 🐕‍🦺,2026-07-15T13:58:06,4.8.3.1
+en-np,e5f8ea34-c088-45db-b691-7fbd903a6f9c,Aneeta Singtan,5,good,2026-07-15T13:56:07,4.8.3.1
+en-np,7a4add0a-95f3-4f03-84f9-1ba7d65a5b47,Sharwan Yadav,5,esewa is transparent,2026-07-15T13:55:03,
+en-np,1de76378-be71-4343-9945-a0d94fa76428,Ishwari Luhar,4,this is very good but sometimes server is 👎,2026-07-15T13:54:08,
+en-np,03e9c9fa-0e01-459a-aae0-a028e9be9207,Ajay kumar Sah,1,lag and not open fast,2026-07-15T13:52:57,4.8.3.1
+en-np,52b64156-350a-4ca2-bf83-84f8723cdc6d,Ajay bishwo Karma,5,this app esewa too good,2026-07-15T13:52:50,4.8.3.1
+en-np,1357f515-7e82-4f72-a404-26e7f6005d4d,Happy Ram,5,very easy method,2026-07-15T13:51:56,4.8.3.1
+en-np,ba742fea-f307-4b5e-bccc-7d180b31e66d,Lok Gurung,4,"all good,,but some time this app not working",2026-07-15T13:51:00,4.8.3.1
+en-np,1a83cc5f-bd4a-4130-b31b-d92abbd6426f,Pappu Yadav,5,good working,2026-07-15T13:50:25,4.8.3.1
+en-np,9b66a7ba-11c2-4017-971c-0407a38d8d44,Sulav Sahani,5,it's good,2026-07-15T13:50:24,4.8.3.1
+en-np,a9cce9d1-06aa-4c7a-8624-e5babdac9990,Mustupha Alam,5,good super good,2026-07-15T13:49:34,4.8.3.1
+en-np,cf555a5f-78a8-46c2-af43-43600e791daa,Harish Babu,5,better app,2026-07-15T13:48:48,4.8.3.1
+en-np,37770949-84a8-4811-9ff3-97c4e1883422,Sujan Poudel,4,fine,2026-07-15T13:47:58,
+en-np,b3a7a542-0876-4607-a17e-fc02327966ce,Prajwol Thapa,3,sab thik ho tara 10 Rs xhi catnu thalyako chita bujdaina,2026-07-15T13:47:45,4.8.3.1
+en-np,712dcf83-fb52-4bcf-b132-03428f2f5a94,Rahul Topup center,4,Best for Nepali,2026-07-15T13:47:21,
+en-np,8169a9b1-75bb-4cf7-afc1-25c9238f2bf7,BRO ABIRAJ,4,To good,2026-07-15T13:46:51,
+en-np,3385b117-e114-4108-9fe5-5c2d9c840d8a,Asish Rai,5,"Good app it is very useful, helpful and easy to use.",2026-07-15T13:46:37,
+en-np,5bf0112e-7fec-4471-bcfd-df25d1321fce,Hu Nny,5,Good app,2026-07-15T13:46:28,4.8.3.1
+en-np,908b4486-ef5c-45f5-93ae-ab2caf55896e,Sameer Ahmed,5,good,2026-07-15T13:46:25,4.8.3.0
+en-np,c7b7d0d1-2952-40f6-90f4-a774438decdd,Bikalpa Neupane,4,good for pay but while server is not down,2026-07-15T13:45:57,4.8.3.1
+en-np,065a79fe-c9c8-4faa-ad30-d0b8f1641172,Nitesh Sah,1,tooo slow now a days,2026-07-15T13:44:34,3.14.5.2
+en-np,2efe31ab-0e3a-4671-9552-192553be00b2,Suman Tamang,5,good,2026-07-15T13:43:38,
+en-np,a1f4f7a2-bf9f-43ef-a41b-ab491972f805,Rahul Gupta,5,Nice,2026-07-15T13:43:05,4.8.3.1
+en-np,35a73d5c-b4ef-45c7-9996-cba7614c0d68,Chhatra Singh,5,good,2026-07-15T13:42:30,4.8.3.1
+en-np,d109c238-6549-4d42-838b-726667cc8fcb,Chandrika Bishowkarma,5,excellent,2026-07-15T13:41:54,4.8.3.1
+en-np,a86e0e4f-7445-4341-8c61-d2be84fd658c,Aashik Chaulagain,5,this is very safe money transfer app,2026-07-15T13:39:00,4.8.3.1
+en-np,7b051c19-0436-4c71-b197-c2245370a164,Ram Grg,5,good try to goood or best,2026-07-15T13:38:30,4.8.2.0
+en-np,2ca75cc6-097e-4555-a874-52deb579a208,Karan Magar,3,satisfied,2026-07-15T13:37:54,
+en-np,ed0f5867-bad5-43b7-ae17-853d6d43a48a,Ghuman Tharu,5,very helpful,2026-07-15T13:36:21,
+en-np,3e8d1c84-d8b4-4aba-8be1-014ad153ba3d,santosh mahto,3,nice and safe for saving And sending,2026-07-15T13:36:19,4.8.3.1
+en-np,83249893-9042-458a-b993-5c3482aa0e19,Dilsad Aalam,5,E sewa is the best app for Nepal e wallet,2026-07-15T13:34:29,
+en-np,1e330b9d-7952-4dc2-a39b-79e051a99888,Cirron,5,easy to pay no need to carry cash,2026-07-15T13:32:59,4.8.3.1
+en-np,d6243387-f6f9-4878-9f65-42270602e86c,Sandesh Regmi,4,good app i like it,2026-07-15T13:32:57,4.8.3.1
+en-np,9effd9a8-57d7-4c00-bb0b-fdc644bb3584,GANESH KUMAR RAJTHALA (GK),5,good,2026-07-15T13:31:15,4.8.3.1
+en-np,2e58d7b7-ef22-445f-a109-69c4903c0fc0,Anuj Sharma,5,best,2026-07-15T13:29:14,4.8.3.1
+en-np,c80cb351-a95f-4d68-bf25-4eeeda95658e,Jyoti Sarraf,5,🫶🏼🎉,2026-07-15T13:28:45,4.8.3.1
+en-np,8f29a414-af57-4f50-ab80-1979dedd8c6d,Ashal Bhandari,5,Esewa is the best mobile app for daily life use. I recommend Keep making it even better.,2026-07-15T13:27:36,4.8.3.1
+en-np,182f621a-7b58-4069-9ea0-05ea3efd7d37,Dhirendra Neupane,5,nice,2026-07-15T13:27:33,4.8.3.1
+en-np,ab68ae5a-e0c7-44be-a180-2c5f362b7372,LIFE UNsCRIPTED,5,happy,2026-07-15T13:26:58,
+en-np,5b3665a5-a6f7-4b2a-9eb3-f57175865c6b,Jerry Lee,1,always service down,2026-07-15T13:26:56,
+en-np,bdb455e5-a4c0-4b5f-8363-c7b9975a8a87,Jems Tamang,4,🤙🏽,2026-07-15T13:26:35,4.8.3.1
+en-np,67583b33-1b46-441b-b090-87e30751a5b0,irfan ansari,4,not bad,2026-07-15T13:25:51,4.8.3.1
+en-np,2a39f806-9c7b-4725-bcf9-16dbdb3b1cdc,Sandesh Shahi,5,wowowwww,2026-07-15T13:25:16,4.8.3.1
+en-np,5710ce4a-c24a-410f-8c69-5f15a902c0bc,Gajendra Vishwakarma,5,please make it faster,2026-07-15T13:25:12,4.8.3.1
+en-np,1a13323b-1723-4131-927a-6d8f8f12cad8,Godg Ff,5,very good 😊,2026-07-15T13:24:39,
+en-np,f125b1c1-7441-418a-90ce-0605f6f93fa3,Nepali Man,5,good,2026-07-15T13:23:13,
+en-np,fad09dae-3b62-47a9-8e5d-16550d49e48d,Basu Giri,5,best,2026-07-15T13:20:47,4.8.3.1
+en-np,4ce14238-9307-4fca-9edd-ac621ef8e330,Alix digital studio,5,easy and fast service,2026-07-15T13:20:44,4.8.3.1
+en-np,c354be8a-526a-4b9e-b0ae-6f0342630e0c,Manish Ayer,5,good ..all but limit lagno vayan ..,2026-07-15T13:19:01,4.8.3.1
+en-np,82f071e6-002c-4f7d-9033-fc2d31c77462,Binod Dulal,5,very helpful app,2026-07-15T13:18:58,4.8.2.1
+en-np,583fde15-9e70-46b1-94bc-f290203e4211,Naman Sunar,5,best for payment,2026-07-15T13:18:54,4.8.3.1
+en-np,cf5602c8-ab0a-43ab-9fdc-5e9f6db3562d,Siniriya GgR,4,very very good money transfer app,2026-07-15T13:18:38,
+en-np,d13aa84f-deef-40c8-a252-bd74beffbd79,Abhi Abhi Shek shek,5,excellent,2026-07-15T13:18:37,4.8.3.1
+en-np,e47eb49b-2123-411c-9ca9-8cee76daaa85,NISHANT YADAV,5,this is the best app for,2026-07-15T13:18:13,
+en-np,09a7f92a-f80e-42a0-9571-afa711ceb12e,Cool Bu,5,good,2026-07-15T13:18:12,4.8.3.1
+en-np,cf64edce-06fa-4097-ab5b-4feedc2381a6,Pratik Sirr,5,amazingggg,2026-07-15T13:18:03,
+en-np,1a4329ed-a78d-4387-bcfd-29c4cd92d805,Raju Shani,5,good,2026-07-15T13:17:58,4.8.3.1
+en-np,36640a8d-9abd-4cb4-8170-caf8c18cee8e,Muk Esh,5,Very well ❤️❤️❤️❤️❤️😀,2026-07-15T13:17:50,4.8.3.1
+en-np,00070af7-b768-4fa0-9a27-96ab4a5623ef,Rahul Raj,5,Good.,2026-07-15T13:17:42,4.8.3.1
+en-np,e7fe17a6-6699-45e0-b53f-155ee653ba70,Shreeya giri,4,some times lack 😭 but overall it iss gooddd😭🫡,2026-07-15T13:17:12,4.8.3.1
+en-np,0042cf7c-bf9a-4c9e-bf08-982060d6d5d0,Gen-Z Nepal,1,worst app,2026-07-15T13:17:09,4.8.3.1
+en-np,5ddc7dc0-9163-4757-af04-a75f0a79ff25,Harish Karn,1,horrible when transactions stops,2026-07-15T13:16:44,
+en-np,02b937f4-c5a5-4dd2-a6f2-4fabdb9c4062,Saurav Mandal,5,good 👍👍,2026-07-15T13:15:52,4.8.3.1
+en-np,0fdcf8b6-7464-4f4f-8744-e4801b3d7259,Pritam Chauhan,5,extremely good,2026-07-15T13:15:42,
+en-np,51270cfb-ffe4-425f-a85c-8cb2297993df,Rohan Paudel,5,Its oky,2026-07-15T13:15:38,4.8.3.1
+en-np,dcc73b24-92d6-4eb1-9516-6e54a98562c2,Biraj Rai,4,pretty good,2026-07-15T13:15:34,4.8.3.1
+en-np,b07b1fa1-e0b3-4d21-ba45-6fa0d908127f,Abhinash Thapa,5,ohk,2026-07-15T13:15:32,4.8.3.1
+en-np,5f3a7667-9d85-4c6d-bf06-fcc25d12aa85,Deepak Bishwokarma,5,nice 👍,2026-07-15T13:15:21,4.8.3.1
+en-np,9cfb7c45-91b0-4720-9871-86746709ef54,DX Team,5,nice,2026-07-15T13:14:20,4.8.3.1
+en-np,99ed8eef-d107-4bbf-9f8c-09b412e72ed8,Manjil Basnet,1,why there is such a low limit on my personal Money,2026-07-15T13:14:11,4.8.3.1
+en-np,2f95cf46-58c1-4a0a-81c9-8558c79ed116,Singh Raj (It's raj),5,wow,2026-07-15T13:13:52,4.8.3.1
+en-np,4089d231-b9b7-4ad1-9660-147a88d8356e,Aniket Kaushal,5,good,2026-07-15T13:13:08,4.8.3.1
+en-np,c944c575-af2d-49ac-bfc4-43b6bdbf9c25,Pujan Timalsina,5,excellent,2026-07-15T13:12:12,
+en-np,8c9ab30b-5f09-4c37-9eb0-c1cb65bdfc14,Karan Kathayat,4,it's great,2026-07-15T13:12:08,4.8.3.1
+en-np,e5169e22-448c-4cf6-8654-9d5e0991cb3e,samir Poudel,5,100% Secure and easy transcation,2026-07-15T13:10:52,4.8.3.1
+en-np,062d8ded-c9e0-4174-9b96-26e5ac8969fa,raju raut,3,some time have a issue tranfer pending,2026-07-15T13:10:39,4.8.3.1
+en-np,214b0c13-61fb-4882-8410-ceda0b7d0b53,Aakash Rai,3,too many servers issues.,2026-07-15T13:10:35,4.8.3.1
+en-np,a94c0fe7-dfd3-4115-b88a-aab84db5f161,uttam pandit,5,"good , day limit should more than 1000 better",2026-07-15T13:10:28,4.8.3.1
+en-np,c4744501-fc9b-42ae-94d1-7ad396d39bfe,Parbat Budhathoki,5,nice,2026-07-15T13:10:07,
+en-np,5f1dfb1d-2857-46df-ae1f-cbaab194350e,Shrijan Shrestha,5,excellent,2026-07-15T13:09:31,4.8.3.1
+en-np,d9f92e1d-ad57-4273-8476-786e6d8042a6,Sulav Shrestha,2,i waited more than 2 hours in a cafe to pay the bill cause the esewa ma was not working properly.,2026-07-15T13:09:23,4.8.3.1
+en-np,489d57fd-86d2-40f8-8e9b-2513a60b658a,Arjun Neupane,5,amazing app,2026-07-15T13:09:22,4.8.3.1
+en-np,90bc8df3-f465-417b-b9d3-25734ec17a97,Aayush Khatiwada,3,good,2026-07-15T13:08:43,4.8.3.1
+en-np,7d4a9a17-013d-4b9b-a29b-43cc040d7b1a,Za11n Here,5,best banking app for all sometimes we had to face issue but any ways it's very good,2026-07-15T13:08:26,
+en-np,cf778578-1a8d-48ec-b868-930dc41b36ec,Nirmal Kumar Hamal,1,Some time esewa apps didn't work,2026-07-15T13:08:20,4.8.3.1
+en-np,0525c8a4-1141-4f44-8308-a2a31893584f,Sarozz Gazmer,4,good,2026-07-15T13:07:37,4.8.3.1
+en-np,69006ab1-9e10-4748-8e9b-66bf737e99fc,Mr. Ajit Poudel,5,"once esewa was introduced to me, I completely stop using banks or any other payment method. i completely transfer all my balances to esewa once I got my salary through nabil. kaele paisae hunna mero banks or aru kai nae",2026-07-15T13:07:35,4.8.3.1
+en-np,d9360f9f-4009-4727-abba-f9d74c441154,Prasanna Roka,1,location asking service is too disturbing and lacking payment/app service time to time is too bad as it is the most used payment system in nepal and there should not be any excuses. should increase skilled professionals or proper technology to avoid it.,2026-07-15T13:04:49,4.8.3.1
+en-np,2db53bf0-9208-4022-9842-2028db006eaf,Haddi vlog,5,very easy and good apps,2026-07-15T13:04:42,4.8.3.0
+en-np,bae93db6-69b3-4860-b374-7bb4a6b00bed,KRISHNA NEUPANE,5,best wallet,2026-07-15T13:03:33,4.8.3.1
+en-np,393a6830-50b3-4067-bdf2-701bc934496e,Kamala Cartoon,1,thikai xa app,2026-07-15T13:03:27,4.8.3.1
+en-np,349ef026-67c2-4507-95b5-fdf32e7375ca,Binod Chhetri,4,it's actually a good app,2026-07-15T13:02:58,
+en-np,941ff91a-d1b9-46f7-a639-c20eef384a45,Bitu Tiwari,5,best,2026-07-15T13:02:19,4.8.3.1
+en-np,9476c455-d909-4161-b4dc-b7ffca9257d0,Frank Lin,4,but sometimes it lagsss,2026-07-15T13:00:25,4.8.3.1
+en-np,addeac13-a6c9-4efd-86a0-060c7266074d,Pramod Thapa,5,excillent,2026-07-15T12:59:54,4.8.3.1
+en-np,6702e46c-f578-4132-83b0-e1f62aad85fb,Susila Tamang,5,very fast and easy,2026-07-15T12:55:35,
+en-np,f2465318-9258-464a-b3ca-1e9c11970e78,Mithilesh Yadav,1,Service is quack,2026-07-15T12:54:12,4.8.3.1
+en-np,1c302a90-4145-422e-bcd5-5d328d9f44ad,Grjejdb Hejeje,5,good,2026-07-15T12:53:47,
+en-np,32a9ff9d-f0ad-4f01-bcf4-c2cef69d1e36,Kunta Shrestha,5,very good apps,2026-07-15T12:53:33,
+en-np,f68f953a-54c0-4963-9712-2e2bbe8429bf,Suprim Kandel,5,wow 😳,2026-07-15T12:53:30,4.8.3.1
+en-np,2bf2f710-bdfa-4029-b088-36fe0ec9ff98,Pravakar lama,5,Babal,2026-07-15T12:53:03,4.8.3.1
+en-np,cac33921-cebb-4c5e-b732-2b66be41ecdc,Spkt Bikash,5,nicebgood work,2026-07-15T12:51:43,4.8.3.1
+en-np,467b0b93-8980-4cfe-ac46-9aa9df40e8da,Sonam Lama,5,very useful,2026-07-15T12:51:20,4.8.3.1
+en-np,aa048937-21be-4ed4-8ab4-b78279dd2ab0,Sanjiv Sunar,5,very use ful aap I like it 🙂😁,2026-07-15T12:51:12,4.8.3.1
+en-np,4316558f-54de-4f1e-811f-1d643cdb469e,Prajan Sunuwar,5,nice,2026-07-15T12:50:52,4.8.3.1
+en-np,e1c9c297-eafe-4000-9713-1fd1eeef515f,sumit gupta,1,bakwas service.,2026-07-15T12:50:30,4.8.3.1
+en-np,f0f06704-0cb8-4034-a212-28d3a21b8236,Set up Fact,5,naicr,2026-07-15T12:49:41,4.8.3.1
+en-np,71c69812-6eae-4f93-8bc4-706de6b7cf84,Sharad Tharu,5,very good,2026-07-15T12:49:34,4.8.3.1
+en-np,037cb6f0-9d4f-4699-b3dc-8343fa921dcb,Shivdayal Sahani,5,good,2026-07-15T12:48:17,4.8.3.1
+en-np,105198e7-f019-4fb9-b088-33c7415b044b,Krispyjv Ghimire,5,good,2026-07-15T12:47:14,4.8.3.0
+en-np,415d5bfd-0bf9-405e-928f-af4591d28f78,Raj Jaisee,5,good,2026-07-15T12:47:07,4.8.3.1
+en-np,4757f3bf-6f87-425d-b08e-910e34fce0ea,Stoner Sujit,5,Well Done,2026-07-15T12:46:58,
+en-np,0d9af07c-164b-4094-bcbc-202c330e4790,Sabin Gurung,5,Best and good,2026-07-15T12:46:54,4.8.3.1
+en-np,71f27827-512a-45d5-9614-3d1db7c5e8db,Ramesh Yadav,5,this app easy to use,2026-07-15T12:46:40,4.8.3.1
+en-np,d676c222-ff8f-4619-a603-9e1178481df2,Partik Magar,4,it's tooo easy and comfortable to use,2026-07-15T12:46:29,
+en-np,ac023f71-c7be-466b-8e9b-da0e852ae1b7,Karan Tamang,4,pretty good,2026-07-15T12:46:18,4.8.3.1
+en-np,d345fffb-6590-4f06-bb9d-214b5bdf7f40,Suraj Lakandri,1,"you guys charge too much in transaction, learn from international policy!",2026-07-15T12:45:51,4.8.3.1
+en-np,99efa737-44a8-4b68-a4a0-20da72259c93,Sujaya Shrestha,5,I'm happy,2026-07-15T12:45:35,4.8.3.1
+en-np,349e294a-264c-4243-ac26-78a73ac84a12,Nitesh Singh,5,esewa is everything,2026-07-15T12:45:18,4.8.3.1
+en-np,5f23e675-2971-4826-97f3-92b61490abb2,Ghanshyam Mandal,5,good,2026-07-15T12:44:44,4.8.3.1
+en-np,b560bd7c-a0d2-45e1-9595-1ebac7921e4c,NOOR MOHAMMAD,5,good app,2026-07-15T12:44:36,4.8.3.1
+en-np,f8c41845-4bc4-44ba-bbfd-07df14c38bdf,Sushal Thapa,5,good experience,2026-07-15T12:44:36,4.8.3.1
+en-np,cad01ebb-022f-4ee3-9d15-f587ab2d7ac8,Ruchir Regmi,5,good,2026-07-15T12:44:20,4.8.3.1
+en-np,a910d2aa-a8cb-46f6-817f-88d4df39901c,shreya bajracharya,5,good,2026-07-15T12:43:59,4.8.3.1
+en-np,734e986e-793d-44c3-8343-786068967647,Mausham banjade,1,very bad app because it didn't give reward point,2026-07-15T12:43:02,4.8.3.1
+en-np,55c7075f-79b9-48d6-bd51-d29807a10bd8,Raj Dhalkuti,5,very nice,2026-07-15T12:42:53,4.8.3.1
+en-np,2ca693d1-924c-4fdd-9b22-eddb240ec049,Bishal Dube,5,good,2026-07-15T12:42:41,4.8.3.1
+en-np,5ebd1830-28f0-49d0-a355-4bdf0c4df226,Anil Sharma,5,esewa is best,2026-07-15T12:42:33,4.8.3.1
+en-np,2ab93c9a-7cd3-4a62-b658-73501d2bbdfa,Rahul Yadav,5,nice,2026-07-15T12:41:56,
+en-np,6f7da95f-e4d9-4291-9b83-9a6ef3471514,Ukesh Dhakal,5,best,2026-07-15T12:41:54,4.8.3.1
+en-np,42161a18-d8ac-4f3a-b229-f921eb3d5c33,Indra Kiran,5,good I fell happy because Easy to use,2026-07-15T12:41:38,4.8.3.1
+en-np,ba013224-30ad-4480-bb2a-cbf461697fd3,Nikesh Sunar,5,Iit is very useful app for we❤️,2026-07-15T12:40:46,4.8.3.1
+en-np,2d2c2225-1cd4-4af4-8838-63047f69d109,Samrat Rijal,5,good,2026-07-15T12:40:32,4.8.3.1
+en-np,f7a21956-9a8c-48ab-bdb9-094747530d33,Nirajan Bist,5,fast and easy,2026-07-15T12:40:10,4.8.3.1
+en-np,0f4f0afb-552d-4185-af01-081eeb21d762,Prabesh raj Kattel,5,Thank you esewa 🙏,2026-07-15T12:39:43,4.8.3.1
+en-np,0eeec6d8-2dde-47e4-a7cb-6a623a04a145,Flassyy Jod,5,esewa team nice app for me but one problem payment will not come sometime.,2026-07-15T12:37:35,4.8.3.1
+en-np,9064c3b5-6d61-4b76-b89e-f5e3643479ed,Prema thapa magar,5,good,2026-07-15T12:37:31,4.8.3.1
+en-np,74e97bcf-96f9-4eaf-8a0a-1e854860e3fe,ANEESH BOHARA,5,best,2026-07-15T12:37:24,
+en-np,1c344cc7-8994-4f67-a93c-7b8ac4e816a4,Karki Jiten,5,my experience is excellent 👌👍 for esewa,2026-07-15T12:37:22,4.8.3.1
+en-np,57ce8480-c474-43f7-8f70-24827ab9937f,Aayush Magar,3,nice app,2026-07-15T12:37:05,4.8.3.1
+en-np,071a0b8c-76fa-4d14-bdb7-45fd1d59b33c,Roshan Thapa,4,good,2026-07-15T12:36:58,4.8.3.1
+en-np,6484abab-d069-4389-acbf-7092ddc8fb24,Aman Sahani,5,my best wallet ever,2026-07-15T12:36:57,4.8.3.1
+en-np,c6eeea93-e32a-4e9d-81b2-77292422c458,Sanzay Shreewastava,4,great,2026-07-15T12:36:55,4.8.3.1
+en-np,bca95c87-9d4f-4949-b60e-29dc9c3c77db,Sangeet Baigar,5,good,2026-07-15T12:35:35,4.8.3.1
+en-np,d82e121e-0cb6-439d-bd77-8881af0066e0,Dhangadhi steel fabrication,5,good,2026-07-15T12:35:10,4.8.3.1
+en-np,316e450b-e521-4bf9-a4f1-e8c2b6187684,Anil Khanal,1,it Takes charge for esewa to esewa service.,2026-07-15T12:34:44,4.8.3.1
+en-np,f9ed6871-cb61-44e8-b2b2-f170984b46e9,Ramesh Khatri,5,its best then bank,2026-07-15T12:34:39,
+en-np,19e3c0a4-7993-4c9e-99a0-7ca5d67f0ee2,Roshan Sah,4,good,2026-07-15T12:34:07,4.8.3.1
+en-np,dd06cc54-557d-4a29-9ede-011647b331be,Bikash Gupta,3,sometimes esewa servers not working,2026-07-15T12:34:04,4.8.2.0
+en-np,ea095058-ec93-4dcf-bc3f-07076f664e6a,Prabhu Chaudhary,4,"To be minimized the frequent errpr ""service currently not available.""",2026-07-15T12:33:38,4.8.3.1
+en-np,f124b62c-8bb8-40f6-97cd-5dbc99319578,Raju Bista,3,pretty good,2026-07-15T12:33:18,4.8.3.1
+en-np,c2d29ef3-1b31-4289-bccc-0e42a6f78773,Jim Morrison,4,not bad it's ok,2026-07-15T12:31:05,4.8.3.1
+en-np,cb035eed-0091-4b9f-8f11-1e5f511c767b,karan khadgi,2,lacking problem,2026-07-15T12:30:41,4.8.3.1
+en-np,c7cd4b20-9ada-4095-bb74-59ffdacae59e,Dhirendra Thapa,5,nice ☺️,2026-07-15T12:30:07,4.8.3.1
+en-np,039a7c38-c4b9-4d29-9c27-dbee192786d6,Maher dhami,5,good 👍,2026-07-15T12:29:57,4.8.3.1
+en-np,bf85a109-313a-4e12-bd8e-30957877f213,Sanjiv Lama,5,nice,2026-07-15T12:29:52,4.8.3.1
+en-np,1af9f04c-6a03-4f11-a481-d7d54bab1d8e,Kushal Tharu,4,easy,2026-07-15T12:29:20,4.8.3.1
+en-np,bac9843f-5407-4f5b-952f-5fd52870f835,Rajeshwar Kushwaha,5,good app,2026-07-15T12:28:17,4.8.3.1
+en-np,d70aba9b-74be-416e-81cf-ae1739fb7e7f,Fishtail Pakku,4,"service is halted on and off, after someday it will run smoothly as everything ok",2026-07-15T12:27:59,4.8.1.0
+en-np,3df4ba23-02c6-4c2d-8959-c5e8411fd06f,Bikash Bist,5,absolutely amazing,2026-07-15T12:27:45,4.8.3.1
+en-np,d93a0774-8bf6-4524-93ff-cb7033c09337,Aryan Pariyar,1,I have sufficient balance but a notice say insufficient balance i have?,2026-07-15T05:29:49,
+en-np,c807576f-7570-49d0-8e86-20febdc90238,Badri Gaire,1,Worst app ever..due to no kyc verify i lost my thousand of money.They are just enjoying others money no backwards compatible app ..,2026-07-14T17:06:16,
+en-np,02c4c16f-0e2a-479d-8607-d623885bb647,Yugraj Chaudhary,3,Why my kyc isn't verifying?? i have enter all detail correctly but also the first step is invalid ???,2026-07-14T15:40:09,4.8.3.1
+en-np,1f34cb3c-5917-48a7-9bde-f151b83c3c12,radhika bhandari,1,worst app,2026-07-14T13:51:16,4.7.0.1
+en-np,32040ce1-03d0-40a5-9074-28aac41ca0d4,Aman Chaudhary,3,Nice apps,2026-07-14T10:44:59,4.8.3.1
+en-np,c2505718-19a1-4e6a-bfd8-a65799a1244f,Laika Rana Magar,1,worst mobile payment it took my money and the KYC form is not even taken by them,2026-07-13T04:17:22,4.8.3.1
+en-np,a8feb2a1-cea7-4654-bc42-cb0f742d9618,Jina Ggreat1,1,ghatiya,2026-07-12T12:41:08,4.8.3.1
+en-np,6f1adadb-9a90-4a2f-9ca6-f3d3503f92d1,ROHAN MANDAL,5,Nice 👍,2026-07-11T13:44:24,4.8.3.1
+en-np,150ea564-6fcb-40c4-8bf6-8f4e4fa0b3f6,Shashi Manandhar,4,Excellent,2026-07-11T06:08:37,4.8.3.1
+en-np,d38824f5-067b-4626-9211-67c40f4e690e,Ff Kong,1,this is not good what is the problem with this app this is not even letting me type otp when I was trying to rest my password Garbage app trass,2026-07-11T05:30:58,
+en-np,f1dca0d1-f35b-49c4-8382-53278eaafaa1,Poojaa,1,Transaction pending. No real time payment transfer.,2026-07-10T16:51:36,
+en-np,aaaf922e-3ee0-4207-a007-191f2ce5c1d4,Rohan kaphle,5,good,2026-07-10T15:25:16,4.8.3.1
+en-np,eb3bbdcb-e66c-48cb-aa84-d2a36e98e47d,Aman Yadav,5,"I had a good experience using eSewa. The app is easy to use, and transactions are fast and secure. It is very useful for mobile recharge, bill payments, and sending money. The interface is simple and convenient. Overall, I am satisfied with eSewa and would recommend it to others.",2026-07-10T15:07:59,4.8.3.1
+en-np,b725a457-af37-4a99-a097-42883fbdfe21,Sangeet Khatri,1,It's my first time using any kinds of online transaction app. I had heard a lot of good review of esewa so wanted to try but When I try to verify KYC it doesn't recognize me and documents picture. I always say to click new picture and always tell that it doesn't matched with the documents. Why esewa??? So I shifted to khalti . I think that is more easy and use to use. I don't understand why people use esewa and Don't use khalti,2026-07-10T13:02:33,4.8.3.1
+en-np,101757c7-3838-4d21-a3f2-00fa304b0270,md.shaban khan,5,best app nepal,2026-07-10T10:48:40,4.8.3.1
+en-np,6b1c4152-dc31-4709-89e2-4bc35ef76800,Ritu Shahi Thaquree,5,Very thankful,2026-07-10T08:23:25,4.8.3.1
+en-np,8baa3f78-78b0-475a-8ae4-c917fe40ed78,Anuja,5,best ❣️,2026-07-10T04:38:55,4.8.3.1
+en-np,3e70f10b-a1ba-4318-a87e-e76d6bc0e211,Nirmal Khadka,5,nice 👍👍👍👍,2026-07-10T00:49:09,4.8.3.1
+en-np,a1514012-2bf8-4bc9-9729-7e4ec8e0f7e2,Subash Dhami,5,it is mobile banking system. we can also top-up diamonds in games.some time failed while payment so I rate this app 5 star .it is made in Nepal.,2026-07-09T15:51:07,
+en-np,2544b235-af36-42df-8aaa-63d822105ff9,Vishnu Budha,1,old woman old man make new ID and you are photo clicking system is not good for rotation and I bleaching for problems for old man and old woman and this is a very big problem,2026-07-09T14:36:13,4.8.3.1
+en-np,cea27872-be6d-431b-a5c2-a25aab02bbf5,Anup Gamme,1,why this app is so laggy when i pay to shopkeeper my money got cut down but he didn't receive money. what is this app ?? now I am not using it most of the time it makes me embarrassing,2026-07-09T07:07:48,4.8.3.1
+en-np,39d6c5bb-13e0-4002-8906-ad210b14d88d,Ranjit Thakur,5,Very satisfied but Offer don't useful,2026-07-08T16:28:08,4.5.0.1
+en-np,0ee45368-0e01-43f9-af13-74b6f2890f0c,Dipson Lamichhane,5,this is good,2026-07-08T05:50:37,
+en-np,7e0538d5-da09-4b42-a410-6014236a49f3,Das paspat,5,wau veri sapta,2026-07-08T04:28:12,
+en-np,12b292fa-7b17-4527-ae8d-e8e79774dc86,Puspa Shrestha,4,i have good experience with esewa ... it's good at all ..,2026-07-07T18:09:04,4.8.3.1
+en-np,def1d37a-ddf3-439c-877e-63cab6fe6f71,Sanim Raut,1,App was nott good causes my permanent address was not sent nepal is no way on the listt💔😳,2026-07-07T11:17:38,
+en-np,ed219894-9070-4ffb-a1f6-1e1f5b22fc4f,Redmi15c7962,1,esewa open garadan number mangi Rahe xa number rakhana kheri 'unnlable to access contact to customer support aai Rahe xa,2026-07-07T10:21:09,4.8.3.1
+en-np,891cd09d-df24-44e9-b079-e27b511b1dda,Noaman Khan,1,this app is for scam I mistakenly send money but they are not refunding my money,2026-07-06T16:45:52,4.8.3.1
+en-np,103cb2ee-e4e8-476e-b1e6-616bb0c8d948,Sunil Kumar Das,3,why always i have to login two times?,2026-07-06T14:43:06,
+en-np,3cfaa889-7e76-4ce7-bf9b-3a9bb78ecf86,Nabin Rai,1,now a days this app don't register a new by verification code having problem to inter,2026-07-06T14:10:54,
+en-np,11cc5194-b273-4835-8d14-58db3bf9f9c1,sujan Tamang,5,nice,2026-07-06T11:45:21,
+en-np,5dbf2589-0747-4764-9557-09cbf9a2ffdc,Harish Joshi,3,esewa I love,2026-07-06T08:27:26,
+en-np,0207333b-d51b-44a2-b523-123705780112,Suraj Nepal,1,"Worst Customer Support ever experienced, Pending Transaction 3rd day ma settle vayo feri same Transaction Pending while bank transfer. Support ma Call garda Connection issue le ho, how in the system tei Transaction ma matra connection issue aaux. Ki Arko system ko Bank vayo vanera Intentionally Transaction Pending rakhya.",2026-07-06T05:13:47,4.8.3.1
+en-np,283e8c83-3222-4b7e-8f21-ea9a542f43dc,Satan Cries,3,i had an issue with linking to prabhu bank account. i was told the issue was acknowledged and it's still not fixed,2026-07-05T18:46:11,4.8.3.1
+en-np,c5a86d18-49d8-421b-bbe2-25381e744482,Diipak Aryal,1,if possible i want give 0 ⭐😡,2026-07-05T18:24:29,4.8.3.1
+en-np,c1bbe4cf-11ee-49f8-9078-f67f2d0a7d85,Navin Sharma,5,is the best wallet app in nepal 🇳🇵,2026-07-05T15:56:44,
+en-np,05ca8816-0799-41f5-aa34-50d9656daeeb,dipak pokhrel (प्रदेशी),5,Good app Very good,2026-07-05T12:17:12,4.8.3.1
+en-np,b39261d9-f66b-432b-8acc-6b03f901c784,Binod Basnet,5,useful,2026-07-05T11:38:53,4.8.3.1
+en-np,be9a2de5-f763-440e-9ef8-5289f99a7036,Anash Ali,5,nice,2026-07-05T07:45:29,
+en-np,24d6e941-fb02-4143-8c1e-fc3c5958bea1,Pankaj Bhetwal,1,Terrible app cannot verify kyc in a week please give me your office location i will come there with my father mother grandparents my wife and some of my neighbors along with my citizenship passport national id vote card dhanipurja my blood report xray sugar report diabetes report blood pressure report please it will be much easier,2026-07-05T07:07:21,4.8.3.1
+en-np,0387342c-b034-44c3-9693-873ada5c2c1b,Yaku Tamang,5,lovely app 🤩,2026-07-05T04:18:13,4.8.3.1
+en-np,87c40665-04c1-4e03-be70-fca40f756582,Vishal Kanwar,3,when will it support nepalpay qr ?,2026-07-04T16:27:36,4.8.3.1
+en-np,86a481cd-4622-410c-8856-8b17534b40f5,Parbata Karki,5,it is very good,2026-07-04T06:33:26,
+en-np,98ac46a1-322e-455c-8bb5-bed5d5dd3fa9,Naru Saud,5,I like this app,2026-07-04T04:31:46,4.8.3.0
+en-np,969aedaa-fae9-4fe4-8e73-14601a652f76,No One,5,this is very godd for people,2026-07-03T11:00:29,
+en-np,fc0b6477-b56e-41de-80ad-08908bbf1c8d,Bipin Sunar,5,esewa wallet is the best app in nepal,2026-07-03T04:37:10,4.8.3.1
+en-np,a246c3e9-8261-4f38-ac48-c4e9e8130c97,Raju Mandal,1,⚠️very bad experience. I recharged my SIM card from eSewa 5 days ago but till now the money has not come in the SIM. I had paid my electricity bill from Sewa a few days ago and the same thing happened. I sent so many emails that the bill got cleared. eSewa's service is very bad. Please fix it and return my money.,2026-07-03T02:13:40,4.8.3.1
+en-np,a3d7c185-9b14-484b-8eab-3a5ae4d9835e,Anish Tamang,5,best of nepal,2026-07-02T09:57:48,
+en-np,baa04a1e-6224-42a6-9d9e-b95f20db7bde,Milan Lama,1,customer service is worst,2026-07-02T06:38:48,4.8.2.1
+en-np,4922b7cb-8611-45ac-84a1-1178e6ed6ec8,Anil shrestha,1,worst payment app.....bank transfer garda currently service is not available matrai vanxa,2026-07-02T01:43:01,4.8.3.1
+en-np,4b026c66-5db5-45ae-9cf4-fe3cd2ed944e,Nitesh Sahani,5,nnniiiiccceee,2026-07-01T18:54:41,4.8.3.1
+en-np,d32ebd6b-0960-4ef2-a9e0-8268c335010e,NIRAJ SHRESTHA,4,ESewa Online Mobile Wallet Application Software for payment on electronic machines through business through money transfer of the deal of purchase of quantity and item of different varieties of ways of billing payment through computer 🖥️ mobile 📲 💻 laptop.,2026-07-01T17:10:09,4.8.3.1
+en-np,e4902b0b-15d5-449b-86d8-5cbf299e7898,Heart Broker,1,"Terrible App, too much Transaction Issues other side make payments but it hold in the middle, which degrades relations between two sides pathetic app",2026-07-01T14:50:34,3.13.4.0
+en-np,63533ee8-0254-4316-87b3-0478f5c36fda,Physco King,3,I cannot give you 5 out of 5 rating because nowadays esewa not work properly 🥲 I requested to esewa to fix this problem shortly. Thank you 🙏🏻,2026-07-01T14:33:54,
+en-np,c5eb618f-7c3c-47af-ac09-ea7141b01658,Waiba Bahadur,5,it is best,2026-07-01T12:19:24,
+en-np,3040bfd4-25f2-4a8d-8f98-383eefe79bd2,Salman Dewan,1,nice 👍,2026-07-01T10:34:08,
+en-np,c7604f5b-fb5b-4222-a0fa-2dd29f683af9,Ramesh Chaudhary,1,useless unable to install after reaching 100% though,2026-07-01T08:47:43,
+en-np,0f2aa4db-658f-414e-a2da-9038effa112c,david dangol,3,nice,2026-07-01T08:34:07,4.8.3.1
+en-np,dabe4fc1-74a5-4138-9f1a-b5cbdfa88f86,Roshan shah,5,h how,2026-06-30T23:44:51,4.8.3.1
+ne-np,30fdf2d6-4997-4e74-823a-7f44c430be6a,Ngima Dendi Sherpa,1,अनावश्यक पैसा काट्ने रहेछ।,2026-07-31T03:13:27,4.9.0.0
+ne-np,2b15df30-829b-4b11-b841-c2f466d9936f,raj kumar Shrestha,5,ahile samma tw thikai xa,2026-07-19T05:51:21,4.8.3.1

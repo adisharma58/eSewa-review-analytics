@@ -1,0 +1,5 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,780d831c-0613-43c5-ab27-d17e478e4c0c,Mahesh Sharma,1,"Bug report! switching to new phone, the app wants to request otp to log me in but it fails to populate the message to request otp and therefore I never get otp and cannot log in via my new device",2026-02-22T16:05:18,
+en-np,f76aa5d4-29cb-454c-b87b-703b08aee7e7,Saugat Limbu,1,"esewa takes too much time to verify. Even after submitting all required documents properly, my account still gets rejected after a long wait.",2026-02-22T11:33:06,4.8.0.0
+en-np,ae06e525-2f0d-4605-8818-0c765dfb06fb,Jagat maya Prajapati,5,very nice,2026-02-22T09:55:43,
+en-np,a276c189-d27c-406b-9d3d-ee806ddab99b,Deepa Gurung,5,good,2026-02-22T03:35:02,4.8.0.0

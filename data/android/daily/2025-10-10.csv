@@ -1,0 +1,3 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,bcf53ae0-cd08-4358-a71e-825cf47c8140,Arjun Sharma,5,good,2025-10-10T09:29:01,4.7.0.1
+en-np,dfcdb1ba-125b-49e6-b32b-cb03ddf7f4c2,subarna manandhar,2,"Bug was found while trying to use the ""Link Bank Accounts"" feature. The ""Account Holder Name"" field is incorrectly set as a dropdown instead of a text field, which makes the feature unusable.",2025-10-10T07:54:22,4.3.3.4

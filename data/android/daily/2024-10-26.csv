@@ -1,0 +1,4 @@
+﻿locale,review_id,author,rating,review_text,date,app_version
+en-np,64d1f886-a02d-4025-8921-0b57597ab3ee,Ayush Khatri,1,Worst,2024-10-26T17:16:49,
+en-np,8cca003f-e8fc-4124-b35a-54c387c60e36,Bikash Raut,5,bikash bhartapur,2024-10-26T17:02:50,
+en-np,087698b6-9c24-4ec9-8fac-d86e04cb9c51,bishow740,1,"It's not working properly while doing login and also while i forget my mpin i try using method forget mpin and it says send message to get otp but it is just cutting my balance and said that ""The request may have already expired, or the mobile number used to send SMS did not match your eSewa ID. Please check and try again."" Saying these kind of thing even though i send sms through my regular number and while calling esewa assistant they even don't pick call but cutting money from balance .",2024-10-26T13:15:00,3.7.6.1
