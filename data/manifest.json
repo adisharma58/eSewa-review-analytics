@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-09T21:06:34+00:00",
-  "last_run_new_reviews": 0,
+  "last_run_utc": "2026-09-10T21:06:35+00:00",
+  "last_run_new_reviews": 1,
   "last_run_skipped_today": 0,
-  "total_reviews_seen": 881,
+  "total_reviews_seen": 882,
   "daily_files": [
     "daily/2013-03-12.csv",
     "daily/2013-03-14.csv",
@@ -603,7 +603,8 @@
     "daily/2026-08-20.csv",
     "daily/2026-08-22.csv",
     "daily/2026-08-24.csv",
-    "daily/2026-08-26.csv"
+    "daily/2026-08-26.csv",
+    "daily/2026-09-09.csv"
   ],
   "monthly_files": [
     "monthly/2013-03.csv",
@@ -720,7 +721,8 @@
     "monthly/2026-05.csv",
     "monthly/2026-06.csv",
     "monthly/2026-07.csv",
-    "monthly/2026-08.csv"
+    "monthly/2026-08.csv",
+    "monthly/2026-09.csv"
   ],
   "missing_days_current_month": [
     "2026-09-01",
@@ -731,6 +733,6 @@
     "2026-09-06",
     "2026-09-07",
     "2026-09-08",
-    "2026-09-09"
+    "2026-09-10"
   ]
 }
