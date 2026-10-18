@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-17T20:51:08+00:00",
-  "last_run_new_reviews": 1,
+  "last_run_utc": "2026-10-18T20:58:39+00:00",
+  "last_run_new_reviews": 2,
   "last_run_skipped_today": 0,
-  "total_reviews_seen": 892,
+  "total_reviews_seen": 894,
   "daily_files": [
     "daily/2013-03-12.csv",
     "daily/2013-03-14.csv",
@@ -614,7 +614,8 @@
     "daily/2026-10-06.csv",
     "daily/2026-10-12.csv",
     "daily/2026-10-14.csv",
-    "daily/2026-10-16.csv"
+    "daily/2026-10-16.csv",
+    "daily/2026-10-17.csv"
   ],
   "monthly_files": [
     "monthly/2013-03.csv",
@@ -746,6 +747,6 @@
     "2026-10-11",
     "2026-10-13",
     "2026-10-15",
-    "2026-10-17"
+    "2026-10-18"
   ]
 }
