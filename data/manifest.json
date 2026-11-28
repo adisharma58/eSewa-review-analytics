@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-27T01:53:09+00:00",
-  "last_run_new_reviews": 1,
+  "last_run_utc": "2026-11-28T01:36:03+00:00",
+  "last_run_new_reviews": 0,
   "last_run_skipped_today": 0,
   "total_reviews_seen": 910,
   "daily_files": [
@@ -764,6 +764,7 @@
     "2026-11-19",
     "2026-11-22",
     "2026-11-24",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
   ]
 }
